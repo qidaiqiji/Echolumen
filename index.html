@@ -1,0 +1,719 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <title></title>
+    <link rel="stylesheet" href="./css/reset.css">
+    <link rel="stylesheet" href="./css/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="./css/common.css">
+    <link rel="stylesheet" href="./css/main.css">
+    <link rel="icon" href="./images/favicon.ico">
+    <script type="text/javascript">
+        // 　　document.documentElement.style.fontSize = document.documentElement.clientWidth / 750*100 + 'px';
+        var setFontSize = function () {
+            var deviceWidth = document.documentElement.clientWidth;
+            if (deviceWidth > 960) deviceWidth = 960;
+            document.documentElement.style.fontSize = deviceWidth / 750 * 100 + 'px';
+        }
+        setFontSize();
+        window.addEventListener('resize', setFontSize);
+    </script>
+    <script src="./utils/jquery-3.2.1.min.js"></script>
+</head>
+
+<body class="page-index">
+    <header>
+        <div class="header">
+            <div class="header-inner">
+                <a href="./" class="header-logo">
+                    <img src="../images/logo.png" alt="EchoLumen" />
+                </a>
+                <div class="header-menu mobile-menu" id="header-menu">
+                    <ul class="header-menu-ul">
+                        <li class="menu-item menu-active" id="in0">
+                            <a href="./" class="menu-link">HOME</a>
+                            <div class="subMenu">
+                                <ul class="subMenu-ul"></ul>
+                            </div>
+                        </li>
+                        <li class="menu-item" id="in01">
+                            <a href="./about" class="menu-link">ABOUT US</a>
+                        </li>
+                        <li class="menu-item" id="in02">
+                            <a href="../../../../products" class="menu-link has-sub">PRODUCTS</a>
+                            <div class="subMenu">
+                                <ul class="subMenu-ul">
+                                    <li class="subMenu-item">
+                                        <a class="submenu-fold active">
+                                            <i class="fa fa-caret-down"></i>
+                                            <span>LED Car Light</span>
+                                        </a>
+                                        <div class="fold-menu foldMenu-active">
+                                            <a class="subMenu-link" href="./products/led-car-light/led-headlight-bulb/">
+                                                LED Headlight Bulb
+                                            </a>
+                                            <a class="subMenu-link" href="./products/led-car-light/led-off-road-light/">
+                                                LED Off Road Light
+                                            </a>
+                                            <a class="subMenu-link" href="./products/led-car-light/car-interior-light/">
+                                                Car Interior Light
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="subMenu-item">
+                                        <a class="submenu-fold active">
+                                            <i class="fa fa-caret-down fa-rotate-270"></i>
+                                            <span>LED Solar Light</span>
+                                        </a>
+                                        <div class="fold-menu foldMenu-active">
+                                            <a class="subMenu-link" href="./products/led-solar-light/solar-garden-light/">
+                                                Solar Garden Light
+                                            </a>
+                                            <a class="subMenu-link" href="./products/led-solar-light/solar-wall-light/">
+                                                Solar Wall Light
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="subMenu-item">
+                                        <a class="submenu-fold active">
+                                            <i class="fa fa-caret-down fa-rotate-270"></i>
+                                            <span>LED Light</span>
+                                        </a>
+                                        <div class="fold-menu foldMenu-active">
+                                            <a class="subMenu-link" href="./products/led-light/led-garage-light/">
+                                                LED Garage Light
+                                            </a>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="menu-item" id="in05">
+                            <a href="./led-academy" class="menu-link">LED ACADEMY</a>
+                        </li>
+                        <li class="menu-item" id="in07">
+                            <a href="./contact" class="menu-link">CONTACT</a>
+                        </li>
+                        <li class="menu-item">
+                            <span class="language">
+                                <a href="" style="color: #bc261a" class="current">EN </a>
+                                <a href="" style="color: #fff"> ES</a>
+                            </span>
+                        </li>
+                    </ul>
+                </div>
+                <div class="mobile-header" id="mobile-header">
+                    <span class="iconfont">&#xe660;</span>
+                </div>
+            </div>
+        </div>
+    </header>
+    <div class="container">
+        <div class="banner">
+            <ul>
+                <li>
+                    <a href="product-detail/ec-series.php">
+                        <img src="images/bg.jpg" alt="ec-series" />
+                        <span class="view-more bg" style="right:33%;bottom:22%">View More</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="product-detail/cr-series.php">
+                        <img src="images/bg1-1.jpg" alt="cr-series" />
+                        <span class="view-more bg1">View More</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="product-detail/lm-series.php">
+                        <img src="images/bg2-1.jpg" alt="lm-series" />
+                        <span class="view-more bg2" style="right:30%;bottom:27%">View More</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="product-detail/hd-series.php">
+                        <img src="images/bg3-1.jpg" alt="hd-series" />
+                        <span class="view-more bg3" style="right:24%">View More</span>
+                    </a>
+                </li>
+
+            </ul>
+        </div>
+        <!-- products开始 -->
+        <div class="product section">
+            <h1 class="title-box">
+                <span class="title">FEATURED PRODUCTS</span>
+            </h1>
+            <h2 class="sub-title">The best and comprehensive products for customers' wide choices</h2>
+            <div class="product-list">
+                <div class="product-item">
+                    <a class="thumb" href="./products/led-car-light/led-headlight-bulb/ecl-e13/">
+                        <img src="./images/home/LED-Headlight-ECL-E13.jpg" alt="ec-series" />
+                    </a>
+                    <a class="list-title" href="/product-detail/ec-series.php">
+                        <span class="current">LED Headlight ECL-E13</span><span class="more">View More</span>
+                    </a>
+                </div>
+                <div class="product-item">
+                    <a class="thumb" href="./products/led-car-light/led-headlight-bulb/ecl-e9k/">
+                        <img src="./images/home/LED-Headlight-ECL-E9K.jpg" alt="ec-series" />
+                    </a>
+                    <a class="list-title" href="/product-detail/ec-series.php">
+                        <span class="current">LED Headlight ECL-E9K</span><span class="more">View More</span>
+                    </a>
+                </div>
+                <div class="product-item">
+                    <a class="thumb" href="./products/led-car-light/led-off-road-light/ecl-ev84/">
+                        <img src="./images/home/LED-Work-Light-ECL-EV84.jpg" alt="ec-series" />
+                    </a>
+                    <a class="list-title" href="/product-detail/ec-series.php">
+                        <span class="current">LED Work Light ECL-EV84</span><span class="more">View More</span>
+                    </a>
+                </div>
+                <div class="product-item">
+                    <a class="thumb" href="./products/led-light/led-garage-light/egl-zz80/">
+                        <img src="./images/home/LED-Garage-Light-EGL-ZZ80.jpg" alt="ec-series" />
+                    </a>
+                    <a class="list-title" href="/product-detail/ec-series.php">
+                        <span class="current">LED Garage Light EGL-ZZ80</span><span class="more">View More</span>
+                    </a>
+                </div>
+            </div>
+            <div class="product-list" style="margin-bottom: 120px;">
+                <div class="product-item">
+                    <a class="thumb" href="./products/led-light/led-garage-light/egl-yz120/">
+                        <img src="./images/home/LED-Garage-Light-EGL-YZ120.jpg" alt="ec-series" />
+                    </a>
+                    <a class="list-title" href="/product-detail/ec-series.php">
+                        <span class="current">LED Garage Light EGL-YZ120</span><span class="more">View More</span>
+                    </a>
+                </div>
+                <div class="product-item">
+                    <a class="thumb" href="./products/led-solar-light/solar-garden-light/esg-s02/">
+                        <img src="./images/home/Solar-Garden-Light-ESG-S02.jpg" alt="ec-series" />
+                    </a>
+                    <a class="list-title" href="/product-detail/ec-series.php">
+                        <span class="current">Solar Garden Light ESG-S02</span><span class="more">View More</span>
+                    </a>
+                </div>
+                <div class="product-item">
+                    <a class="thumb" href="./products/led-solar-light/solar-wall-light/esw-01/">
+                        <img src="./images/home/Solar-Wall-Light-ESW-01.jpg" alt="ec-series" />
+                    </a>
+                    <a class="list-title" href="/product-detail/ec-series.php">
+                        <span class="current">Solar Wall Light ESW-01</span><span class="more">View More</span>
+                    </a>
+                </div>
+                <div class="product-item">
+                    <a class="thumb" href="./products/led-solar-light/solar-wall-light/esw-268/">
+                        <img src="./images/home/Solar-Wall-Light-ESW-268.jpg" alt="ec-series" />
+                    </a>
+                    <a class="list-title" href="/product-detail/ec-series.php">
+                        <span class="current">Solar Wall Light ESW-268</span><span class="more">View More</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <!-- products结束 -->
+        <!-- about开始 -->
+        <div class="about section">
+            <h1 class="title-box">
+                <span class="title">ABOUT ECHOLUMEN</span>
+                <h2 class="sub-title">Your trusted LED lighting solution provider and value-added partner</h2>
+            </h1>
+            <div>
+                <img src="./images/home/about1.jpg" alt="cinstar" />
+                <div class="desc">
+                    Oriented by high performance quality product and customer's satisfaction, EchoLumen is a leading  LED light, LED solar light and LED car light manufacturer that offers durable LED light products to meet the wide variety of demands of our customers around the world. In order to cater to the precise expectations of our customers, we have divided our products into four ranges: LED car light, LED solar light and LED light (LED garage light). All our products adopt high standard LEDs as light source ensuring its top stability and supreme service time. Among them, the solar garden light and solar wall light are driven by solar power and featured high IP65 to resist any weather conditions. For each product range, EchoLumen has a series of designs for our customers to choose and we are willing and capable of taking OEM/ODM request from customers.
+                </div>
+            </div>
+            <div style="padding-bottom: 70px;margin-bottom: 0;">
+                <div class="desc">
+                    <p>
+                        EchoLumen team are industry veterans with more than 10 years experience of lighting design and production management. In addition, we are cooperating with reputable analytics companies to capture the market trend and provide data support for our product managers and sophisticated product designers to create more innovative and novel products to maintain our competitiveness and offers more business possibilities for our customers. 
+                    </p>
+                    <p>
+                        As a trusted LED solar light and LED car light manufacturer, our entire LED products manufacturing process takes place under strict supervision of our production engineers. EchoLumen constantly improve the quality performance of our products by adopting new technology and materials to squeeze production costs and help to grow our customers' business.
+                    </p>
+                </div>
+                <img src="./images/home/about2.jpg" alt="cinstar" />
+            </div>
+        </div>
+        <!-- about结束 -->
+        <!-- what we do开始 -->
+        <div class="what section">
+            <h1 class="title-box">
+                <span class="title">what we do</span>
+            </h1>
+            <h2 class="sub-title">Wide ranges of LED car light and LED solar light products catering to customers' forwarding needs</h2>
+            <div class="product-list">
+                <div class="what-item">
+                    <a class="thumb" href="/product-detail/ec-series.php">
+                        <img src="./images/home/LED-Car-Light.jpg" alt="ec-series" />
+                        <div class="list-title">LED Garden Light</div>
+                    </a>
+                    <div class="desc">
+                        <p>LED Garden Light</p>
+                        <p class="detail">
+                            EchoLumen has a wide range of LED car light which including LED headlight bulb (LED car headlight and LED truck headlight), LED off road light, car interior light and atmosphere light for car, SUV and truck etc. Adopting strictly selected high lumen LED chips and delicate designs, EchoLumen's LED car light is featured with high brightness, concentrated beam light and excellent waterproof performance IP68, which ensuring you a best ever driving/visual experience at night and help to reduce the risk of accidents while driving at dark night. EchoLumen LED car light meets all types of sockets like H1, H4, H8, 9005, 9006 etc, basically works for all car brands. 
+                        </p>
+                    </div>
+                </div>
+                <div class="what-item">
+                    <a class="thumb" href="/product-detail/ec-series.php">
+                        <img src="./images/home/LED-Garden-Light.jpg" alt="ec-series" />
+                        <div class="list-title">Solar Garden Light</div>
+                    </a>
+                    <div class="desc">
+                        <p>Solar Garden Light</p>
+                        <p class="detail">
+                            EchoLumen solar garden light or LED garden light is powered by solar energy to maintain the sustainable running of the LED solar light when it is dark. We supply two types of solar LED garden light, one is LED spot light/lawn lamp, which you can simply insert its base into the ground and expose its solar panel in the sun. Another is pillar LED solar light, which can be placed on top of pillars to decorate the garden, park, walk street and cultural square etc. EchoLumen LED garden light or solar garden light not only meets its basic lighting function, what more important is they can beautify the dark night and gives you a wonderful visual enjoyment.
+                        </p>
+                    </div>
+                </div>
+                <div class="what-item">
+                    <a class="thumb" href="/product-detail/ec-series.php">
+                        <img src="./images/home/LED-Wall-Light.jpg" alt="ec-series" />
+                        <div class="list-title">Solar Wall Light</div>
+                    </a>
+                    <div class="desc">
+                        <p>Solar Wall Light</p>
+                        <p class="detail">
+                            EchoLumen solar wall light or LED wall light is featured with high lumen LEDs for high brightness output and excellent durability and stability, high profile housing and high IP rating IP65 make it working perfectly at any harsh weather conditions. The solar wall light or LED wall light is driven by solar power which is free and easy to get, extremely simple installation and maintenance maintain its operating cost at a very low level. EchoLumen offers numerous designs/appearance of solar wall light or LED wall light for different lighting conditions, the powerful solar panel and high quality battery provide sufficient light supply for a whole night. All these features can meet all your expectations on function, quality and cost effectiveness.
+                        </p>
+                    </div>
+                </div>
+                <div class="what-item">
+                    <a class="thumb" href="/product-detail/ec-series.php">
+                        <img src="./images/home/LED-Garage-Light.jpg" alt="ec-series" />
+                        <div class="list-title">LED Garage Light</div>
+                    </a>
+                    <div class="desc">
+                        <p>LED Garage Light</p>
+                        <p class="detail">
+                            EchoLumen LED garage light is applying high quality LEDs for high lumen brightness output to ensure the excellent lighting performance. This deformable LED garage light can be folded or unfolded to get different lighting angles. EchoLumen LED garage light is designed with different appearances/styles and different power consumption to get the best lighting effect at different suspension height. The pure white with 6000-6500K color temperature is capable of supplying sufficient light for the garage, workshop, barn, warehouse, supermarket and stadium etc.  In addition, the high profile housing aluminum material is working perfect to conduct the heat generated by the LEDs and make sure the best working conditions of the LED garage light. 
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- who we are结束 -->
+        <!-- why-choose开始 -->
+        <div class="why-choose">
+            <div>
+                <h1 class="title-box">
+                    <span class="title">Why Choose EchoLumen</span>
+                </h1>
+                <h2 class="sub-title">Focusing on product performance and customers' satisfaction oriented</h2>
+                <div class="icon-list">
+                    <div class="icon-item">
+                        <span class="icon">
+                            <i class="fa fa-thumbs-up"></i>
+                        </span>
+                        <div class="desc">
+                            <span class="icon-title">
+                                Industry Experts
+                            </span>
+                            <p class="detail">
+                                EchoLumen team are veterans in the industry and managed hundreds of projects. We are passionate to meet customer's needs with high quality LED products.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="icon-item">
+                        <span class="icon">
+                            <i class="fa fa-flash"></i>
+                        </span>
+                        <div class="desc">
+                            <span class="icon-title">
+                                High Efficiency
+                            </span>
+                            <p class="detail">
+                                EchoLumen practices flat management to streamline operating process and support our customers more efficiently and effectively. We are quick responsive to each request.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="icon-item">
+                        <span class="icon">
+                            <i class="fa fa-handshake-o"></i>
+                        </span>
+                        <div class="desc">
+                            <span class="icon-title">
+                                Trusted Partner
+                            </span>
+                            <p class="detail">
+                                EchoLumen is committed to be a trusted partner by providing high performance products and technical supports only, we stand our ground and never compete with our customers.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="icon-list">
+                    <div class="icon-item">
+                        <span class="icon">
+                            <i class="fa fa-gears"></i>
+                        </span>
+                        <div class="desc">
+                            <span class="icon-title">
+                                Manufacturing Ability
+                            </span>
+                            <p class="detail">
+                                EchoLumen has comprehensive factory management system, production flow and quality control system to ensure the high standard LED products output.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="icon-item">
+                        <span class="icon">
+                            <i class="fa fa-sliders"></i>
+                        </span>
+                        <div class="desc">
+                            <span class="icon-title">
+                                OEM/ODM Solutions
+                            </span>
+                            <p class="detail">
+                                EchoLumen is interested and has ability to take OEM/ODM request to help our customers
+                                diversifying their product structure and increase their competitiveness.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="icon-item">
+                        <span class="icon">
+                            <i class="fa fa-diamond"></i>
+                        </span>
+                        <div class="desc">
+                            <span class="icon-title">
+                                Value-Added Services
+                            </span>
+                            <p class="detail">
+                                EchoLumen has strong willing to build a mutual trust partnership with customers by exchanging market  and industry information to help them grow their business.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- why-choose结束 -->
+        <!-- project-show开始 -->
+        <div class="project section">
+            <h1 class="title-box">
+                <span class="title">Project Show</span>
+            </h1>
+            <h2 class="sub-title">The most cost effective products for customers to maximize their profit</h2>
+            <div class="project-list">
+                <div class="project-item">
+                    <img src="./images/home/LED-Work-Light-ECL-EV72.jpg" alt="LED-Work-Light-ECL-EV72" />
+                    <div class="breif-desc">
+                        LED Work Light ECL-EV72
+                    </div>
+                </div>
+                <div class="project-item">
+                    <img src="./images/home/LED-Work-Light-ECL-EV120.jpg" alt="LED-Work-Light-ECL-EV120" />
+                    <div class="breif-desc">
+                        LED Work Light ECL-EV120
+                    </div>
+                </div>
+                <div class="project-item">
+                    <img src="./images/home/LED-Garage-Light-EGL-YZ120-case.jpg" alt="LED-Garage-Light-EGL-YZ120" />
+                    <div class="breif-desc">
+                        LED Garage Light EGL-YZ120
+                    </div>
+                </div>
+            </div>
+            <div class="project-list">
+                <div class="project-item">
+                    <img src="./images/home/Solar-Garden-Light-ESU-02.jpg" alt="Solar-Garden-Light-ESU-02" />
+                    <div class="breif-desc">
+                        Solar Garden Light ESU-02
+                    </div>
+                </div>
+                <div class="project-item">
+                    <img src="./images/home/Car-Interior-Light-ECL-DE48U.jpg" alt="Car-Interior-Light-ECL-DE48U" />
+                    <div class="breif-desc">
+                        Car Interior Light ECL-DE48U
+                    </div>
+                </div>
+                <div class="project-item">
+                    <img src="./images/home/Solar-Garden-Light-ESG-4W.jpg" alt="Solar-Garden-Light-ESG-4W" />
+                    <div class="breif-desc">
+                        Solar Garden Light ESG-4W
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- project-show结束 -->
+        <!-- insights开始 -->
+        <div class="insights">
+            <h1 class="title-box">
+                <span class="title">EchoLumen insights</span>
+            </h1>
+            <div class="insights-container">
+                <a class="left"><i class="fa fa-angle-left"></i></a>
+                <div class="img-container">
+                    <ul class="imgList">
+                        <li>
+                            <a href="products/rental-led.php">
+                                <img src="./images/home/insight-1.jpg" alt="rental-market"/>
+                            </a>
+                            <a class="item-title">
+                                Rental LED Display
+                            </a>
+                            <p class="content">
+                            </p>
+                        </li>
+                        <li>
+                            <a href="products/rental-led.php">
+                                <img src="./images/home/insight-2.jpg" alt="rental-market"/>
+                            </a>
+                            <a class="item-title">
+                                Rental LED Display
+                            </a>
+                            <p class="content">
+                            </p>
+                        </li>
+                        <li>
+                            <a href="products/rental-led.php">
+                                <img src="./images/home/insight-3.jpg" alt="rental-market"/>
+                            </a>
+                            <a class="item-title">
+                                Rental LED Display
+                            </a>
+                            <p class="content">
+                            </p>
+                        </li>
+                        <li>
+                            <a href="products/rental-led.php">
+                                <img src="./images/home/insight-4.jpg" alt="rental-market"/>
+                            </a>
+                            <a class="item-title">
+                                Rental LED Display
+                            </a>
+                            <p class="content">
+                            </p>
+                        </li>
+                        <li>
+                            <a href="products/rental-led.php">
+                                <img src="./images/home/insight-5.jpg" alt="rental-market"/>
+                            </a>
+                            <a class="item-title">
+                                Rental LED Display
+                            </a>
+                            <p class="content">
+                            </p>
+                        </li>
+                        <li>
+                            <a href="products/rental-led.php">
+                                <img src="./images/home/insight-6.jpg" alt="rental-market"/>
+                            </a>
+                            <a class="item-title">
+                                Rental LED Display
+                            </a>
+                            <p class="content">
+                            </p>
+                        </li>
+                    </ul>
+                </div>
+                <a class="right"><i class="fa fa-angle-right"></i></a>
+            </div>
+        </div>
+        <!-- insights结束 -->
+    </div>
+    <footer>
+        <div class="sepreate"></div>
+        <div class="footer">
+            <div class="footer-container">
+                <div class="footer-item footer-products">
+                    <div class="footer-title">
+                        <a href="../products">PRODUCTS</a>
+                    </div>
+                    <div class="footer-detail">
+                        <p><a href="../products/rental-led.php">Rental LED Display</a></p>
+                        <p><a href="../products/commercial-led.php">Commercial LED Display</a></p>
+                        <p><a href="../products/fine-pitch.php">Fine Pitch LED Display</a></p>
+                        <p><a href="../products/creative-led.php">Creative LED Display</a></p>
+                    </div>
+                </div>
+                <div class="footer-item footer-gallery">
+                    <div class="footer-title">
+                        <a href="../gallery">GALLERY</a>
+                    </div>
+                    <div class="footer-detail">
+                        <p><a href="../gallery-detail/rental-cases.php">Rental Event Cases</a></p>
+                        <p><a href="../gallery-detail/fixed-cases.php">Fixed Install Cases</a></p>
+                        <p><a href="../gallery-detail/fine-pitch-cases.php">Fine Pitch Cases</a></p>
+                    </div>
+                </div>
+                <div class="footer-item input-item">
+                    <div class="footer-title">
+                        GET A QUOTE
+                    </div>
+                    <div class="footer-detail">
+                        <form id="myform" name="myform" method="post" action="/quotes/Index/index"
+                            onSubmit="return Check()">
+                            <p class="input-line">
+                                <input type="text" name="name" maxlength="50" placeholder="Name">
+                                <input type="text" name="company" maxlength="50" placeholder="Company">
+                            </p>
+                            <p class="input-line">
+                                <input type="text" name="email" maxlength="50" placeholder="E-mail">
+                                <input type="text" name="tel" maxlength="50" placeholder="Telephone">
+                            </p>
+                            <textarea name="contents" maxlength="1000" placeholder="Message"></textarea>
+                            <button type="submit" class="submit foot-submit">Submit</button>
+                        </form>
+                    </div>
+                </div>
+                <script language="javascript">
+                    function Check() {
+                        if (document.myform.name.value.length == "") {
+                            alert("Your name is null!");
+                            document.myform.name.focus();
+                            return false;
+                        }
+                        if (document.myform.company.value.length == "") {
+                            alert("Company name is null!");
+                            document.myform.company.focus();
+                            return false;
+                        }
+                        if (document.myform.email.value.length == "") {
+                            alert("Email is null!");
+                            document.myform.email.focus();
+                            return false;
+                        }
+                        if (document.myform.tel.value.length == "") {
+                            alert("Telephone is null!");
+                            document.myform.tel.focus();
+                            return false;
+                        }
+                        if (document.myform.contents.value.length == "") {
+                            alert("Message is null!");
+                            document.myform.contents.focus();
+                            return false;
+                        }
+                    }
+                </script>
+
+                <!--Start of Tawk.to Script-->
+                <script type="text/javascript">
+                    var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+                    (function () {
+                        var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+                        s1.async = true;
+                        s1.src = 'https://embed.tawk.to/5d55529277aa790be32f093b/default';
+                        s1.charset = 'UTF-8';
+                        s1.setAttribute('crossorigin', '*');
+                        s0.parentNode.insertBefore(s1, s0);
+                    })();
+                </script>
+                <!--End of Tawk.to Script-->
+
+                <div class="footer-item footer-contact">
+                    <div class="footer-title">
+                        <a href="../contact">CONTACT</a>
+                    </div>
+                    <div class="footer-detail">
+                        <a class="companyName">Hongkong Cinstar Electronics Co., Limited</a>
+                        <a class="adderss">Building A, Hengchangrong technology park, Shiyan street, Boan district,
+                            Shenzhen, China</a>
+                        <a>sales@cinstar-led.com</a>
+                        <a class="phone">+86 183 2088 9297</a>
+                    </div>
+                    <div class="footer-social">
+                        <a href="https://www.facebook.com/Cinstar-Electronics-2334889366581201/?modal=admin_todo_tour"
+                            target="_blank"><i class="fa fa-facebook-f"></i></a>
+                        <a href="https://www.instagram.com/cinstarled/" target="_blank"><i
+                                class="fa fa-instagram"></i></a>
+                        <a href="https://twitter.com/Cinstar_led" target="_blank"><i class="fa fa-twitter"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="copy">
+            Copyright &copy; Cinstar Electronics. All Rights Reserved
+        </div>
+    </footer>
+    <!-- <script type="text/javascript" src="./inc/index.js"></script> -->
+    <!-- <script>GetCurStyle("home");</script> -->
+    <script src="utils/unslider.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            // $(".banner").unslider({
+            //     speed: 500,
+            //     delay: 5000,
+            //     dots: true,
+            //     fluid: true,
+            // })
+            // $('#customer-box').unslider({
+            //     fluid: true,
+            //     dots: true,
+            //     speed: 500,
+            //     delay: 20000,
+            // })
+            let screenWidth = $(window).width();
+            console.log("screenWidth", screenWidth)
+            if (screenWidth > 1200) {
+                $('.imgList li').css('width', screenWidth * 0.93 * 0.33)
+                let length = $('.imgList li').length;
+                console.log('ppp', length)
+                console.log('ccc', $('.imgList li').outerWidth(true))
+                let liWidth = $('.imgList li').outerWidth(true);
+                console.log('liWidth', Math.ceil((liWidth + 20) * length))
+                $('.imgList').css('width', Math.ceil((liWidth + 20) * length));
+                let num = 0;
+
+                $('.left').click(function () {
+                    num ++
+                    console.log('ddd', num)
+                    $('.imgList').css('left', num * (liWidth + 20));
+                    console.log('aaa', $('.imgList').css('left'))
+                    // $(".right i").css("color", '#bc261a')
+                    // if ($('.imgList').css('left') == '0px') {
+                    //     return;
+                    // } else {
+                    //     $('.imgList').css('left', num * (liWidth + 20));
+                    //     // $(".left i").css("color", '#fff')
+                    // }
+                })
+                $('.right').click(function () {
+                    num --
+                    console.log('ggg', num)
+                    $(".left i").css("color", '#bc261a')
+                    if ($('.imgList').css('left') == `${-liWidth - 20}px`) {
+                        return;
+                    } else {
+                        $('.imgList').css('left', num * (liWidth + 20));
+                        // $(".right i").css("color", '#fff')
+                        // num = 0;
+                    }
+                    // $('.imgList').css('left', num * (liWidth + 20));
+                    // console.log('bbb', $('.imgList').css('left'))
+                })
+            } else if (screenWidth < 767) {
+                $('.imgList li').css({
+                    'width': screenWidth * 0.9,
+                    'height': '200px'
+                })
+                $('.img-container').css('height', '900px')
+            }
+            console.log($('.submenu-fold'))
+            // $('.submenu-fold').click(function(e) {
+            //     var content = $('.fold-menu')
+            //     if ($(this).hasClass('active')) {
+            //         content.style.display = 'block'
+            //     }
+            // })
+            $('.submenu-fold').each(function(index) {
+                $(this).click(function() {
+                    console.log(index)
+                    $(this).toggleClass('active')
+                    console.log($('.fold-menu'))
+                    $('.fold-menu').eq(index).toggleClass("foldMenu-active");
+                })
+            })
+        })
+    </script>
+</body>
+
+</html>
