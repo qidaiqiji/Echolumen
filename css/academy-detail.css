@@ -1,0 +1,126 @@
+@charset "utf-8";
+.content-container{
+    width: 90%;
+    margin: 0.4rem auto;
+    display: flex;
+    justify-content: space-between;
+}
+.academy-title{
+    font-size: 34px;
+    font-weight: 600;
+    margin-bottom: 40px;
+    color: #000;
+}
+.academy-content {
+    width: 65%;
+    color:#222831;
+}
+.academy-content p{
+    line-height: 34px;
+    margin-bottom: 20px;
+}
+.academy-content span{
+    line-height:34px;
+}
+.academy-content p a{
+   color:#2b1fca
+}
+
+.img-box{
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+.img-box img{
+    width: 80%;
+    height: 100%;
+}
+.chapter-box{
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 6px;
+    border: 1px solid #bc261a;
+}
+.content-container ul{
+    margin-bottom: 20px;
+}
+.content-container li{
+    margin-bottom: 10px;
+}
+.chapter-box li i, .list i{
+    color: #bc261a;
+    font-size: 12px;
+    display: inline-block;
+    margin-right: 6px;
+}
+.chapter-title{
+    margin: 50px 0;
+}
+.academy-content h3{
+    font-weight: bold;
+    font-size: 26px;
+}
+.list i{
+    font-size: 14px;
+}
+.academy-content .sub-title{
+    margin-bottom: 10px;
+    margin-top:30px;
+    text-align: left;
+    display: flex;
+}
+
+/* -----------留言板------------ */
+.message-box{
+    /* width: 30%; */
+    width: 450px;
+    /* height: 100%; */
+    background: #54595f;
+    margin-top:40px;
+    border-radius: 12px;
+}
+.message-wrapper{
+    padding: 30px 50px;
+    width: 100%;
+    /* height: 100%; */
+    box-sizing: border-box;
+    height: 500px;
+}
+.quote-title{
+    font-size:26px;
+    font-weight:bold;
+    margin-bottom:30px;
+    /* color:#e50000; */
+    color:#fff;
+}
+.message-wrapper input, .message-wrapper textarea{
+    background: #54595f;
+    width: 100%;
+    margin-bottom: 16px;
+    padding:0 4px;
+    color:#fff;
+    font-size: 16px;
+    border: none;
+    border: 1px solid #f2f2f2;
+    box-sizing: border-box;
+}
+.message-wrapper input {
+    height:36px;
+}
+.message-wrapper textarea {
+    margin-top:0;
+}
+.message-wrapper input::-webkit-input-placeholder {
+    color:#fff;
+}
+.message-wrapper textarea::-webkit-input-placeholder {
+    color:#fff;
+}
+.fix{
+    position: fixed;
+    /* right: 6%; */
+    top: 20%;
+    height: auto;
+}

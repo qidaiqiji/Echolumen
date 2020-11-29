@@ -13,17 +13,9 @@
     <link rel="stylesheet" href="../css/font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/product.css">
+    <link rel="stylesheet" href="../css/category.css">
     <link rel="icon" href="../images/favicon.ico">
-    <script type="text/javascript">
-        // 　　document.documentElement.style.fontSize = document.documentElement.clientWidth / 750*100 + 'px';
-        var setFontSize = function () {
-            var deviceWidth = document.documentElement.clientWidth;
-            if (deviceWidth > 960) deviceWidth = 960;
-            document.documentElement.style.fontSize = deviceWidth / 750 * 100 + 'px';
-        }
-        setFontSize();
-        window.addEventListener('resize', setFontSize);
-    </script>
+    
     <script src="../utils/jquery-3.2.1.min.js"></script>
 </head>
 
@@ -32,7 +24,7 @@
         <div class="header">
             <div class="header-inner">
                 <a href="../" class="header-logo">
-                    <img src="../images/logo.png" alt="Cinstar" />
+                    <img src="../../../../images/logo.png" alt="EchoLumen" />
                 </a>
                 <div class="header-menu mobile-menu" id="header-menu">
                     <ul class="header-menu-ul">
@@ -43,10 +35,7 @@
                             </div>
                         </li>
                         <li class="menu-item" id="in01">
-                            <a href="../about" class="menu-link">ABOUT</a>
-                            <div class="subMenu">
-                                <ul class="subMenu-ul"></ul>
-                            </div>
+                            <a href="../about" class="menu-link">ABOUT US</a>
                         </li>
                         <li class="menu-item" id="in02">
                             <a href="../products" class="menu-link has-sub">PRODUCTS</a>
@@ -55,14 +44,31 @@
                                     <li class="subMenu-item">
                                         <a class="submenu-fold active">
                                             <i class="fa fa-caret-down"></i>
+                                            <span>LED Car Light</span>
+                                        </a>
+                                        <div class="fold-menu foldMenu-active">
+                                            <a class="subMenu-link" href="./led-car-light/led-headlight-bulb/">
+                                                LED Headlight Bulb
+                                            </a>
+                                            <a class="subMenu-link" href="./led-car-light/led-off-road-light/">
+                                                LED Off Road Light
+                                            </a>
+                                            <a class="subMenu-link" href="./led-car-light/car-interior-light/">
+                                                Car Interior Light
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="subMenu-item">
+                                        <a class="submenu-fold active">
+                                            <i class="fa fa-caret-down fa-rotate-270"></i>
                                             <span>LED Solar Light</span>
                                         </a>
                                         <div class="fold-menu foldMenu-active">
-                                            <a class="subMenu-link" href="../products/rental-led.php">
-                                                LED Garden Light
+                                            <a class="subMenu-link" href="./led-solar-light/solar-garden-light/">
+                                                Solar Garden Light
                                             </a>
-                                            <a class="subMenu-link" href="../products/rental-led.php">
-                                                LED Wall Light
+                                            <a class="subMenu-link" href="./led-solar-light/solar-wall-light/">
+                                                Solar Wall Light
                                             </a>
                                         </div>
                                     </li>
@@ -72,56 +78,25 @@
                                             <span>LED Light</span>
                                         </a>
                                         <div class="fold-menu foldMenu-active">
-                                            <a class="subMenu-link" href="../products/rental-led.php">
+                                            <a class="subMenu-link" href="./led-light/led-garage-light/">
                                                 LED Garage Light
-                                            </a>
-                                            <a class="subMenu-link" href="../products/rental-led.php">
-                                                LED Car Light
                                             </a>
                                         </div>
                                     </li>
                                 </ul>
                             </div>
                         </li>
-                        <li class="menu-item" id="in04">
-                            <a href="../gallery" class="menu-link has-sub">GALLERY</a>
-                            <div class="subMenu">
-                                <ul class="subMenu-ul">
-                                    <li class="subMenu-item">
-                                        <a class="subMenu-link" href="../gallery-detail/rental-cases.php">
-                                            <span>Rental Event Cases</span>
-                                        </a>
-                                    </li>
-                                    <li class="subMenu-item">
-                                        <a class="subMenu-link" href="../gallery-detail/fixed-cases.php">
-                                            <span>Fixed Install Cases</span>
-                                        </a>
-                                    </li>
-                                    <li class="subMenu-item">
-                                        <a class="subMenu-link" href="../gallery-detail/fine-pitch-cases.php">
-                                            <span>Fine Pitch Cases</span>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </li>
                         <li class="menu-item" id="in05">
                             <a href="../led-academy" class="menu-link">LED ACADEMY</a>
-                            <div class="subMenu">
-                                <ul class="subMenu-ul"></ul>
-                            </div>
-                        </li>
-                        <li class="menu-item" id="in06">
-                            <a href="../news" class="menu-link">NEWS</a>
-                            <div class="subMenu">
-                                <ul class="subMenu-ul"></ul>
-                            </div>
                         </li>
                         <li class="menu-item" id="in07">
                             <a href="../contact" class="menu-link">CONTACT</a>
-                            <div class="subMenu">
-                                <ul class="subMenu-ul"></ul>
-                            </div>
+                        </li>
+                        <li class="menu-item">
+                            <span class="language">
+                                <a href="" style="color: #bc261a" class="current">EN </a>
+                                <a href="" style="color: #fff"> ES</a>
+                            </span>
                         </li>
                     </ul>
                 </div>
@@ -133,102 +108,63 @@
     </header>
     <div class="container">
         <!-- banner图片 -->
-        <div class="banner"></div>
-        <div class="content">
+        <!-- <div class="banner"></div> -->
+        <div class="content" style="margin: 100px 0; margin-bottom: 40px;">
             <h1 class="title-box">
-                <span class="title">PRODUCTS</span>
+                <span class="title">products</span>
             </h1>
             <div class="main">
-                <ul class="products-nav">
-                    <li class="nav-link nav-title">
-                        <a href="javascript:;">
-                            PRODUCTS
-                        </a>
-                    </li>
-                    <li class="nav-link">
-                        <a href="javascript:;" class="nav-icon">
-                            <i class="fa fa-caret-down"></i>
-                            <span>LED Solar Light</span>
-                        </a>
-                    </li>
-                    <li class="nav-link">
-                        <a class="subNav-link" href="../products/rental-led.php">
-                            LED Garden Light
-                        </a>
-                    </li>
-                    <li class="nav-link">
-                        <a class="subNav-link" href="../products/rental-led.php">
-                            LED Wall Light
-                        </a>
-                    </li>
-                    <li class="nav-link">
-                        <a href="javascript:;" class="nav-icon">
-                            <i class="fa fa-caret-down"></i>
-                            <span>LED Light</span>
-                        </a>
-                    </li>
-                    <li class="nav-link">
-                        <a class="subNav-link" href="../products/rental-led.php">
-                            LED Garage Light
-                        </a>
-                    </li>
-                    <li class="nav-link">
-                        <a class="subNav-link" href="../products/rental-led.php">
-                            LED Car Light
-                        </a>
-                    </li>
-                </ul>
                 <ul class="list">
-                   <li class="item">
-                        <a class="thumb" href="/product-detail/ec-series.php">
-                            <img src="./images/1.jpeg" alt="ec-series" />
+                    <li class="item">
+                        <a class="thumb" href="../products/led-car-light/led-headlight-bulb/">
+                            <img src="../images/home/LED-Car-Light.jpg" alt="LED-Car-Light" />
                         </a>
                         <a class="desc">
-                            <span>view more</span>
+                            <span>LED Headlight Bulb</span>
                         </a>
-                   </li> 
-                   <li class="item">
-                        <a class="thumb" href="/product-detail/ec-series.php">
-                            <img src="./images/1.jpeg" alt="ec-series" />
-                        </a>
-                        <a class="desc">
-                            <span>view more</span>
-                        </a>
-                   </li>
-                   <li class="item">
-                        <a class="thumb" href="/product-detail/ec-series.php">
-                            <img src="./images/1.jpeg" alt="ec-series" />
+                    </li>
+                    <li class="item">
+                        <a class="thumb" href="../products/led-car-light/led-off-road-light/">
+                            <img src="../images/category/led-off-road-light-2.jpg" alt="led-off-road-light" />
                         </a>
                         <a class="desc">
-                            <span>view more</span>
+                            <span>LED Off Road Light</span>
                         </a>
-                    </li> 
+                    </li>
+                    <li class="item">
+                        <a class="thumb" href="../products/led-car-light/car-interior-light/">
+                            <img src="../images/category/car-interior-light-1.jpg" alt="car-interior-light-1" />
+                        </a>
+                        <a class="desc">
+                            <span>Car Interior Light</span>
+                        </a>
+                    </li>
+                    <li class="item">
+                        <a class="thumb" href="../products/led-light/led-garage-light/">
+                            <img src="../images/home/LED-Garage-Light.jpg" alt="LED-Garage-Light" />
+                        </a>
+                        <a class="desc">
+                            <span>LED Garage Light</span>
+                        </a>
+                    </li>
+                    <li class="item">
+                        <a class="thumb" href="../products/led-solar-light/solar-garden-light/">
+                            <img src="../images/home/LED-Garden-Light.jpg" alt="LED-Garden-Light" />
+                        </a>
+                        <a class="desc">
+                            <span>Solar Garden Light</span>
+                        </a>
+                    </li>
+                    <li class="item">
+                        <a class="thumb" href="../products/led-solar-light/solar-wall-light/">
+                            <img src="../images/home/LED-Wall-Light.jpg" alt="LED-Wall-Light" />
+                        </a>
+                        <a class="desc">
+                            <span>Solar Wall Light</span>
+                        </a>
+                    </li>
                 </ul>
             </div>
-            <!-- 留言板 -->
-            <!-- <div class="message-box">
-                <div class="message-wrapper">
-                    <p class="quote-title">NEED A QUOTE ?<p>
-                    <form id="myforms" name="myforms" method="post" action="/quotes/Index/index" onSubmit="return Checks()">
-                        <div class="contact-body">
-                            <p class="input-contact">
-                                <input type="text" placeholder="Name" maxlength="50" name="name" class="contact-input">
-                                <input type="text" placeholder="Company" maxlength="50" name="company" class="contact-input">
-                            </p>
-                            <p class="input-contact">
-                                <input type="text" placeholder="E-mail" maxlength="50" name="email" class="contact-input">
-                                <input type="text" placeholder="Telephone" maxlength="50" name="tel" class="contact-input">
-                            </p>
-                            <p class="input-contact">
-                                <textarea rows="5" placeholder="Message" name="contents" maxlength="1000" class="contact-textarea"></textarea>
-                            </p>
-                            <div class="btn">
-                                <button class="submit">Submit</button>
-                            </div>
-                        </div>
-                    </form>
-                </div>
-            </div> -->
         </div>
     </div>
     <footer>
@@ -331,31 +267,23 @@
             Copyright &copy; Cinstar Electronics. All Rights Reserved
         </div>
     </footer>
-    <script type="text/javascript" src="../inc/index.js"></script>
-    <script>GetCurStyle("home");</script>
-    <script src="../utils/unslider.min.js"></script>
+    <script type="text/javascript" src="../../../inc/index.js"></script>
+    <script src="../../../utils/unslider.min.js"></script>
     <script>
         $(document).ready(function () {
-            $('.submenu-fold').each(function(index) {
-                $(this).click(function() {
-                    console.log(index)
-                    $(this).toggleClass('active')
-                    console.log($('.fold-menu'))
-                    $('.fold-menu').eq(index).toggleClass("foldMenu-active");
-                })
-            })
+            
             const messageLeft = $(".products-nav").offset().left;
-            const messageTop = $(".products-nav").offset().top;
-            const messageWidth = $(".content").innerWidth();
-            $(window).scroll(function(){
-                if($(window).scrollTop()>messageTop+100) {
-                    $(".products-nav").addClass("fix");
-                    $(".products-nav").css({
-                        'left':messageLeft,
-                        // 'width':messageWidth*0.3,
-                    })
-                }else{
-                    $(".products-nav").removeClass("fix")
+            console.log('messageLeft', messageLeft)
+            const messageTop = $(".blog").offset().top;
+            console.log('messageTop', messageTop)
+            // const messageWidth = $(".content").innerWidth();
+            $(window).scroll(function () {
+                if ($(window).scrollTop() > messageTop + 240) {
+                    $(".products-nav").addClass("menu-fix");
+                    $(".message-box").addClass("menu-fix")
+                } else {
+                    $(".products-nav").removeClass("menu-fix")
+                    $(".message-box").removeClass("menu-fix")
                 }
             })
         })

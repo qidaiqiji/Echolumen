@@ -10,28 +10,27 @@
     width: 100%;
 }
 .about-desc{
-    margin:0.6rem auto;
+    margin:60px auto;
     width: 90%;
     color:#605b5b;
-    font-size: 0.14rem;
 }
 .about-desc .paragraph {
     width: 70%;
-    margin: 0.3rem auto;
+    margin: 30px auto;
     text-align: center;
     line-height: 30px;
 }
 
 .about-company{
     width: 100%;
-    margin: 0.6rem auto;
+    margin: 50px auto;
 }
 .about-company .head-title{
     margin: 0;
 }
 .imgBox{
     width: 90%;
-    margin:0.6rem auto;
+    margin:50px auto;
     display: flex;
     flex-wrap: wrap;
     justify-content:space-between;
@@ -39,7 +38,7 @@
 .img-item{
     width: 32%;
     max-height: 240px;
-    margin: 0.1rem 0;
+    margin: 10px 0;
 }
 .img-item img{
     width: 100%;
@@ -47,10 +46,10 @@
 }
 .support-icon{
     width: 90%;
-    margin: 0.8rem auto;
+    margin: 70px auto;
     display: flex;
     justify-content: space-between;
-    margin-bottom: 0.5rem;
+    margin-bottom: 50px;
 }
 .icon-item{
     width: 25%;
@@ -71,47 +70,45 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-bottom: 0.2rem;
+    margin-bottom: 20px;
 }
 .icon-item .icon-title{
-    font-size: 0.16rem;
-    line-height: 0.3rem;
+    line-height: 30px;
     text-transform: uppercase;
 }
 .support-desc{
     width: 80%;
     margin: 0 auto;
-    margin-bottom: 0.4rem;;
+    margin-bottom: 50px;;
 }
 .support-desc>p{
-    line-height: 0.24rem;
-    font-size: 0.14rem;
-    margin-bottom: 0.3rem;
+    line-height: 24px;
+    margin-bottom: 30px;
 }
 .support-desc b{
     text-transform:capitalize ;
 }
 .support-desc .desc-title{
-    margin-bottom: 0;
-    line-height: 0.14rem;
+    margin-bottom: 20px;
+    line-height: 14px;
 }
 .last{
-    margin-bottom: 0.3rem;
-    line-height: 0.24rem;
-    font-size: 0.13rem;
+    margin-bottom: 30px;
+    line-height: 24x;
+    font-size: 14px;
 }
 .seperate{
     width: 100%;
     height: 4px;
     background: #bc261a;
 }
-@media (max-width: 1024px){
+/* @media (max-width: 1024px){
     .about-desc .paragraph {
         width: 100%;
         font-size: 16px;
     }
     .about-container{
-        margin-top:1.2rem;
+        margin-top:1.2px;
     }
     .support-desc>p, .last, .list{
         font-size: 16px;
@@ -123,13 +120,13 @@
         height: auto;
     }
     .about-container {
-        margin-top:0.8rem;
+        margin-top:0.8px;
         
     }
 }
 @media (max-width: 767px) {
     .about-container {
-        margin-top:0.8rem;
+        margin-top:0.8px;
     }
     .img-item {
         width:100%;
@@ -147,12 +144,8 @@
         height: 30px;
     }   
     .support-desc>p{
-        /* font-size: 16px; */
         line-height: 30px;
     }
-    /* {
-        font-size: 10px;
-    } */
     .last, .list {
         font-size: 16px;
         line-height: 30px;
@@ -166,4 +159,4 @@
     .icon-item .icon-title{
         font-weight: bold;
     }
-}
+} */

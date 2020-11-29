@@ -63,11 +63,11 @@
 }
 .product-item img{
     width: 90%;
-    transform: scale(0.7);
+    transform: scale(0.8);
     transition:all .5s;
 }
 .product-item .thumb:hover img {
-    transform: scale(0.8);
+    transform: scale(0.9);
 }
 .product-item .list-title {
     display: block;
@@ -284,49 +284,68 @@
 }
 /* insights样式 */
 .insights {
-
-}
-.insights-container {
     width: 100%;
-    margin: 0.5rem auto;
+    margin: 50px auto;
     margin-bottom: 0;
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.insights-container .left, .insights-container .right {
+.img-box {
+    width: 93%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+    font-size: 0;
+    height: 460px;
+}
+.img-main {
+    position: absolute;
+    transition: 0.3s;
+    display: flex;
+}
+.insights i {
     width: 3%;
     display: block;
     text-align: center;
     cursor: pointer;
-    color: #bc261a;
     font-size: 40px;
+    color: red;
+    margin-bottom: 50px;
 }
-.img-container {
-    width: 93%;
-    height: 300px;
-    position: relative;
-    display: flex;
-    align-items: center;
+.insight-item {
+    width: 22%;
+    display: inline-block;
+    font-size: 16px;
+    margin: 0 20px;
+    height: 400px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.16);
+    margin-bottom: 100px;
+}
+.insight-item .text {
+    display: block;
+    padding: 0 20px;
+}
+.img-box .img {
+    display: block;
+    height: 160px;
+    width: 100%;
     overflow: hidden;
 }
-.imgList {
-    position: absolute;
-    left: 0;
-    transition: 0.5s;
-    font-size: 0;
-    
-}
-.imgList li {
-    width: 30%;
-    display: inline-block;
-    margin-right: 20px;
-}
-.imgList li a{
-    display: block;
-    width: 100%;
+.img-box .img img {
     height: 100%;
 }
-.imgList li img {
-    width: 100%;
+.text-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+.insight-item .insight-content {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 6;
+    overflow: hidden;
 }
