@@ -1,7 +1,10 @@
 @charset "utf-8";
+.container {
+    margin-top: 200px;
+}
 .content-container{
     width: 90%;
-    margin: 0.4rem auto;
+    margin: 40px auto;
     display: flex;
     justify-content: space-between;
 }
@@ -41,7 +44,7 @@
     padding: 20px;
     box-sizing: border-box;
     border-radius: 6px;
-    border: 1px solid #bc261a;
+    border: 1px solid #d81621;
 }
 .content-container ul{
     margin-bottom: 20px;
@@ -50,7 +53,7 @@
     margin-bottom: 10px;
 }
 .chapter-box li i, .list i{
-    color: #bc261a;
+    color: #d81621;
     font-size: 12px;
     display: inline-block;
     margin-right: 6px;

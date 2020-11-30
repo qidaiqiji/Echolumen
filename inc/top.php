@@ -69,7 +69,7 @@
                             </ul>
                         </div>
                     </li>
-                    <li class="menu-item" id="in05">
+                    <li class="menu-item" id="in03">
                         <a href="../led-academy" class="menu-link">LED ACADEMY</a>
                         <div class="subMenu">
                             <ul class="subMenu-ul"></ul>
@@ -81,7 +81,7 @@
                             <ul class="subMenu-ul"></ul>
                         </div>
                     </li>
-                    <li class="menu-item" id="in07">
+                    <li class="menu-item" id="in04">
                         <a href="../contact" class="menu-link">CONTACT</a>
                         <div class="subMenu">
                             <ul class="subMenu-ul"></ul>

@@ -14,8 +14,8 @@
     align-items: center;
 }
 .contact-item i{
-    font-size: 30px;
-    color: #bc261a;
+    font-size: 40px;
+    color: #d81621;
 }
 .contact-item .icon-box{
     width: 50px;
@@ -31,10 +31,10 @@
     margin: 20px 0;
     text-transform: uppercase;
     font-weight: bold;
+    margin-bottom: 40px;
 }
 .contact-item p{
-    font-size: 14px;
-    line-height: 18px;
+    line-height: 24px;
     text-align: center;
 }
 .contact-detail{
@@ -79,12 +79,12 @@
 .btn .submit{
     width: 254px;
     height: 64px;
-    border: 1px solid #bc261a;
+    border: 1px solid #d81621;
     text-align: center;
     line-height: 64px;
     border-radius: 0;
     font-size: 14px;
-    color:#bc261a;
+    color:#d81621;
     font-weight: bold;
 }
 .btn .submit:hover{

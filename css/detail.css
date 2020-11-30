@@ -4,7 +4,6 @@
 }
 img {
     width: 100%;
-    /* height: 100%; */
 }
 .detail-section {
     display: flex;
@@ -76,7 +75,7 @@ img {
     display: block;
     padding: 0 20px;
     text-align: center;
-    background: #bc261a;
+    background: #d81621;
     width: 100px;
     height: 40px;
     line-height: 40px;
@@ -129,14 +128,14 @@ img {
     border-bottom-color: transparent;
     vertical-align: middle;
     border-bottom-style: solid;
-    border-bottom-color: red;
+    border-bottom-color: #d81621;
     position: absolute;
     top: -10px;
     left: 50%;
     margin: 0 0 0 -5px;
 }
 .img-list .active {
-    border: 1px solid red;
+    border: 1px solid #d81621;
 }
 .img-list .active:after {
     display: block;
@@ -212,14 +211,14 @@ img {
 .info-detail {
     display: flex;
     justify-content: space-between;
-    margin: 100px 0;
+    margin: 120px 0;
     align-items: center;
 }
 .info-detail .img {
-    width: 45%;
+    width: 48%;
 }
 .info-detail .desc {
-    width: 45%;
+    width: 42%;
 }
 .info-detail .desc .sub-title {
     font-weight: bold;
@@ -247,10 +246,12 @@ img {
     justify-content: center;
 }
 .square img {
-    width: 90%
+    width: 100%;
+    height: 100%;
 }
 .square .banner {
-    width: 100%
+    width: 100%;
+    height: 100%;
 }
 .remark {
     font-weight: bold;

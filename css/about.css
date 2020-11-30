@@ -59,14 +59,14 @@
     align-items: center;
 }
 .support-icon .icon {
-    color: #bc261a;
+    color: #d81621;
     font-size: 40px;
     padding: 30px;
     width: 50px;
     height: 50px;
     border-radius: 50%;
     text-align: center;
-    border: 1px solid #bc261a;
+    border: 1px solid #d81621;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -100,7 +100,7 @@
 .seperate{
     width: 100%;
     height: 4px;
-    background: #bc261a;
+    background: #d81621;
 }
 /* @media (max-width: 1024px){
     .about-desc .paragraph {

@@ -28,7 +28,7 @@ $(document).ready(function () {
             console.log('Zoule')
             $(".subMenu-ul .subMenu-item").removeClass("menu-active");
             $this.parent().parent().parent().parent().addClass("menu-active");
-            $this[0].style.cssText = "background-color: #bc261a;color: #fff;"
+            $this[0].style.cssText = "background-color: #d81621;color: #fff;"
         }
     })
     $(".cat-subMenu-ul .cat-subMenu-link").each(function () {
@@ -39,7 +39,7 @@ $(document).ready(function () {
             console.log('Zoule')
             $(".cat-subMenu-ul .cat-subMenu-item").removeClass("menu-active");
             $this.parent().parent().parent().parent().addClass("menu-active");
-            $this[0].style.cssText = "background-color: #bc261a;color: #fff;"
+            $this[0].style.cssText = "background-color: #d81621;color: #fff;"
         }
     })
     $("#mobile-header").click(function () {
@@ -90,9 +90,9 @@ $(document).ready(function () {
     //         case "products": $("#in02").addClass("menu-active"); break;
     //         case "markets": $("#in03").addClass("menu-active"); break;
     //         case "gallery": $("#in04").addClass("menu-active"); break;
-    //         case "led-academy": $("#in05").addClass("menu-active"); break;
+    //         case "led-academy": $("#in03").addClass("menu-active"); break;
     //         case "news": $("#in06").addClass("menu-active"); break;
-    //         case "contact": $("#in07").addClass("menu-active"); break;
+    //         case "contact": $("#in04").addClass("menu-active"); break;
     //         default: level1 = "";
     //     }
     // }

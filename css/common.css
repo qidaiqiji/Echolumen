@@ -33,14 +33,14 @@ body {
     display: block;
     height: 2px;
     width: 70%;
-    background: #bc261a;
+    background: #d81621;
     position: absolute;
     left: 50%;
     bottom: -5px;
     margin-left: -35%;
 }
 .head-title a:hover{
-    color: #bc261a;
+    color: #d81621;
 }
 .header{
     width: 100%;
@@ -135,7 +135,7 @@ body {
     width: 100%;
     top:50%;
     margin-top:10px;
-    background:#bc261a;
+    background:#d81621;
     -webkit-transform: scaleX(0);
     transform: scaleX(0);
     -webkit-transition: transform .3s ease;
@@ -186,7 +186,7 @@ body {
     float: 1;
 }
 .submenu-fold:hover {
-    background: #bc261a;
+    background: #d81621;
     color: #fff;
 }
 
@@ -243,7 +243,7 @@ body {
     margin-right: 4px;
 }
 .cat-subMenu-ul li a:hover {
-    background: #bc261a;
+    background: #d81621;
     color: #fff;
 }
 .cat-subMenu-ul li .cat-subMenu-link {
@@ -276,7 +276,7 @@ body {
 .sepreate{
     width: 100%;
     height: 6px;
-    background: #bc261a;
+    background: #d81621;
     position: relative;
 }
 .footer{
@@ -300,10 +300,12 @@ body {
 }
 .footer-item .footer-title{
     font-size: 18px;
-    margin-bottom: 10px;
+    margin-bottom: 16px;
+    font-weight: bold;
 }
 .footer-title a {
     color:#fff;
+    font-weight: bold;
 }
 .footer-detail a{
     display: inline-block;
@@ -312,7 +314,7 @@ body {
     font-size: 14px;
 }
 .footer-detail .link:hover {
-    color: #bc261a;
+    color: #d81621;
 }
 .footer-detail .adderss{
     line-height: 20px;
@@ -328,6 +330,7 @@ form input{
     height: 30px;
     width: 140px;
     margin-right: 6px;
+    font-family: 'roboto'
 }
 input::-webkit-input-placeholder {
     font-family: 'roboto';
@@ -338,6 +341,7 @@ textarea::-webkit-input-placeholder{
 textarea{
     width: 300px;
     margin-top: 10px;
+    font-family: 'roboto';
 }
 .submit{
     width: 70px;
@@ -351,14 +355,15 @@ textarea{
     font-family: 'roboto';
     font-weight: bold;
     margin: 0 auto;
+    margin-bottom: 10px;
 }
 .foot-submit{
     font-size: 12px;
     margin-top: 10px;
-    margin-left: 230px;
+    margin-left: 0;
 }
 .submit:hover{
-    background: #bc261a;
+    background: #d81621;
     color: #fff;
 }
 .footer-detail .phone{
@@ -385,9 +390,13 @@ textarea{
     color:#a9a5a5;
     font-size: 12px;
 }
+.footer-detail p {
+    margin-bottom: 4px;
+}
 .footer-detail .companyName{
-    font-size: 14px;
+    font-size: 16px;
     font-weight: bold;
+    margin-left: 4px;
 }
 
 .menu-item:hover .subMenu {
@@ -436,15 +445,15 @@ textarea{
     height: 20px;
 }
 .subMenu-link:hover{
-    background-color: #bc261a;
+    background-color: #d81621;
     color: #fff;
 }
 .subMenu-link.submenu-item-active {
-    background-color: #bc261a;
+    background-color: #d81621;
     color: #fff;
 }
 .menu-link:hover{
-    color:#bc261a;
+    color:#d81621;
 }
 .menu-link:hover:after{
     -webkit-transform: scaleX(1);
@@ -456,7 +465,7 @@ textarea{
     transform: translateY(0);
 }
 .menu-active .menu-link{
-    color:#bc261a;
+    color:#d81621;
 }
 .menu-active .menu-link:after{
     -webkit-transform: scaleX(1);
@@ -473,7 +482,7 @@ textarea{
     text-align: center;
     padding: 40px 0;
 }
-.title {
+.title, .title-no-line {
     font-size: 32px;
     font-weight: bold;
     text-align: center;
@@ -481,13 +490,16 @@ textarea{
     position: relative;
     text-transform:uppercase;
 }
+.title-no-line {
+    color: #fff;
+}
 .title:after {
     position: absolute;
     content: "";
     display: inline-block;
     width: 80%;
     height: 2px;
-    background: red;
+    background: #d81621;
     bottom: -10px;
     left: 10%;
 
@@ -503,7 +515,7 @@ img {
 }
 /* --------留言板样式------- */
 .message-box{
-    width: 200px;
+    width: 220px;
     background: #54595f;
     margin-top:40px;
     border-radius: 12px;
@@ -511,7 +523,7 @@ img {
     right: 30px;
 }
 .message-wrapper{
-    padding: 10px;
+    padding: 14px;
     width: 100%;
     box-sizing: border-box;
     /* height: 500px; */
@@ -529,7 +541,7 @@ img {
 .message-wrapper input, .message-wrapper textarea{
     background: #54595f;
     width: 100%;
-    margin-bottom: 10px;
+    margin-bottom: 14px;
     padding:0 4px;
     color:#fff;
     font-size: 12px;
@@ -544,10 +556,10 @@ img {
     margin-top:0;
 }
 .message-wrapper input::-webkit-input-placeholder {
-    color:#fff;
+    color:#9c9c9c;
 }
 .message-wrapper textarea::-webkit-input-placeholder {
-    color:#fff;
+    color:#9c9c9c;
 }
 /* 产品页左侧导航栏样式 */
 .content {
@@ -594,7 +606,7 @@ img {
     margin-left: 20px;
 }
 .nav-link:hover {
-    background: #bc261a;
+    background: #d81621;
 }
 .nav-link:hover a{
     color: #fff;
@@ -633,6 +645,7 @@ img {
     width: 24px;
     text-align: center;
     line-height: 24px;
+    margin-right: 4px;
 }
 /* .footer-detail>span:not(:first-child) i {
     line-height: 24px;
