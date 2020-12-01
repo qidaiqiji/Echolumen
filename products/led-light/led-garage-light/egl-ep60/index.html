@@ -76,7 +76,7 @@
                                             <span>LED Light</span>
                                         </a>
                                         <div class="fold-menu foldMenu-active">
-                                            <a class="subMenu-link" href="../../led-garage-light/">
+                                            <a class="subMenu-link submenu-item-active" href="../../led-garage-light/">
                                                 LED Garage Light
                                             </a>
                                         </div>
@@ -158,7 +158,7 @@
                                         <span>LED Light</span>
                                     </a>
                                     <div class="fold-menu foldMenu-active">
-                                        <a class="cat-subMenu-link" href="../../led-garage-light/">
+                                        <a class="cat-subMenu-link submenu-item-active" href="../../led-garage-light/">
                                             LED Garage Light
                                         </a>
                                     </div>
@@ -215,6 +215,7 @@
                         </div>
                         <div class="instruction">
                             <h2>EchoLumen LED Garage Light 60W E26/E27 6000LM Deformable LED Garage Ceiling Lights 6500K Daylight White Garage LED Light with 4 Adjustable LED Panels for Warehouse Workshop Basement Lights</h2>
+                            <p>Model: EGL-EP60</p>
                             <p>LED: High Lumen SMD 2835</p>
                             <p>Color Temperature: 6000-6500K</p>
                             <p>Color Rendering Index(CRI): 85 +</p>
@@ -227,6 +228,7 @@
                             <p>Light Direction: Adjustable</p>
                             <p>Material: ABS + PC</p>
                             <p>Working Time: 50,000 Hours</p>
+                            <a class="inquery" href="mailto:info@echolumen.com">Inquiry</a>
                         </div>
                     </div>
                 </div>
@@ -323,28 +325,28 @@
             <div class="footer-container">
                 <div class="footer-item footer-products">
                     <div class="footer-title">
-                        <a href="products/">PRODUCTS</a>
+                        <a href="../../../../products/">PRODUCTS</a>
                     </div>
                     <div class="footer-detail">
-                        <p><a class="link" href="products/led-car-light/car-interior-light/">Car Interior Light</a></p>
-                        <p><a class="link" href="products/led-car-light/led-headlight-bulb/">led Headlight Bulb</a></p>
-                        <p><a class="link" href="products/led-car-light/led-off-road-light/">LED Off Road Light</a></p>
-                        <p><a class="link" href="products/led-light/led-garage-light/">LED Garage Light</a></p>
-                        <p><a class="link" href="products/led-solar-light/solar-garden-light/">Solar Garden Light</a></p>
-                        <p><a class="link" href="products/led-solar-light/solar-wall-light/">Solar Wall Light</a></p>
+                        <p><a class="link" href="../../../../products/led-car-light/car-interior-light/">Car Interior Light</a></p>
+                        <p><a class="link" href="../../../../products/led-car-light/led-headlight-bulb/">led Headlight Bulb</a></p>
+                        <p><a class="link" href="../../../../products/led-car-light/led-off-road-light/">LED Off Road Light</a></p>
+                        <p><a class="link" href="../../../../products/led-light/led-garage-light/">LED Garage Light</a></p>
+                        <p><a class="link" href="../../../../products/led-solar-light/solar-garden-light/">Solar Garden Light</a></p>
+                        <p><a class="link" href="../../../../products/led-solar-light/solar-wall-light/">Solar Wall Light</a></p>
                     </div>
                 </div>
                 <div class="footer-item footer-gallery">
                     <div class="footer-title">
-                        <a href="products/">FEATURED MODEL</a>
+                        <a href="../../../../products/">FEATURED MODEL</a>
                     </div>
                     <div class="footer-detail">
-                        <p><a class="link" href="products/led-car-light/led-headlight-bulb/ecl-e13/">LED Headlight ECL-E13</a></p>
-                        <p><a class="link" href="products/led-car-light/led-off-road-light/ecl-ev120/">Light Bar ECL-EV120</a></p>
-                        <p><a class="link" href="products/led-car-light/car-interior-light/ecl-de48c/">Light Strip ECL-DE48c</a></p>
-                        <p><a class="link" href="products/led-light/led-garage-light/egl-yz120/">Garage Light EGL-YZ120</a></p>
-                        <p><a class="link" href="products/led-solar-light/solar-garden-light/esu-02/">Garden Light ESU-02</a></p>
-                        <p><a class="link" href="products/led-solar-light/solar-wall-light/esw-01/">Wall Light ESW-01</a></p>
+                        <p><a class="link" href="../../../../products/led-car-light/led-headlight-bulb/ecl-e13/">LED Headlight ECL-E13</a></p>
+                        <p><a class="link" href="../../../../products/led-car-light/led-off-road-light/ecl-ev120/">Light Bar ECL-EV120</a></p>
+                        <p><a class="link" href="../../../../products/led-car-light/car-interior-light/ecl-de48c/">Light Strip ECL-DE48C</a></p>
+                        <p><a class="link" href="../../../../products/led-light/led-garage-light/egl-yz120/">Garage Light EGL-YZ120</a></p>
+                        <p><a class="link" href="../../../../products/led-solar-light/solar-garden-light/esu-02/">Garden Light ESU-02</a></p>
+                        <p><a class="link" href="../../../../products/led-solar-light/solar-wall-light/esw-01/">Wall Light ESW-01</a></p>
                     </div>
                 </div>
                 <div class="footer-item input-item">
@@ -369,7 +371,7 @@
                 
                 <div class="footer-item footer-contact">
                     <div class="footer-title">
-                        <a href="contact/">CONTACT</a>
+                        <a href="../../../../contact/">CONTACT</a>
                     </div>
                     <div class="footer-detail">
                         <!-- <a class="companyName">Huizhou EchoLumen Technology Co., Ltd</a>
@@ -408,75 +410,6 @@
                     console.log($('.fold-menu'))
                     $('.fold-menu').eq(index).toggleClass("foldMenu-active");
                 })
-            })
-            var productsLeft = $(".products-nav").offset().left;
-            var productsTop = $(".products-nav").offset().top;
-            var messageLeft = $(".message-box").offset().left;
-            var messageTop = $(".message-box").offset().top;
-            var messageWidth = $(".content").innerWidth();
-            console.log('productsTop', productsTop)
-            $(window).scroll(function(){
-                if($(window).scrollTop()>productsTop+100) {
-                    $(".products-nav").addClass("fix");
-                    $(".products-nav").css({
-                        'left':productsLeft,
-                        // 'width':messageWidth*0.3,
-                    })
-                }else{
-                    $(".products-nav").removeClass("fix")
-                }
-                if($(window).scrollTop()>messageTop+100) {
-                    $(".message-nav").addClass("fix");
-                    $(".message-nav").css({
-                        'left':messageLeft,
-                        // 'width':messageWidth*0.3,
-                    })
-                }else{
-                    $(".message-nav").removeClass("fix")
-                }
-            })
-            // 处理大图样式及滚动
-            $('.img-box').mouseover(function() {
-                $('.img-box i').css('opacity', 1)
-            }).mouseout(function() {
-                $('.img-box i').css('opacity', 0)
-            })
-            var imgItemWidth = $('.img-main .img').outerWidth(true)
-            var len = $('.img-main .img').length
-            var imgMainWidth = imgItemWidth * len
-            console.log('dd', $('.img-main'))
-            // $('.img-main')[0].style.cssText = `width: ${imgMainWidth}`
-            console.log('imgItemWidth', imgItemWidth)
-            console.log('imgMainWidth', imgMainWidth)
-            $('.img-main').css('width',Math.ceil(imgMainWidth));
-            var num = 0
-            $('.img-list li').each(function(index) {
-                $(this).mouseover(function() {
-                    console.log(index)
-                    num = index
-                    $('.img-list li').removeClass('active')
-                    $(this).addClass('active')
-                    $('.img-main').css('left', -imgItemWidth*index)
-                })
-            })
-            $('.left').click(function() {
-                if (num === 0) {
-                    return
-                }
-                num --
-                $('.img-main').css('left', -imgItemWidth*num)
-                $('.img-list li').removeClass('active')
-                $('.img-list li').eq(num).addClass('active')
-            })
-            $('.right').click(function() {
-                if (num === 5) {
-                    
-                    return
-                }
-                num ++
-                $('.img-main').css('left', -imgItemWidth*num)
-                $('.img-list li').removeClass('active')
-                $('.img-list li').eq(num).addClass('active')
             })
         })
     </script>

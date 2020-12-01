@@ -22,8 +22,6 @@ $(document).ready(function () {
 
     $(".subMenu-ul .subMenu-link").each(function () {
         $this = $(this);
-        console.log('ddd', $this[0].href)
-        console.log('aaa', String(window.location))
         if ($this[0].href == String(window.location)) {
             console.log('Zoule')
             $(".subMenu-ul .subMenu-item").removeClass("menu-active");
@@ -33,17 +31,11 @@ $(document).ready(function () {
     })
     $(".cat-subMenu-ul .cat-subMenu-link").each(function () {
         $this = $(this);
-        console.log('ddd', $this[0].href)
-        console.log('aaa', String(window.location))
+        console.log('pppaaaa', $this[0].href)
+        console.log('dsdsdsd', String(window.location))
         if ($this[0].href == String(window.location)) {
-            console.log('Zoule')
-            $(".cat-subMenu-ul .cat-subMenu-item").removeClass("menu-active");
-            $this.parent().parent().parent().parent().addClass("menu-active");
             $this[0].style.cssText = "background-color: #d81621;color: #fff;"
         }
-    })
-    $("#mobile-header").click(function () {
-        $(".page-index").toggleClass('menu-open')
     })
     $('.has-sub').on('click', function (e) {
         if ($(window).width() < 1025) {
@@ -83,32 +75,6 @@ $(document).ready(function () {
             $(".subMenu-ul").eq(index).toggleClass("subMenu-ul-active");
         })
     })
-    // function GetCurStyle(controller) {
-    //     switch (controller.toLowerCase()) {
-    //         case "home": $("#in0").addClass("menu-active"); break;
-    //         case "about": $("#in01").addClass("menu-active"); break;
-    //         case "products": $("#in02").addClass("menu-active"); break;
-    //         case "markets": $("#in03").addClass("menu-active"); break;
-    //         case "gallery": $("#in04").addClass("menu-active"); break;
-    //         case "led-academy": $("#in03").addClass("menu-active"); break;
-    //         case "news": $("#in06").addClass("menu-active"); break;
-    //         case "contact": $("#in04").addClass("menu-active"); break;
-    //         default: level1 = "";
-    //     }
-    // }
-    // function BannerSlide(container, arrowClass) {
-    //     var unsliders = $(container).unslider({
-    //         fluid: true,
-    //         delay: 5000,
-    //     })
-    //     var sliders = unsliders.data('unslider');
-
-    //     $(arrowClass).click(function () {
-    //         var fn = this.className.split(' ')[1];
-    //         sliders[fn]();
-    //     });
-
-    // }
     $(".target").click(function () {
         $("html, body").animate({ scrollTop: $($(this).attr("href")).offset().top - 100 + "px" }, 500);
         return false;

@@ -1,6 +1,6 @@
 <div class="message-box">
     <div class="message-wrapper">
-        <p class="quote-title">NEED A QUOTE ?<p>
+        <p class="quote-title">GET A QUOTE ?<p>
         <form id="myforms" name="myforms" method="post" action="/quotes/Index/index" onSubmit="return Checks()">
             <div class="contact-body">
                 <p class="input-contact">
@@ -12,7 +12,7 @@
                     <input type="text" placeholder="Telephone" maxlength="50" name="tel" class="contact-input">
                 </p>
                 <p class="input-contact">
-                    <textarea rows="5" placeholder="Message" name="contents" maxlength="1000" class="contact-textarea"></textarea>
+                    <textarea rows="3" placeholder="Message" name="contents" maxlength="1000" class="contact-textarea"></textarea>
                 </p>
                 <div class="btn">
                     <button class="submit">Submit</button>

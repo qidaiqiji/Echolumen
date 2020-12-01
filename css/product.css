@@ -23,7 +23,26 @@
     color: #000;
     font-weight: bold;
 }
+.title-box {
+    margin-top: 160px;
+    margin-bottom: 40px;
+}
 .title::after {
     height: 2px;
+    background: #d81621;
+}
+.more {
+    display: none;
+}
+.desc:hover .current{
+    display: none;
+}
+.desc:hover .more{
+    display: block;
+}
+.item .desc {
+    background: #595a58;
+}
+.desc:hover{
     background: #d81621;
 }

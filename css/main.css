@@ -287,6 +287,11 @@
     left: 0;
 }
 /* insights样式 */
+.insights-container {
+    background: rgb(240, 239, 239);
+    padding-top: 30px;
+    margin-top: 76px;
+}
 .insights {
     width: 100%;
     margin: 50px auto;
