@@ -6,14 +6,15 @@
     <meta name="viewport"
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="description" content="EchoLumen DE48C atmosphere light for car is using the high quality car light strips to create a romantic lighting effect in the car to be entertaining. EchoLumen is the best manufacturer of LED strips for car and car interior light in China." />
-    <meta name="keywords" content="Car interior light, Atmosphere light for car, LED strips for car, car light strips, LED light strips, LED car light" />
-    <title>ECL-DE48C Car Interior Light | Atmosphere Light for Car | LED Strips for Car & Car Light Strips| EchoLumen</title>
+    <meta name="description" content="EchoLumen D9 headlight bulb is the best LED car headlight for all types of cars for easy replacement and installation. EchoLumen LED headlight bulb will bring you the best visibility and driving performance." />
+    <meta name="keywords" content="LED auto lamp, LED auto light, LED car headlight, LED headlight bulb, LED car light, headlight bulb, LED headlight for car" />
+    <title>ECL-D9 LED Headlight Bulb | LED Car Headlight | LED Auto Lamp | LED Headlight for Car | EchoLumen</title>
     <link rel="stylesheet" href="../../../../css/reset.css">
     <link rel="stylesheet" href="../../../../css/font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="../../../../css/common.css">
     <link rel="stylesheet" href="../../../../css/detail.css">
     <link rel="icon" href="../../../../images/favicon.ico">
+    
     <script src="../../../../utils/jquery-3.2.1.min.js"></script>
 </head>
 
@@ -45,13 +46,13 @@
                                             <span>LED Car Light</span>
                                         </a>
                                         <div class="fold-menu foldMenu-active">
-                                            <a class="subMenu-link" href="../../led-headlight-bulb/">
+                                            <a class="subMenu-link submenu-item-active" href="../../led-headlight-bulb/">
                                                 LED Headlight Bulb
                                             </a>
                                             <a class="subMenu-link" href="../../led-off-road-light/">
                                                 LED Off Road Light
                                             </a>
-                                            <a class="subMenu-link submenu-item-active" href="../../car-interior-light">
+                                            <a class="subMenu-link" href="../../car-interior-light/">
                                                 Car Interior Light
                                             </a>
                                         </div>
@@ -127,13 +128,13 @@
                                         <span>LED Car Light</span>
                                     </a>
                                     <div class="cat-fold-menu cat-foldMenu-active">
-                                        <a class="cat-subMenu-link" href="../../led-headlight-bulb/">
+                                        <a class="cat-subMenu-link submenu-item-active" href="../../led-headlight-bulb/">
                                             LED Headlight Bulb
                                         </a>
                                         <a class="cat-subMenu-link" href="../../led-off-road-light/">
                                             LED Off Road Light
                                         </a>
-                                        <a class="cat-subMenu-link submenu-item-active" href="../../car-interior-light/">
+                                        <a class="cat-subMenu-link" href="../../car-interior-light/">
                                             Car Interior Light
                                         </a>
                                     </div>
@@ -173,59 +174,59 @@
                                 <i class="fa fa-angle-right right" style="right: 0;"></i>
                                 <div class="img-main">
                                     <div class="img">
-                                        <img src="../../../../images/ECL-DE48C-1.jpg"/>
+                                        <img src="../../../../images/ECL-D9-1.jpg"/>
                                     </div>
                                     <div class="img">
-                                        <img src="../../../../images/ECL-DE48C-2.jpg"/>
+                                        <img src="../../../../images/ECL-D9-2.jpg"/>
                                     </div>
                                     <div class="img">
-                                        <img src="../../../../images/ECL-DE48C-3.jpg"/>
+                                        <img src="../../../../images/ECL-D9-3.jpg"/>
                                     </div>
                                     <div class="img">
-                                        <img src="../../../../images/ECL-DE48C-4.jpg"/>
+                                        <img src="../../../../images/ECL-D9-4.jpg"/>
                                     </div>
                                     <div class="img">
-                                        <img src="../../../../images/ECL-DE48C-5.jpg"/>
+                                        <img src="../../../../images/ECL-D9-5.jpg"/>
                                     </div>
                                     <div class="img">
-                                        <img src="../../../../images/ECL-DE48C-6.jpg"/>
+                                        <img src="../../../../images/ECL-D9-6.jpg"/>
                                     </div>
                                 </div>
                             </div>
                             <ul class="img-list">
                                 <li class="active">
-                                    <img src="../../../../images/ECL-DE48C-1.jpg"/>
+                                    <img src="../../../../images/ECL-D9-1.jpg"/>
                                 </li>
                                 <li>
-                                    <img src="../../../../images/ECL-DE48C-2.jpg"/>
+                                    <img src="../../../../images/ECL-D9-2.jpg"/>
                                 </li>
                                 <li>
-                                    <img src="../../../../images/ECL-DE48C-3.jpg"/>
+                                    <img src="../../../../images/ECL-D9-3.jpg"/>
                                 </li>
                                 <li>
-                                    <img src="../../../../images/ECL-DE48C-4.jpg"/>
+                                    <img src="../../../../images/ECL-D9-4.jpg"/>
                                 </li>
                                 <li>
-                                    <img src="../../../../images/ECL-DE48C-5.jpg"/>
+                                    <img src="../../../../images/ECL-D9-5.jpg"/>
                                 </li>
                                 <li>
-                                    <img src="../../../../images/ECL-DE48C-6.jpg"/>
+                                    <img src="../../../../images/ECL-D9-6.jpg"/>
                                 </li>
                             </ul>
                         </div>
                         <div class="instruction">
-                            <h2>EchoLumen 4PCS 48 LED Interior Car Lights Cigarette Lighter DC 12V Multicolor Music Car Strip Light Under Dash Lighting Kit With Sound Active Function And Wireless Remote Control</h2>
-                            <p>Model: ECL-DE48C</p>
-                            <p>LED Source: RGB 48PCS SMD 5050</p>
-                            <p>Maximum Power: 10W</p>
-                            <p>Working Voltage: DC12V</p>
-                            <p>Interface: Cigarette Lighter</p>
-                            <p>Control: RF Remote Controller</p>
-                            <p>Light Strip Wire Length: 2 x 1200mm(47.2 inch) + 2 x 1700mm(66.9 inch)</p>
-                            <p>Service Time: >50,000H</p>
-                            <p>Waterproof: IP67</p>
-                            <p>Material: Acrylonitrile Butadiene Styrene</p>
-                            <p>Type Fit: Universal</p>
+                            <h2>EchoLumen Mini LED Headlight Bulbs, 40W 6000 Lumens Super Bright LED Headlights Conversion Kit 6500K Cool White IP68 Waterproof Universal LED Car Headlight For Any Auto Model</h2>
+                            <p>Model: ECL-D9</p>
+                            <p>LED Source: Ultra-Bright SMD 5530</p>
+                            <p>Maximum Power: 40W</p>
+                            <p>Luminous Flux: 6000LM</p>
+                            <p>Working Voltage: DC 12V</p>
+                            <p>Color Temperature: 6000-6500K</p>
+                            <p>Working Temperature: -40℃ ~ 80℃</p>
+                            <p>Waterproof: IP68</p>
+                            <p>Material: Aviation Aluminum</p>
+                            <p>Sockets Supported: H1, H4, H7, H8, H11, H13, 9004, 9005, 9006, 9007, 9012</p>
+                            <p>Application: Universal and wide applicable to 99% of Auto models</p>
                             <a class="inquery" href="mailto:info@echolumen.com">Inquiry</a>
                         </div>
                     </div>
@@ -234,96 +235,38 @@
                     <div class="blog">
                         <div class="seperate">Product Description</div>
                         <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-banner.jpg" />
-                        </div>
-                        <div class="info-detail">
-                            <div class="img">
-                                <img src="../../../../images/ECL-DE48C-1.jpg"/>
-                            </div>
-                            <div class="desc">
-                                <p class="sub-title">High Quality Material</p>
-                                <p>Voltage DC 12V, wattage10W. ABS material made, ultra-thin, high quality music LED strip light, water resistant, anti-collision, anti-corrosion, fits all cars SUV vans trucks boats with 12V DC power.</p>
-                            </div>
-                        </div>
-                        <div class="info-detail">
-                            <div class="desc">
-                                <p class="sub-title">Sound Active Function</p>
-                                <p>The LED strip light can change color with your voice or music. Allows you to enjoy the fun with the color changing following your car stereo music rhythm as well as your voice.</p>
-                            </div>
-                            <div class="img">
-                                <img src="../../../../images/ECL-DE48C-4.jpg"/>
-                            </div>
-                        </div>
-                        <div class="info-detail">
-                            <div class="img">
-                                <img src="../../../../images/ECL-DE48C-detail-3.jpg"/>
-                            </div>
-                            <div class="desc">
-                                <p class="sub-title">Wireless Remote Control</p>
-                                <p>You can use the wireless remote controller to change the color and adjust the brightness as you wish. Please note:</p>
-                                <p>1. The remote control should point directly to the black receiver box and there is no obstacle between. </p>
-                                <p>2. The remote should be placed near to the receiver box, not too far.</p>
-                            </div>
-                        </div>
-                        <div class="info-detail">
-                            <div class="desc">
-                                <p class="sub-title">Multicolour Effect Mode</p>
-                                <p>This LED strip light is set with 8 static color modes and 8 dynamic color modes. You can change the color modes in different conditions as you like with the remote controller.</p>
-                            </div>
-                            <div class="img">
-                                <img src="../../../../images/ECL-DE48C-detail-4.jpg"/>
-                            </div>
-                        </div>
-                        <div class="info-detail">
-                            <div class="img">
-                                <img src="../../../../images/ECL-DE48C-6.jpg"/>
-                            </div>
-                            <div class="desc">
-                                <p class="sub-title">Easy To Install</p>
-                                <p>The light strip is with double-sided adhesive straps, you can simply install it to the place(better in the gap or away from our sight) you want. Then insert the cigarette lighter and turn on the switch botton, you can have a wonderful lighting effect in your car.</p>
-                            </div>
+                            <img src="../../../../images/ECL-D9-4.jpg" />
                         </div>
                         <div class="square">
-                            <img src="../../../../images/ECL-DE48C-3.jpg" />
+                            <img src="../../../../images/ECL-D9-detail-2.jpg" />
                         </div>
                         <div class="square">
-                            <img style="width: 80%; margin-bottom: 40px;" src="../../../../images/ECL-DE48C-2.jpg" />
+                            <img src="../../../../images/ECL-D9-detail-3.jpg" />
                         </div>
                         <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-8.jpg" />
+                            <img src="../../../../images/ECL-D9-5.jpg" />
                         </div>
                         <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-9.jpg" />
+                            <img src="../../../../images/ECL-D9-6.jpg" />
                         </div>
                         <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-10.jpg" />
+                            <img src="../../../../images/ECL-D9-detail-6.jpg" />
                         </div>
                         <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-11.jpg" />
+                            <img src="../../../../images/ECL-D9-detail-7.jpg" />
                         </div>
                         <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-12.jpg" />
+                            <img src="../../../../images/ECL-D9-detail-8.jpg" />
                         </div>
                         <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-13.jpg" />
-                        </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-14.jpg" />
-                        </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-5.jpg" />
-                        </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-16.jpg" />
-                        </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-17.jpg" />
+                            <img src="../../../../images/ECL-D9-detail-9.jpg" />
                         </div>
                     </div>
                     <?php include('../../../../inc/messageBox.php'); ?>
                 </div>
             </div>
             <!-- 留言板 -->
+            
         </div>
     </div>
     <footer>

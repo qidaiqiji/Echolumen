@@ -6,14 +6,15 @@
     <meta name="viewport"
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="description" content="EchoLumen DE48C atmosphere light for car is using the high quality car light strips to create a romantic lighting effect in the car to be entertaining. EchoLumen is the best manufacturer of LED strips for car and car interior light in China." />
-    <meta name="keywords" content="Car interior light, Atmosphere light for car, LED strips for car, car light strips, LED light strips, LED car light" />
-    <title>ECL-DE48C Car Interior Light | Atmosphere Light for Car | LED Strips for Car & Car Light Strips| EchoLumen</title>
+    <meta name="description" content="EchoLumen E9K LED headlight for truck is the current best quality LED headlight bulb for LED truck headlight for direct replacement to get more brighter brightness and performance." />
+    <meta name="keywords" content="LED headlight for truck, LED truck headlight, LED headlight bulb, LED car light, truck LED light, truck headlight bulb" />
+    <title>LED headlight for truck | LED Truck Headlight | LED Headlight Bulb & LED Car Light-EchoLumen</title>
     <link rel="stylesheet" href="../../../../css/reset.css">
     <link rel="stylesheet" href="../../../../css/font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="../../../../css/common.css">
     <link rel="stylesheet" href="../../../../css/detail.css">
     <link rel="icon" href="../../../../images/favicon.ico">
+    
     <script src="../../../../utils/jquery-3.2.1.min.js"></script>
 </head>
 
@@ -45,13 +46,13 @@
                                             <span>LED Car Light</span>
                                         </a>
                                         <div class="fold-menu foldMenu-active">
-                                            <a class="subMenu-link" href="../../led-headlight-bulb/">
+                                            <a class="subMenu-link submenu-item-active" href="../../led-headlight-bulb/">
                                                 LED Headlight Bulb
                                             </a>
                                             <a class="subMenu-link" href="../../led-off-road-light/">
                                                 LED Off Road Light
                                             </a>
-                                            <a class="subMenu-link submenu-item-active" href="../../car-interior-light">
+                                            <a class="subMenu-link" href="../../car-interior-light/">
                                                 Car Interior Light
                                             </a>
                                         </div>
@@ -127,13 +128,13 @@
                                         <span>LED Car Light</span>
                                     </a>
                                     <div class="cat-fold-menu cat-foldMenu-active">
-                                        <a class="cat-subMenu-link" href="../../led-headlight-bulb/">
+                                        <a class="cat-subMenu-link submenu-item-active" href="../../led-headlight-bulb/">
                                             LED Headlight Bulb
                                         </a>
                                         <a class="cat-subMenu-link" href="../../led-off-road-light/">
                                             LED Off Road Light
                                         </a>
-                                        <a class="cat-subMenu-link submenu-item-active" href="../../car-interior-light/">
+                                        <a class="cat-subMenu-link" href="../../car-interior-light/">
                                             Car Interior Light
                                         </a>
                                     </div>
@@ -173,59 +174,59 @@
                                 <i class="fa fa-angle-right right" style="right: 0;"></i>
                                 <div class="img-main">
                                     <div class="img">
-                                        <img src="../../../../images/ECL-DE48C-1.jpg"/>
+                                        <img src="../../../../images/ECL-E9K-1.jpg"/>
                                     </div>
                                     <div class="img">
-                                        <img src="../../../../images/ECL-DE48C-2.jpg"/>
+                                        <img src="../../../../images/ECL-E9K-2.jpg"/>
                                     </div>
                                     <div class="img">
-                                        <img src="../../../../images/ECL-DE48C-3.jpg"/>
+                                        <img src="../../../../images/ECL-E9K-3.jpg"/>
                                     </div>
                                     <div class="img">
-                                        <img src="../../../../images/ECL-DE48C-4.jpg"/>
+                                        <img src="../../../../images/ECL-E9K-4.jpg"/>
                                     </div>
                                     <div class="img">
-                                        <img src="../../../../images/ECL-DE48C-5.jpg"/>
+                                        <img src="../../../../images/ECL-E9K-5.jpg"/>
                                     </div>
                                     <div class="img">
-                                        <img src="../../../../images/ECL-DE48C-6.jpg"/>
+                                        <img src="../../../../images/ECL-E9K-6.jpg"/>
                                     </div>
                                 </div>
                             </div>
                             <ul class="img-list">
                                 <li class="active">
-                                    <img src="../../../../images/ECL-DE48C-1.jpg"/>
+                                    <img src="../../../../images/ECL-E9K-1.jpg"/>
                                 </li>
                                 <li>
-                                    <img src="../../../../images/ECL-DE48C-2.jpg"/>
+                                    <img src="../../../../images/ECL-E9K-2.jpg"/>
                                 </li>
                                 <li>
-                                    <img src="../../../../images/ECL-DE48C-3.jpg"/>
+                                    <img src="../../../../images/ECL-E9K-3.jpg"/>
                                 </li>
                                 <li>
-                                    <img src="../../../../images/ECL-DE48C-4.jpg"/>
+                                    <img src="../../../../images/ECL-E9K-4.jpg"/>
                                 </li>
                                 <li>
-                                    <img src="../../../../images/ECL-DE48C-5.jpg"/>
+                                    <img src="../../../../images/ECL-E9K-5.jpg"/>
                                 </li>
                                 <li>
-                                    <img src="../../../../images/ECL-DE48C-6.jpg"/>
+                                    <img src="../../../../images/ECL-E9K-6.jpg"/>
                                 </li>
                             </ul>
                         </div>
                         <div class="instruction">
-                            <h2>EchoLumen 4PCS 48 LED Interior Car Lights Cigarette Lighter DC 12V Multicolor Music Car Strip Light Under Dash Lighting Kit With Sound Active Function And Wireless Remote Control</h2>
-                            <p>Model: ECL-DE48C</p>
-                            <p>LED Source: RGB 48PCS SMD 5050</p>
-                            <p>Maximum Power: 10W</p>
-                            <p>Working Voltage: DC12V</p>
-                            <p>Interface: Cigarette Lighter</p>
-                            <p>Control: RF Remote Controller</p>
-                            <p>Light Strip Wire Length: 2 x 1200mm(47.2 inch) + 2 x 1700mm(66.9 inch)</p>
-                            <p>Service Time: >50,000H</p>
-                            <p>Waterproof: IP67</p>
-                            <p>Material: Acrylonitrile Butadiene Styrene</p>
-                            <p>Type Fit: Universal</p>
+                            <h2>EchoLumen LED Headlight Bulbs, Low Beam/Fog Light, 6000K Bright White, Direct Halogen Replacement, Quick Installation LED Headlight/Headlamp For Truck, Bus And Heavy Lorry</h2>
+                            <p>Model: ECL-E9K</p>
+                            <p>Light Source: High Quality 5530 LED Chip</p>
+                            <p>Maximum Power: 40W</p>
+                            <p>Luminous Flux: 7000LM</p>
+                            <p>Working Voltage: DC 24-48V</p>
+                            <p>Color Temperature: 6000-6500K</p>
+                            <p>Working Temperature: -40℃ ~ 80℃</p>
+                            <p>Waterproof: IP68</p>
+                            <p>Material: Aviation Aluminum</p>
+                            <p>Sockets Supported: H1, H4, H7, H8, H11, H13, 9004, 9005, 9006, 9007, 9012</p>
+                            <p>Application: Truck and heavy lorry headlight, sightseeing bus headlamp etc</p>
                             <a class="inquery" href="mailto:info@echolumen.com">Inquiry</a>
                         </div>
                     </div>
@@ -233,97 +234,88 @@
                 <div class="detail-section">
                     <div class="blog">
                         <div class="seperate">Product Description</div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-banner.jpg" />
-                        </div>
-                        <div class="info-detail">
-                            <div class="img">
-                                <img src="../../../../images/ECL-DE48C-1.jpg"/>
-                            </div>
+                        <div class="info-item">
+                            <img src="../../../../images/ECL-E9K-5.jpg" />
                             <div class="desc">
-                                <p class="sub-title">High Quality Material</p>
-                                <p>Voltage DC 12V, wattage10W. ABS material made, ultra-thin, high quality music LED strip light, water resistant, anti-collision, anti-corrosion, fits all cars SUV vans trucks boats with 12V DC power.</p>
+                                <p>Headlight or headlamp is a vital part to all vehicles, not just it makes the vehicle looks gorgeous, what more important is that it provides visibility for drivers to get rid of some accidents that can be avoided while driving at dark night. But it is more important to large size vehicles like heavy truck, sightseeing bus and construction machinery etc. </p>
+                                <p>The reason is that under the function of motion inertia, drivers of such vehicles need much longer braking distance to stop the truck especially when it is fully loaded. Then a bright headlight with excellent visibility can win more time and longer distance for drivers to response and take actions to avoid accidents.</p>
                             </div>
                         </div>
-                        <div class="info-detail">
+                        <div class="info-item">
+                            <img src="../../../../images/ECL-E9K-detail-2.jpg" />
                             <div class="desc">
-                                <p class="sub-title">Sound Active Function</p>
-                                <p>The LED strip light can change color with your voice or music. Allows you to enjoy the fun with the color changing following your car stereo music rhythm as well as your voice.</p>
-                            </div>
-                            <div class="img">
-                                <img src="../../../../images/ECL-DE48C-4.jpg"/>
+                                <p>That is why EchoLumen manufactures LED headlight for trucks rather than halogen or other light sources. We are keen on manufacturing the headlight which can generate sufficient light and longer visibility for our clients.</p>
+                                <p>EchoLumen E9K series is such a perfect headlight/headlamp for truck, sightseeing bus and heavy lorry. It is small in size but can generate high lumens up to 7000LM, which is sufficient for drivers to have a very clear visibility at night. Besides, E9K supports all kinds of sockets and is compatible with 99% of auto models and very easy to install.</p>
                             </div>
                         </div>
-                        <div class="info-detail">
-                            <div class="img">
-                                <img src="../../../../images/ECL-DE48C-detail-3.jpg"/>
-                            </div>
+                        <!-- <div class="info-item">
+                            <img src="../../../../images/ECL-E9K-detail-3.jpg" />
                             <div class="desc">
-                                <p class="sub-title">Wireless Remote Control</p>
-                                <p>You can use the wireless remote controller to change the color and adjust the brightness as you wish. Please note:</p>
-                                <p>1. The remote control should point directly to the black receiver box and there is no obstacle between. </p>
-                                <p>2. The remote should be placed near to the receiver box, not too far.</p>
+                                <p>That is why EchoLumen manufactures LED headlight for trucks rather than halogen or other light sources. We are keen on manufacturing the headlight which can generate sufficient light and longer visibility for our clients.</p>
+                                <p>EchoLumen E9K series is such a perfect headlight/headlamp for truck, sightseeing bus and heavy lorry. It is small in size but can generate high lumens up to 7000LM, which is sufficient for drivers to have a very clear visibility at night. Besides, E9K supports all kinds of sockets and is compatible with 99% of auto models and very easy to install.</p>
                             </div>
-                        </div>
-                        <div class="info-detail">
+                        </div> -->
+                        <div class="info-item">
+                            <img src="../../../../images/ECL-E9K-detail-3.jpg" />
                             <div class="desc">
-                                <p class="sub-title">Multicolour Effect Mode</p>
-                                <p>This LED strip light is set with 8 static color modes and 8 dynamic color modes. You can change the color modes in different conditions as you like with the remote controller.</p>
-                            </div>
-                            <div class="img">
-                                <img src="../../../../images/ECL-DE48C-detail-4.jpg"/>
+                                <p>Comparing with Halogen headlight, EchoLumen E9K headlight for truck is adopting LED as its light source. Which makes its brightness times higher than normal dim halogen headlight. The pure white light generated by LEDs has better penetration and condensation effect on the performance of both low beam and high beam. In addition, LED is with much longer lifespan and better stability than halogen, which make the LED headlight much competitive.</p>
+                                <p>A bright and focused light of EchoLumen E9K LED headlight for truck will definitely create a better visibility and more comfortable driving experience for all the truck drivers. And in returns to reduce some accidents caused by poor visibility.</p>
                             </div>
                         </div>
-                        <div class="info-detail">
-                            <div class="img">
-                                <img src="../../../../images/ECL-DE48C-6.jpg"/>
-                            </div>
+                        <div class="info-item">
+                            <img src="../../../../images/ECL-E9K-detail-4.jpg" />
                             <div class="desc">
-                                <p class="sub-title">Easy To Install</p>
-                                <p>The light strip is with double-sided adhesive straps, you can simply install it to the place(better in the gap or away from our sight) you want. Then insert the cigarette lighter and turn on the switch botton, you can have a wonderful lighting effect in your car.</p>
+                                <p>EchoLumen E9K LED headlight for truck applied the new generation 5530 LED chip to minimize the gaps between the LEDs to create a better light uniformity and condensation effect. The new generation 5530 LED chip is bigger in size than the old version 1860, which helps to generate higher brightness and get its heat dissipation greatly improved. All of these improvements make the E9K LED headlight for truck much competitive with better performance and stability. </p>
                             </div>
                         </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-3.jpg" />
+                        <div class="info-item">
+                            <img src="../../../../images/ECL-E9K-detail-5.jpg" />
+                            <div class="desc">
+                                <p>Combined the practicality with industrial art, EchoLumen E9K LED headlight for truck uses high quality aviation aluminum for the headlamp body, which makes EchoLumen LED headlight for truck featured with excellent heat conductivity, fantastic durability and looks so exquisite. EchoLumen R&D team spent tremendous time and efforts on the design and engineering of the product, their pursuit on details and perfection helps EchoLumen accumulated a large number of clients.</p>
+                            </div>
                         </div>
-                        <div class="square">
-                            <img style="width: 80%; margin-bottom: 40px;" src="../../../../images/ECL-DE48C-2.jpg" />
+                        <div class="info-item">
+                            <img src="../../../../images/ECL-E9K-detail-6.jpg" />
+                            <div class="desc">
+                                <p>The reason why EchoLumen E9K LED headlight for truck can meet the requirement and expectation of our clients is because E9K LED headlight for truck is featured with the most efficient heat dissipation system to guarantee its excellent stability and performance. All the detailed designs of double sided copper base plate, high quality aviation aluminum headlight body and the air cooling fan can form a very efficient head dissipation tunnel and conduct the heat generated by LEDs to prevent them from overheating, which ensuring its long life and the max brightness output.</p>
+                            </div>
                         </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-8.jpg" />
+                        <div class="info-item">
+                            <img src="../../../../images/ECL-E9K-6.jpg" />
+                            <div class="desc">
+                                <p>EchoLumen E9K LED headlight for truck is waterproof and resistant to any heavy rain or snow. No matter how worse the weather condition is, it will light up your journey and guard your safe driving.</p>
+                            </div>
                         </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-9.jpg" />
+                        <div class="info-item">
+                            <img src="../../../../images/ECL-E9K-detail-9.jpg" />
+                            <div class="desc">
+                                <p>To pursue the top stability and durability, EchoLumen E9K LED headlight for truck applied the external driver solution. The driver is featured with the function of intelligent decoding, which ensuring the precise temperature controlling and make the modification much safer.</p>
+                            </div>
                         </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-10.jpg" />
+                        <div class="info-item">
+                            <img src="../../../../images/ECL-E9K-detail-7.jpg" />
+                            <div class="desc">
+                                <p>EchoLumen E9K LED headlight for truck is designed with concave spotlight head, working together with the narrow spacing plate to make the light highly concentrated. The light-gathering effects of such concave spotlight head is comparable with lens spotlight type, leaving no any dead angle and dark spot. </p>
+                            </div>
                         </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-11.jpg" />
+                        <div class="info-item">
+                            <img src="../../../../images/ECL-E9K-detail-8.jpg" />
+                            <div class="desc">
+                                <p>EchoLumen E9K LED headlight for truck is equipped with 360° adjustable light angle socket to make sure it can work with any type of reflectors. The socket can be adjusted to match the original lamp's position and get the perfect light condensing effect.</p>
+                            </div>
                         </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-12.jpg" />
-                        </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-13.jpg" />
-                        </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-14.jpg" />
-                        </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-5.jpg" />
-                        </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-16.jpg" />
-                        </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-17.jpg" />
+                        <div class="info-item" style="border-bottom: none;">
+                            <img src="../../../../images/ECL-E9K-detail-10.jpg" />
+                            <div class="desc">
+                                <p>With 1:1 elaborate design, EchoLumen E9K LED headlight for truck can fit into 99% of original models. Comparing with the traditional halogen headlight, EchoLumen LED headlight for truck is smaller in size, which supports Non destructive installation and no need to change any wiring, as long as the corresponding bulb model can fit into the auto.</p>
+                            </div>
                         </div>
                     </div>
                     <?php include('../../../../inc/messageBox.php'); ?>
                 </div>
             </div>
             <!-- 留言板 -->
+            
         </div>
     </div>
     <footer>
@@ -390,6 +382,18 @@
         </div>
     </footer>
     <script type="text/javascript" src="../../../../inc/index.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('.submenu-fold').each(function(index) {
+                $(this).click(function() {
+                    console.log(index)
+                    $(this).toggleClass('active')
+                    console.log($('.fold-menu'))
+                    $('.fold-menu').eq(index).toggleClass("foldMenu-active");
+                })
+            })
+        })
+    </script>
 </body>
 
 </html>

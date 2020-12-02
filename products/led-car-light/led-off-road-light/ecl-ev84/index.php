@@ -6,14 +6,15 @@
     <meta name="viewport"
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="description" content="EchoLumen DE48C atmosphere light for car is using the high quality car light strips to create a romantic lighting effect in the car to be entertaining. EchoLumen is the best manufacturer of LED strips for car and car interior light in China." />
-    <meta name="keywords" content="Car interior light, Atmosphere light for car, LED strips for car, car light strips, LED light strips, LED car light" />
-    <title>ECL-DE48C Car Interior Light | Atmosphere Light for Car | LED Strips for Car & Car Light Strips| EchoLumen</title>
+    <meta name="description" content="EchoLumen EV84 LED off road light is designed to increase the light intensity of SUV, ATV, UTV, truck, Jeep, Tractor to get better visibility and longer illumination distance to ensure the safe driving." />
+    <meta name="keywords" content="LED work light, LED light bar, LED off road light, LED light pods, LED light for truck, LED car light" />
+    <title>ECL-EV84 LED Off Road Light | LED Light Bar | LED Work Light for SUV, ATV, UTV and Truck | EchoLumen</title>
     <link rel="stylesheet" href="../../../../css/reset.css">
     <link rel="stylesheet" href="../../../../css/font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="../../../../css/common.css">
     <link rel="stylesheet" href="../../../../css/detail.css">
     <link rel="icon" href="../../../../images/favicon.ico">
+    
     <script src="../../../../utils/jquery-3.2.1.min.js"></script>
 </head>
 
@@ -48,10 +49,10 @@
                                             <a class="subMenu-link" href="../../led-headlight-bulb/">
                                                 LED Headlight Bulb
                                             </a>
-                                            <a class="subMenu-link" href="../../led-off-road-light/">
+                                            <a class="subMenu-link submenu-item-active" href="../../led-off-road-light/">
                                                 LED Off Road Light
                                             </a>
-                                            <a class="subMenu-link submenu-item-active" href="../../car-interior-light">
+                                            <a class="subMenu-link" href="../../car-interior-light/">
                                                 Car Interior Light
                                             </a>
                                         </div>
@@ -130,10 +131,10 @@
                                         <a class="cat-subMenu-link" href="../../led-headlight-bulb/">
                                             LED Headlight Bulb
                                         </a>
-                                        <a class="cat-subMenu-link" href="../../led-off-road-light/">
+                                        <a class="cat-subMenu-link submenu-item-active" href="../../led-off-road-light/">
                                             LED Off Road Light
                                         </a>
-                                        <a class="cat-subMenu-link submenu-item-active" href="../../car-interior-light/">
+                                        <a class="cat-subMenu-link" href="../../car-interior-light/">
                                             Car Interior Light
                                         </a>
                                     </div>
@@ -173,59 +174,59 @@
                                 <i class="fa fa-angle-right right" style="right: 0;"></i>
                                 <div class="img-main">
                                     <div class="img">
-                                        <img src="../../../../images/ECL-DE48C-1.jpg"/>
+                                        <img src="../../../../images/ECL-EV84-1.jpg"/>
                                     </div>
                                     <div class="img">
-                                        <img src="../../../../images/ECL-DE48C-2.jpg"/>
+                                        <img src="../../../../images/ECL-EV84-2.jpg"/>
                                     </div>
                                     <div class="img">
-                                        <img src="../../../../images/ECL-DE48C-3.jpg"/>
+                                        <img src="../../../../images/ECL-EV84-3.jpg"/>
                                     </div>
                                     <div class="img">
-                                        <img src="../../../../images/ECL-DE48C-4.jpg"/>
+                                        <img src="../../../../images/ECL-EV84-4.jpg"/>
                                     </div>
                                     <div class="img">
-                                        <img src="../../../../images/ECL-DE48C-5.jpg"/>
+                                        <img src="../../../../images/ECL-EV84-5.jpg"/>
                                     </div>
                                     <div class="img">
-                                        <img src="../../../../images/ECL-DE48C-6.jpg"/>
+                                        <img src="../../../../images/ECL-EV84-6.jpg"/>
                                     </div>
                                 </div>
                             </div>
                             <ul class="img-list">
                                 <li class="active">
-                                    <img src="../../../../images/ECL-DE48C-1.jpg"/>
+                                    <img src="../../../../images/ECL-EV84-1.jpg"/>
                                 </li>
                                 <li>
-                                    <img src="../../../../images/ECL-DE48C-2.jpg"/>
+                                    <img src="../../../../images/ECL-EV84-2.jpg"/>
                                 </li>
                                 <li>
-                                    <img src="../../../../images/ECL-DE48C-3.jpg"/>
+                                    <img src="../../../../images/ECL-EV84-3.jpg"/>
                                 </li>
                                 <li>
-                                    <img src="../../../../images/ECL-DE48C-4.jpg"/>
+                                    <img src="../../../../images/ECL-EV84-4.jpg"/>
                                 </li>
                                 <li>
-                                    <img src="../../../../images/ECL-DE48C-5.jpg"/>
+                                    <img src="../../../../images/ECL-EV84-5.jpg"/>
                                 </li>
                                 <li>
-                                    <img src="../../../../images/ECL-DE48C-6.jpg"/>
+                                    <img src="../../../../images/ECL-EV84-6.jpg"/>
                                 </li>
                             </ul>
                         </div>
                         <div class="instruction">
-                            <h2>EchoLumen 4PCS 48 LED Interior Car Lights Cigarette Lighter DC 12V Multicolor Music Car Strip Light Under Dash Lighting Kit With Sound Active Function And Wireless Remote Control</h2>
-                            <p>Model: ECL-DE48C</p>
-                            <p>LED Source: RGB 48PCS SMD 5050</p>
-                            <p>Maximum Power: 10W</p>
-                            <p>Working Voltage: DC12V</p>
-                            <p>Interface: Cigarette Lighter</p>
-                            <p>Control: RF Remote Controller</p>
-                            <p>Light Strip Wire Length: 2 x 1200mm(47.2 inch) + 2 x 1700mm(66.9 inch)</p>
+                            <h2>EchoLumen LED Pods 5'' 84W 8400LM 6000K Quad Row LED Light Bar Spot Flood Combo Beam Off Road LED Cubes Work Light Driving Fog Lamps for Trucks ATV UTV SUV Tractor Jeep Boat Marine etc</h2>
+                            <p>Model: ECL-EV84</p>
+                            <p>LED Source: 28PCS High Lumen 3W LED Chips</p>
+                            <p>Maximum Power: 84W</p>
+                            <p>Luminous Flux: 8400LM</p>
+                            <p>Working Voltage: DC 9-32V</p>
+                            <p>Color Temperature: 6000-6500K</p>
                             <p>Service Time: >50,000H</p>
-                            <p>Waterproof: IP67</p>
-                            <p>Material: Acrylonitrile Butadiene Styrene</p>
-                            <p>Type Fit: Universal</p>
+                            <p>Waterproof: IP68</p>
+                            <p>Material: Die-Cast Aluminum</p>
+                            <p>Product Size: 131x65x80mm</p>
+                            <p>Application: Flood Work Light Bar for Off-Road, SUV, ATV, UTV, Trucks, Marine, Motorcycle, Boat, Heavy Duty Marine etc</p>
                             <a class="inquery" href="mailto:info@echolumen.com">Inquiry</a>
                         </div>
                     </div>
@@ -233,97 +234,93 @@
                 <div class="detail-section">
                     <div class="blog">
                         <div class="seperate">Product Description</div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-banner.jpg" />
-                        </div>
                         <div class="info-detail">
                             <div class="img">
-                                <img src="../../../../images/ECL-DE48C-1.jpg"/>
+                                <img src="../../../../images/ECL-EV84-1.jpg"/>
                             </div>
                             <div class="desc">
-                                <p class="sub-title">High Quality Material</p>
-                                <p>Voltage DC 12V, wattage10W. ABS material made, ultra-thin, high quality music LED strip light, water resistant, anti-collision, anti-corrosion, fits all cars SUV vans trucks boats with 12V DC power.</p>
+                                <p class="sub-title">Ultra-High Brightness, Unparalleled Visibility</p>
+                                <p>With the most innovative Quad Row LED design, the 5 inch LED pods light feature total 28pcs superior qualified OSRAM LED chips, delivering 84W at 6000K color temperature with 8400 lumens of high output for maximum lighting visibility, allowing you to see further and wider but draw less power.</p>
                             </div>
                         </div>
                         <div class="info-detail">
                             <div class="desc">
-                                <p class="sub-title">Sound Active Function</p>
-                                <p>The LED strip light can change color with your voice or music. Allows you to enjoy the fun with the color changing following your car stereo music rhythm as well as your voice.</p>
+                                <p class="sub-title">Perfect COMBO Beam, Better Illumination</p>
+                                <p>These awesome Quad row LED light bar using the latest technology unlike any you’ve seen before. Middle dual row 30° spot light surrounded by 150° flood light for an excellent combo beam visual effects. The brand new reflectors provide you perfect combo beam for wider viewing area and longer illumination distance.</p>
                             </div>
                             <div class="img">
-                                <img src="../../../../images/ECL-DE48C-4.jpg"/>
+                                <img src="../../../../images/ECL-EV84-detail-2.jpg"/>
                             </div>
                         </div>
                         <div class="info-detail">
                             <div class="img">
-                                <img src="../../../../images/ECL-DE48C-detail-3.jpg"/>
+                                <img src="../../../../images/ECL-EV84-3.jpg"/>
                             </div>
                             <div class="desc">
-                                <p class="sub-title">Wireless Remote Control</p>
-                                <p>You can use the wireless remote controller to change the color and adjust the brightness as you wish. Please note:</p>
-                                <p>1. The remote control should point directly to the black receiver box and there is no obstacle between. </p>
-                                <p>2. The remote should be placed near to the receiver box, not too far.</p>
+                                <p class="sub-title">Premium Performance, IP68 Waterproof</p>
+                                <p>Manufactured from high-grade IP68 Waterproof Rated Die-Casting Aluminum, the LED pods has excellent waterproof, dustproof, rustproof, quake proof and quick cooling performance. Combined durability and affordability performance, it was built for the harshest environments.</p>
                             </div>
                         </div>
                         <div class="info-detail">
                             <div class="desc">
-                                <p class="sub-title">Multicolour Effect Mode</p>
-                                <p>This LED strip light is set with 8 static color modes and 8 dynamic color modes. You can change the color modes in different conditions as you like with the remote controller.</p>
+                                <p class="sub-title">Supreme Heat Dissipation</p>
+                                <p> A black-painted 6063 aluminum and unbreakable polycarbonate lens protect the internal components, and the integral heat sink allows all the LEDs to run cool and ensuring maximum LED efficiency, which leads to incredibly long lifespan over 50,000 hours!</p>
                             </div>
                             <div class="img">
-                                <img src="../../../../images/ECL-DE48C-detail-4.jpg"/>
+                                <img src="../../../../images/ECL-EV84-detail-4.jpg"/>
                             </div>
                         </div>
                         <div class="info-detail">
                             <div class="img">
-                                <img src="../../../../images/ECL-DE48C-6.jpg"/>
+                                <img src="../../../../images/ECL-EV84-detail-5.jpg"/>
                             </div>
                             <div class="desc">
-                                <p class="sub-title">Easy To Install</p>
-                                <p>The light strip is with double-sided adhesive straps, you can simply install it to the place(better in the gap or away from our sight) you want. Then insert the cigarette lighter and turn on the switch botton, you can have a wonderful lighting effect in your car.</p>
+                                <p class="sub-title">Adjustable Mounting Bracket</p>
+                                <p>The angle of the mounting bracket can be adjusted about 45 degrees. You can freely install the light bars on the front bumper, bull bar, lower bumper opening, front the grill, hood, roof rack and rear step bumper of your cars to replace the original high/low beam lights, fog lights, tail lights and reverse lights.</p>
+                            </div>
+                        </div>
+                        <div class="info-detail">
+                            <div class="desc">
+                                <p class="sub-title">Wide Applications</p>
+                                <p>With working voltage of 9-32V DC, our ultra bright Quad Row 72W LED work light bar can be widely used to most of vehicles style (Off-Road, SUV, ATV, UTV, Trucks, Marine, Motorcycle, Boat, Heavy Duty Marine etc.)</p>
+                            </div>
+                            <div class="img">
+                                <img src="../../../../images/ECL-EV84-6.jpg"/>
                             </div>
                         </div>
                         <div class="square">
-                            <img src="../../../../images/ECL-DE48C-3.jpg" />
+                            <img style="width: 50%;" src="../../../../images/ECL-EV84-2.jpg" />
                         </div>
                         <div class="square">
-                            <img style="width: 80%; margin-bottom: 40px;" src="../../../../images/ECL-DE48C-2.jpg" />
+                            <img style="width: 80%; margin: 40px 0;" src="../../../../images/ECL-EV84-detail-8.jpg" />
                         </div>
                         <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-8.jpg" />
+                            <img style="margin-bottom: 40px;" src="../../../../images/ECL-EV84-4.jpg" />
                         </div>
                         <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-9.jpg" />
+                            <img src="../../../../images/ECL-EV84-5.jpg" />
                         </div>
                         <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-10.jpg" />
+                            <img src="../../../../images/ECL-EV84-detail-11.jpg" />
                         </div>
                         <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-11.jpg" />
+                            <img src="../../../../images/ECL-EV84-detail-12.jpg" />
                         </div>
                         <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-12.jpg" />
+                            <img src="../../../../images/ECL-EV84-detail-13.jpg" />
                         </div>
                         <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-13.jpg" />
+                            <img src="../../../../images/ECL-EV84-detail-14.jpg" />
                         </div>
                         <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-14.jpg" />
-                        </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-5.jpg" />
-                        </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-16.jpg" />
-                        </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-17.jpg" />
+                            <img src="../../../../images/ECL-EV84-detail-15.jpg" />
                         </div>
                     </div>
                     <?php include('../../../../inc/messageBox.php'); ?>
                 </div>
             </div>
             <!-- 留言板 -->
+            
         </div>
     </div>
     <footer>
@@ -390,6 +387,18 @@
         </div>
     </footer>
     <script type="text/javascript" src="../../../../inc/index.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('.submenu-fold').each(function(index) {
+                $(this).click(function() {
+                    console.log(index)
+                    $(this).toggleClass('active')
+                    console.log($('.fold-menu'))
+                    $('.fold-menu').eq(index).toggleClass("foldMenu-active");
+                })
+            })
+        })
+    </script>
 </body>
 
 </html>

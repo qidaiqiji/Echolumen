@@ -6,14 +6,15 @@
     <meta name="viewport"
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="description" content="EchoLumen DE48C atmosphere light for car is using the high quality car light strips to create a romantic lighting effect in the car to be entertaining. EchoLumen is the best manufacturer of LED strips for car and car interior light in China." />
-    <meta name="keywords" content="Car interior light, Atmosphere light for car, LED strips for car, car light strips, LED light strips, LED car light" />
-    <title>ECL-DE48C Car Interior Light | Atmosphere Light for Car | LED Strips for Car & Car Light Strips| EchoLumen</title>
+    <meta name="description" content="EchoLumen 10C LED auto lamp is the best LED car headlight for all types of cars for easy replacement and installation. EchoLumen LED headlight bulb will bring you the best visibility and driving performance. " />
+    <meta name="keywords" content="LED auto lamp, LED auto light, LED car headlight, LED headlight bulb, LED car light, headlight bulb, LED headlight for car" />
+    <title>LED Auto Lamp | LED Car Headlight | LED Headlight Bulb & LED Auto Light-EchoLumen</title>
     <link rel="stylesheet" href="../../../../css/reset.css">
     <link rel="stylesheet" href="../../../../css/font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="../../../../css/common.css">
     <link rel="stylesheet" href="../../../../css/detail.css">
     <link rel="icon" href="../../../../images/favicon.ico">
+    
     <script src="../../../../utils/jquery-3.2.1.min.js"></script>
 </head>
 
@@ -45,13 +46,13 @@
                                             <span>LED Car Light</span>
                                         </a>
                                         <div class="fold-menu foldMenu-active">
-                                            <a class="subMenu-link" href="../../led-headlight-bulb/">
+                                            <a class="subMenu-link submenu-item-active" href="../../led-headlight-bulb/">
                                                 LED Headlight Bulb
                                             </a>
                                             <a class="subMenu-link" href="../../led-off-road-light/">
                                                 LED Off Road Light
                                             </a>
-                                            <a class="subMenu-link submenu-item-active" href="../../car-interior-light">
+                                            <a class="subMenu-link" href="../../car-interior-light/">
                                                 Car Interior Light
                                             </a>
                                         </div>
@@ -127,13 +128,13 @@
                                         <span>LED Car Light</span>
                                     </a>
                                     <div class="cat-fold-menu cat-foldMenu-active">
-                                        <a class="cat-subMenu-link" href="../../led-headlight-bulb/">
+                                        <a class="cat-subMenu-link submenu-item-active" href="../../led-headlight-bulb/">
                                             LED Headlight Bulb
                                         </a>
                                         <a class="cat-subMenu-link" href="../../led-off-road-light/">
                                             LED Off Road Light
                                         </a>
-                                        <a class="cat-subMenu-link submenu-item-active" href="../../car-interior-light/">
+                                        <a class="cat-subMenu-link" href="../../car-interior-light/">
                                             Car Interior Light
                                         </a>
                                     </div>
@@ -173,59 +174,59 @@
                                 <i class="fa fa-angle-right right" style="right: 0;"></i>
                                 <div class="img-main">
                                     <div class="img">
-                                        <img src="../../../../images/ECL-DE48C-1.jpg"/>
+                                        <img src="../../../../images/ECL-10C-1.jpg"/>
                                     </div>
                                     <div class="img">
-                                        <img src="../../../../images/ECL-DE48C-2.jpg"/>
+                                        <img src="../../../../images/ECL-10C-2.jpg"/>
                                     </div>
                                     <div class="img">
-                                        <img src="../../../../images/ECL-DE48C-3.jpg"/>
+                                        <img src="../../../../images/ECL-10C-3.jpg"/>
                                     </div>
                                     <div class="img">
-                                        <img src="../../../../images/ECL-DE48C-4.jpg"/>
+                                        <img src="../../../../images/ECL-10C-4.jpg"/>
                                     </div>
                                     <div class="img">
-                                        <img src="../../../../images/ECL-DE48C-5.jpg"/>
+                                        <img src="../../../../images/ECL-10C-5.jpg"/>
                                     </div>
                                     <div class="img">
-                                        <img src="../../../../images/ECL-DE48C-6.jpg"/>
+                                        <img src="../../../../images/ECL-10C-6.jpg"/>
                                     </div>
                                 </div>
                             </div>
                             <ul class="img-list">
                                 <li class="active">
-                                    <img src="../../../../images/ECL-DE48C-1.jpg"/>
+                                    <img src="../../../../images/ECL-10C-1.jpg"/>
                                 </li>
                                 <li>
-                                    <img src="../../../../images/ECL-DE48C-2.jpg"/>
+                                    <img src="../../../../images/ECL-10C-2.jpg"/>
                                 </li>
                                 <li>
-                                    <img src="../../../../images/ECL-DE48C-3.jpg"/>
+                                    <img src="../../../../images/ECL-10C-3.jpg"/>
                                 </li>
                                 <li>
-                                    <img src="../../../../images/ECL-DE48C-4.jpg"/>
+                                    <img src="../../../../images/ECL-10C-4.jpg"/>
                                 </li>
                                 <li>
-                                    <img src="../../../../images/ECL-DE48C-5.jpg"/>
+                                    <img src="../../../../images/ECL-10C-5.jpg"/>
                                 </li>
                                 <li>
-                                    <img src="../../../../images/ECL-DE48C-6.jpg"/>
+                                    <img src="../../../../images/ECL-10C-6.jpg"/>
                                 </li>
                             </ul>
                         </div>
                         <div class="instruction">
-                            <h2>EchoLumen 4PCS 48 LED Interior Car Lights Cigarette Lighter DC 12V Multicolor Music Car Strip Light Under Dash Lighting Kit With Sound Active Function And Wireless Remote Control</h2>
-                            <p>Model: ECL-DE48C</p>
-                            <p>LED Source: RGB 48PCS SMD 5050</p>
-                            <p>Maximum Power: 10W</p>
-                            <p>Working Voltage: DC12V</p>
-                            <p>Interface: Cigarette Lighter</p>
-                            <p>Control: RF Remote Controller</p>
-                            <p>Light Strip Wire Length: 2 x 1200mm(47.2 inch) + 2 x 1700mm(66.9 inch)</p>
-                            <p>Service Time: >50,000H</p>
-                            <p>Waterproof: IP67</p>
-                            <p>Material: Acrylonitrile Butadiene Styrene</p>
-                            <p>Type Fit: Universal</p>
+                            <h2>EchoLumen H4/H4U All-in-one LED Headlight Bulbs, 30W 6000 Lumens Super Bright LED Headlights Conversion Kit 6500K Cool White IP68 Waterproof For LED Auto Lamp LED Car Headlight</h2>
+                            <p>Model: ECL-10C</p>
+                            <p>LED Brand: Top Brand LUMILEDS </p>
+                            <p>Maximum Power: 60W</p>
+                            <p>Luminous Flux: 6000LM</p>
+                            <p>Working Voltage: DC 12V</p>
+                            <p>Color Temperature: 6000-6500K</p>
+                            <p>Working Temperature: -40℃ ~ 80℃</p>
+                            <p>Waterproof: IP68</p>
+                            <p>Material: Aviation Aluminum</p>
+                            <p>Sockets Supported: H4 and H4U</p>
+                            <p>Application: All types of LED auto lamp compatible with socket H4 and H4U</p>
                             <a class="inquery" href="mailto:info@echolumen.com">Inquiry</a>
                         </div>
                     </div>
@@ -233,97 +234,71 @@
                 <div class="detail-section">
                     <div class="blog">
                         <div class="seperate">Product Description</div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-banner.jpg" />
-                        </div>
-                        <div class="info-detail">
-                            <div class="img">
-                                <img src="../../../../images/ECL-DE48C-1.jpg"/>
-                            </div>
+                        <div class="info-item">
+                            <img src="../../../../images/ECL-10C-5.jpg" />
                             <div class="desc">
-                                <p class="sub-title">High Quality Material</p>
-                                <p>Voltage DC 12V, wattage10W. ABS material made, ultra-thin, high quality music LED strip light, water resistant, anti-collision, anti-corrosion, fits all cars SUV vans trucks boats with 12V DC power.</p>
+                                <p>EchoLumen 10C LED auto lamp is designed to provide an option for the customers who are willing to replace their original car light bulbs with the LED auto lamp which with higher brightness and better lighting performance. This all in one LED car headlight is featured with high brightness output (around 6000LM) and 360 adjustable socket to match the original car light bulbs to ensure the best light shape. What is more, EchoLumen 10C LED car headlight supports both H4 and H4U sockets. </p>
                             </div>
                         </div>
-                        <div class="info-detail">
+                        <div class="info-item">
+                            <img src="../../../../images/ECL-10C-detail-2.jpg" />
                             <div class="desc">
-                                <p class="sub-title">Sound Active Function</p>
-                                <p>The LED strip light can change color with your voice or music. Allows you to enjoy the fun with the color changing following your car stereo music rhythm as well as your voice.</p>
-                            </div>
-                            <div class="img">
-                                <img src="../../../../images/ECL-DE48C-4.jpg"/>
+                                <p>The headlight/headlamp to a car is just like the eyes to human. Its core function is to provide sufficient light and good visibility for the drivers especially driving at night. So, the reason why choose LED car headlight is quite simple, the LED auto lamp is capable of generating much higher brightness than halogen car light bulbs and providing a longer irradiation distance and better visibility for the drivers. From the above picture you will see the LED auto lamp beats halogen car light bulb at the performance of both low beam and high beam. Sometimes, a longer irradiation distance and better visibility may earn a few more seconds for the drivers to respond and take actions to avoid accidents.</p>
                             </div>
                         </div>
-                        <div class="info-detail">
-                            <div class="img">
-                                <img src="../../../../images/ECL-DE48C-detail-3.jpg"/>
-                            </div>
+                        <div class="info-item">
+                            <img src="../../../../images/ECL-10C-detail-3.jpg" />
                             <div class="desc">
-                                <p class="sub-title">Wireless Remote Control</p>
-                                <p>You can use the wireless remote controller to change the color and adjust the brightness as you wish. Please note:</p>
-                                <p>1. The remote control should point directly to the black receiver box and there is no obstacle between. </p>
-                                <p>2. The remote should be placed near to the receiver box, not too far.</p>
+                                <p>EchoLumen 10C LED auto lamp is featured with excellent condensing effect to guarantee the concentrated light shape. The 6500K pure white with high brightness 6000LM makes the performance of both low beam and high beam so extraordinary and bring you a comfortable and safer driving experience.</p>
                             </div>
                         </div>
-                        <div class="info-detail">
+                        <div class="info-item">
+                            <img src="../../../../images/ECL-10C-6.jpg" />
                             <div class="desc">
-                                <p class="sub-title">Multicolour Effect Mode</p>
-                                <p>This LED strip light is set with 8 static color modes and 8 dynamic color modes. You can change the color modes in different conditions as you like with the remote controller.</p>
-                            </div>
-                            <div class="img">
-                                <img src="../../../../images/ECL-DE48C-detail-4.jpg"/>
+                                <p>EchoLumen 10C LED auto lamp is elaborately designed with excellent craftsmanship to beyond your expectations on quality and stability. To maintain a perfect heat conduction and heat dissipation, EchoLumen 10C LED auto lamp applies the solid copper substrate to conduct the heat produced by LED chips to prevent it from overheating and burning.</p>
+                                <p>At the end of the plug, the directional supercharged air cooling system will dissipate all the heat from the whole lamp body and the integrated all in one driver. All these elaborate designs can make sure the LED auto lamp operating at the controllable temperature range and maintain its best performance and stability.</p>
                             </div>
                         </div>
-                        <div class="info-detail">
-                            <div class="img">
-                                <img src="../../../../images/ECL-DE48C-6.jpg"/>
-                            </div>
+                        <div class="info-item">
+                            <img src="../../../../images/ECL-10C-detail-5.jpg" />
                             <div class="desc">
-                                <p class="sub-title">Easy To Install</p>
-                                <p>The light strip is with double-sided adhesive straps, you can simply install it to the place(better in the gap or away from our sight) you want. Then insert the cigarette lighter and turn on the switch botton, you can have a wonderful lighting effect in your car.</p>
+                                <p>EchoLumen 10C LED auto lamp adopts the high end imported LUMILEDS ZES LED chip as light source to make sure the Max brightness output. With the high profile LED chip, the overall performance of EchoLumen 10C LED auto lamp is quadrupled improved, so as to its brightness. By comparison, the irradiation distance of EchoLumen LED auto lamp is at least quadrupled  than the normal halogen car light bulb. </p>
                             </div>
                         </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-3.jpg" />
+                        <div class="info-item">
+                            <img src="../../../../images/ECL-10C-detail-6.jpg" />
+                            <div class="desc">
+                                <p>Adopting high profile aviation thermal aluminum, high efficient copper thermal conductor and high quality smart fan for superior heat dissipation, the multi effect heat dissipation design of EchoLumen 10C LED auto lamp creates the perfect working temperature for LED headlight and guarantee its long service life. </p>
+                            </div>
                         </div>
-                        <div class="square">
-                            <img style="width: 80%; margin-bottom: 40px;" src="../../../../images/ECL-DE48C-2.jpg" />
+                        <div class="info-item">
+                            <img src="../../../../images/ECL-10C-detail-7.jpg" />
+                            <div class="desc">
+                                <p>EchoLumen 10C LED auto lamp is featured with high IP rating lamp body to make sure it is waterproof, dustproof and cold resistant. Our LED auto lamp is with top stability and is highly resistant to any weather conditions and guard your safe driving. High stability EchoLumen 10C LED auto lamp requires no maintenance and which in return will cut down your cost sharply.</p>
+                            </div>
                         </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-8.jpg" />
+                        <div class="info-item">
+                            <img src="../../../../images/ECL-10C-detail-8.jpg" />
+                            <div class="desc">
+                                <p>EchoLumen 10C LED auto lamp is equipped with 360° adjustable light angle socket to make sure it can work with any type of reflectors. The socket can be adjusted to match the original lamp's position and get the perfect light condensing effect. The consumers can DIY the installation and requires no 4S store service. EchoLumen 10C LED auto lamp enables consumers enjoy the modification experience with a low cost. </p>
+                            </div>
                         </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-9.jpg" />
+                        <div class="info-item">
+                            <img src="../../../../images/ECL-10C-detail-9.jpg" />
+                            <div class="desc">
+                                <p>With 1:1 elaborate design, EchoLumen 10C LED auto lamp can fit into 99% of original models. Comparing with the traditional halogen headlight bulb, EchoLumen LED auto lamp is smaller in size but higher brightness output, which supports Non destructive installation and no need to change any wiring, as long as the corresponding bulb model can fit into the auto.</p>
+                            </div>
                         </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-10.jpg" />
-                        </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-11.jpg" />
-                        </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-12.jpg" />
-                        </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-13.jpg" />
-                        </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-14.jpg" />
-                        </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-5.jpg" />
-                        </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-16.jpg" />
-                        </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-17.jpg" />
+                        <div class="info-item" style="border-bottom: none;">
+                            <img src="../../../../images/ECL-10C-detail-10.jpg" />
+                            <div class="desc">
+                                <p>The installation of EchoLumen 10C is very easy, since it is universal to 99% auto models, you can simply take down the Halogen bulb and install the LED auto lamp directly. No tools and wiring needed. But please remember to adjust the LED auto lamp to match the Halogen bulb to get the best condensing effect and perfect light shape.</p>
+                            </div>
                         </div>
                     </div>
                     <?php include('../../../../inc/messageBox.php'); ?>
                 </div>
             </div>
-            <!-- 留言板 -->
         </div>
     </div>
     <footer>

@@ -6,9 +6,9 @@
     <meta name="viewport"
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="description" content="EchoLumen DE48C atmosphere light for car is using the high quality car light strips to create a romantic lighting effect in the car to be entertaining. EchoLumen is the best manufacturer of LED strips for car and car interior light in China." />
-    <meta name="keywords" content="Car interior light, Atmosphere light for car, LED strips for car, car light strips, LED light strips, LED car light" />
-    <title>ECL-DE48C Car Interior Light | Atmosphere Light for Car | LED Strips for Car & Car Light Strips| EchoLumen</title>
+    <meta name="description" content="EchoLumen ESW-100 solar wall light equipped high quality motion capture infrared sensor to enable intelligent turn on/off of our LED wall light to save energy and maintain it long working hours. EchoLumen is the best outdoor wall light and LED solar light manufacturer in China." />
+    <meta name="keywords" content="Solar wall light, LED wall light, outdoor wall light, solar outdoor light, outdoor solar light, LED solar light" />
+    <title>ESW-100 Solar Wall Light | LED Wall Light | Outdoor Wall Light & LED Solar Light-EchoLumen</title>
     <link rel="stylesheet" href="../../../../css/reset.css">
     <link rel="stylesheet" href="../../../../css/font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="../../../../css/common.css">
@@ -45,13 +45,13 @@
                                             <span>LED Car Light</span>
                                         </a>
                                         <div class="fold-menu foldMenu-active">
-                                            <a class="subMenu-link" href="../../led-headlight-bulb/">
+                                            <a class="subMenu-link" href="../../../led-car-light/led-headlight-bulb/">
                                                 LED Headlight Bulb
                                             </a>
-                                            <a class="subMenu-link" href="../../led-off-road-light/">
+                                            <a class="subMenu-link" href="../../../led-car-light/led-off-road-light/">
                                                 LED Off Road Light
                                             </a>
-                                            <a class="subMenu-link submenu-item-active" href="../../car-interior-light">
+                                            <a class="subMenu-link" href="../../../led-car-light/car-interior-light/">
                                                 Car Interior Light
                                             </a>
                                         </div>
@@ -62,10 +62,10 @@
                                             <span>LED Solar Light</span>
                                         </a>
                                         <div class="fold-menu foldMenu-active">
-                                            <a class="subMenu-link" href="../../../led-solar-light/solar-garden-light/">
+                                            <a class="subMenu-link" href="../../solar-garden-light/">
                                                 Solar Garden Light
                                             </a>
-                                            <a class="subMenu-link" href="../../../led-solar-light/solar-wall-light/">
+                                            <a class="subMenu-link submenu-item-active" href="../../solar-wall-light/">
                                                 Solar Wall Light
                                             </a>
                                         </div>
@@ -127,13 +127,13 @@
                                         <span>LED Car Light</span>
                                     </a>
                                     <div class="cat-fold-menu cat-foldMenu-active">
-                                        <a class="cat-subMenu-link" href="../../led-headlight-bulb/">
+                                        <a class="cat-subMenu-link" href="../../../led-car-light/led-headlight-bulb/">
                                             LED Headlight Bulb
                                         </a>
-                                        <a class="cat-subMenu-link" href="../../led-off-road-light/">
+                                        <a class="cat-subMenu-link" href="../../../led-car-light/led-off-road-light/">
                                             LED Off Road Light
                                         </a>
-                                        <a class="cat-subMenu-link submenu-item-active" href="../../car-interior-light/">
+                                        <a class="cat-subMenu-link" href="../../../led-car-light/car-interior-light/">
                                             Car Interior Light
                                         </a>
                                     </div>
@@ -144,10 +144,10 @@
                                         <span>LED Solar Light</span>
                                     </a>
                                     <div class="cat-fold-menu cat-foldMenu-active">
-                                        <a class="cat-subMenu-link" href="../../../led-solar-light/solar-garden-light/">
+                                        <a class="cat-subMenu-link" href="../../solar-garden-light/">
                                             Solar Garden Light
                                         </a>
-                                        <a class="cat-subMenu-link" href="../../../led-solar-light/solar-wall-light/">
+                                        <a class="cat-subMenu-link submenu-item-active" href="../../solar-wall-light/">
                                             Solar Wall Light
                                         </a>
                                     </div>
@@ -173,59 +173,59 @@
                                 <i class="fa fa-angle-right right" style="right: 0;"></i>
                                 <div class="img-main">
                                     <div class="img">
-                                        <img src="../../../../images/ECL-DE48C-1.jpg"/>
+                                        <img src="../../../../images/esw-100-1.jpg"/>
                                     </div>
                                     <div class="img">
-                                        <img src="../../../../images/ECL-DE48C-2.jpg"/>
+                                        <img src="../../../../images/esw-100-2.jpg"/>
                                     </div>
                                     <div class="img">
-                                        <img src="../../../../images/ECL-DE48C-3.jpg"/>
+                                        <img src="../../../../images/esw-100-3.jpg"/>
                                     </div>
                                     <div class="img">
-                                        <img src="../../../../images/ECL-DE48C-4.jpg"/>
+                                        <img src="../../../../images/esw-100-4.jpg"/>
                                     </div>
                                     <div class="img">
-                                        <img src="../../../../images/ECL-DE48C-5.jpg"/>
+                                        <img src="../../../../images/esw-100-5.jpg"/>
                                     </div>
                                     <div class="img">
-                                        <img src="../../../../images/ECL-DE48C-6.jpg"/>
+                                        <img src="../../../../images/esw-100-6.jpg"/>
                                     </div>
                                 </div>
                             </div>
                             <ul class="img-list">
                                 <li class="active">
-                                    <img src="../../../../images/ECL-DE48C-1.jpg"/>
+                                    <img src="../../../../images/esw-100-1.jpg"/>
                                 </li>
                                 <li>
-                                    <img src="../../../../images/ECL-DE48C-2.jpg"/>
+                                    <img src="../../../../images/esw-100-2.jpg"/>
                                 </li>
                                 <li>
-                                    <img src="../../../../images/ECL-DE48C-3.jpg"/>
+                                    <img src="../../../../images/esw-100-3.jpg"/>
                                 </li>
                                 <li>
-                                    <img src="../../../../images/ECL-DE48C-4.jpg"/>
+                                    <img src="../../../../images/esw-100-4.jpg"/>
                                 </li>
                                 <li>
-                                    <img src="../../../../images/ECL-DE48C-5.jpg"/>
+                                    <img src="../../../../images/esw-100-5.jpg"/>
                                 </li>
                                 <li>
-                                    <img src="../../../../images/ECL-DE48C-6.jpg"/>
+                                    <img src="../../../../images/esw-100-6.jpg"/>
                                 </li>
                             </ul>
                         </div>
                         <div class="instruction">
-                            <h2>EchoLumen 4PCS 48 LED Interior Car Lights Cigarette Lighter DC 12V Multicolor Music Car Strip Light Under Dash Lighting Kit With Sound Active Function And Wireless Remote Control</h2>
-                            <p>Model: ECL-DE48C</p>
-                            <p>LED Source: RGB 48PCS SMD 5050</p>
-                            <p>Maximum Power: 10W</p>
-                            <p>Working Voltage: DC12V</p>
-                            <p>Interface: Cigarette Lighter</p>
-                            <p>Control: RF Remote Controller</p>
-                            <p>Light Strip Wire Length: 2 x 1200mm(47.2 inch) + 2 x 1700mm(66.9 inch)</p>
-                            <p>Service Time: >50,000H</p>
-                            <p>Waterproof: IP67</p>
-                            <p>Material: Acrylonitrile Butadiene Styrene</p>
-                            <p>Type Fit: Universal</p>
+                            <h2>EchoLumen LED Solar Wall Lights 100 LEDs Upgraded PIR Detective System Solar Motion Sensor Light IP65 Waterproof Auto On/Off Wireless Solar Powered Security Wall Light Garden Garage Backyard</h2>
+                            <p>Model: ESW-100</p>
+                            <p>LED: 100 PCS Ultra Bright SMD2835</p>
+                            <p>Lithium-ion Battery: 1800mAh   3.7V</p>
+                            <p>Solar Panel: Monocrystalline silicon  5.5V  1.2W</p>
+                            <p>Install Height: 2M-3M</p>
+                            <p>IP Rating: IP65 Waterproof</p>
+                            <p>Solar Charging Time: 8-9 hours by bright sunlight</p>
+                            <p>Lighting Output Time: 12 hours per night</p>
+                            <p>Material: ABS + PC</p>
+                            <p>Induction Type: Human body infrared sensor</p>
+                            <p>Product Size: 228x86x68mm</p>
                             <a class="inquery" href="mailto:info@echolumen.com">Inquiry</a>
                         </div>
                     </div>
@@ -233,97 +233,78 @@
                 <div class="detail-section">
                     <div class="blog">
                         <div class="seperate">Product Description</div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-banner.jpg" />
-                        </div>
                         <div class="info-detail">
                             <div class="img">
-                                <img src="../../../../images/ECL-DE48C-1.jpg"/>
+                                <img src="../../../../images/esw-100-1.jpg"/>
                             </div>
                             <div class="desc">
-                                <p class="sub-title">High Quality Material</p>
-                                <p>Voltage DC 12V, wattage10W. ABS material made, ultra-thin, high quality music LED strip light, water resistant, anti-collision, anti-corrosion, fits all cars SUV vans trucks boats with 12V DC power.</p>
+                                <p class="sub-title">White Cold Lights Illuminate Your Way Home</p>
+                                <p>270 degrees wide angle illumination angle, unique two light boards design and 100pcs super bright LED beads on our solar lights outdoor, the range of the illumination can up to 30 square meters, offers more lights for your front door, porch, yard, patio, garden, deck, driveway or backyard,etc. Ensure the safety of your family and your neighbors on the way home.</p>
                             </div>
                         </div>
                         <div class="info-detail">
                             <div class="desc">
-                                <p class="sub-title">Sound Active Function</p>
-                                <p>The LED strip light can change color with your voice or music. Allows you to enjoy the fun with the color changing following your car stereo music rhythm as well as your voice.</p>
+                                <p class="sub-title">Auto On/Off By Light Sensor & Motion Sensor</p>
+                                <p>In the daytime, security lights auto-turn off and the solar panel will auto-charge. At night, the sensor lights auto-go into standby mode. When a person enters the motion detected range (0-26 feet with a 120 degree motion angle), the outdoor lights will auto-turn on by motion sensor technology; when the person leaves the motion detected range, the wall lights will light lasts 30 seconds and turn off then re-enter the standby mode.</p>
                             </div>
                             <div class="img">
-                                <img src="../../../../images/ECL-DE48C-4.jpg"/>
+                                <img src="../../../../images/esw-100-2.jpg"/>
                             </div>
                         </div>
                         <div class="info-detail">
                             <div class="img">
-                                <img src="../../../../images/ECL-DE48C-detail-3.jpg"/>
+                                <img src="../../../../images/esw-100-detail-3.jpg"/>
                             </div>
                             <div class="desc">
-                                <p class="sub-title">Wireless Remote Control</p>
-                                <p>You can use the wireless remote controller to change the color and adjust the brightness as you wish. Please note:</p>
-                                <p>1. The remote control should point directly to the black receiver box and there is no obstacle between. </p>
-                                <p>2. The remote should be placed near to the receiver box, not too far.</p>
+                                <p class="sub-title">Highly Charging Efficient Solar Panel  </p>
+                                <p>This upgraded wireless solar powered security light adopts a larger mono-crystalline silicon solar panel, achieving a photoelectric conversion rate of up to 20%. The charging time takes only 6-8hours and can maintain a 8-10 hours lighting time. With no electricity consumption and waste gas emission, it simply just utilizes sun power and make it easier for any of us to live an energy-saving and Eco-friendly life.</p>
                             </div>
                         </div>
                         <div class="info-detail">
                             <div class="desc">
-                                <p class="sub-title">Multicolour Effect Mode</p>
-                                <p>This LED strip light is set with 8 static color modes and 8 dynamic color modes. You can change the color modes in different conditions as you like with the remote controller.</p>
+                                <p class="sub-title">Solar Power Energy Saving & Longer Service Life</p>
+                                <p>EchoLumen solar LED flood lights outdoor motion sensor use solar energy to power the lights. Lighting up your front door while saving your electricity bills! Built in 1800mAh lithium battery, a full charge will take 6 hours of sunlight on sunny days, and the LED solar flood lights can be used for 6-8 hours after fully charged. Service life can approach more than 5000 hours, much longer than other outdoor solar lights.</p>
                             </div>
                             <div class="img">
-                                <img src="../../../../images/ECL-DE48C-detail-4.jpg"/>
+                                <img src="../../../../images/esw-100-4.jpg"/>
                             </div>
                         </div>
                         <div class="info-detail">
                             <div class="img">
-                                <img src="../../../../images/ECL-DE48C-6.jpg"/>
+                                <img src="../../../../images/esw-100-3.jpg"/>
                             </div>
                             <div class="desc">
-                                <p class="sub-title">Easy To Install</p>
-                                <p>The light strip is with double-sided adhesive straps, you can simply install it to the place(better in the gap or away from our sight) you want. Then insert the cigarette lighter and turn on the switch botton, you can have a wonderful lighting effect in your car.</p>
+                                <p class="sub-title">IP65 Commercial Grade Waterproof & Heatproof</p>
+                                <p>EchoLumen solar LED wall light outdoor is IP65 waterproof and heatproof, meets daily waterproofing requirements, so can work normally in extreme climates. No worries about the leakage on rainy days and the explosion on hot days. Suitable for your all season use.</p>
+                            </div>
+                        </div>
+                        <div class="info-detail">
+                            <div class="desc">
+                                <p class="sub-title">Extremely Easy Installation</p>
+                                <p>Simply find a place with sufficient sunshine and fix the light with supplied screws onto it. Then active the light with key pin. The ideal installing height is around 6.5ft(2meters).</p>
+                            </div>
+                            <div class="img">
+                                <img src="../../../../images/esw-100-detail-6.jpg"/>
                             </div>
                         </div>
                         <div class="square">
-                            <img src="../../../../images/ECL-DE48C-3.jpg" />
+                            <img src="../../../../images/esw-100-detail-7.jpg" />
                         </div>
                         <div class="square">
-                            <img style="width: 80%; margin-bottom: 40px;" src="../../../../images/ECL-DE48C-2.jpg" />
+                            <img src="../../../../images/esw-100-detail-8.jpg" />
                         </div>
                         <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-8.jpg" />
+                            <img src="../../../../images/esw-100-5.jpg" />
                         </div>
                         <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-9.jpg" />
-                        </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-10.jpg" />
-                        </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-11.jpg" />
-                        </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-12.jpg" />
-                        </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-13.jpg" />
-                        </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-14.jpg" />
-                        </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-5.jpg" />
-                        </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-16.jpg" />
-                        </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-17.jpg" />
+                            <img src="../../../../images/esw-100-6.jpg" />
                         </div>
                     </div>
                     <?php include('../../../../inc/messageBox.php'); ?>
                 </div>
             </div>
             <!-- 留言板 -->
+            
         </div>
     </div>
     <footer>
@@ -390,6 +371,20 @@
         </div>
     </footer>
     <script type="text/javascript" src="../../../../inc/index.js"></script>
+    
+    
+    <script>
+        $(document).ready(function () {
+            $('.submenu-fold').each(function(index) {
+                $(this).click(function() {
+                    console.log(index)
+                    $(this).toggleClass('active')
+                    console.log($('.fold-menu'))
+                    $('.fold-menu').eq(index).toggleClass("foldMenu-active");
+                })
+            })
+        })
+    </script>
 </body>
 
 </html>

@@ -6,9 +6,9 @@
     <meta name="viewport"
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="description" content="EchoLumen DE48C atmosphere light for car is using the high quality car light strips to create a romantic lighting effect in the car to be entertaining. EchoLumen is the best manufacturer of LED strips for car and car interior light in China." />
-    <meta name="keywords" content="Car interior light, Atmosphere light for car, LED strips for car, car light strips, LED light strips, LED car light" />
-    <title>ECL-DE48C Car Interior Light | Atmosphere Light for Car | LED Strips for Car & Car Light Strips| EchoLumen</title>
+    <meta name="description" content="EchoLumen EP80 LED garage light adopts top quality LEDs and aluminum to get the best performance and stability LED light to light up the garage, warehouse, workshop, barn, basement, parking lot, corridor, stadium, office, supermarket etc." />
+    <meta name="keywords" content="LED garage light, LED light for garage, garage ceiling light, high bay LED light, LED light, indoor LED light" />
+    <title>EGL-EP80 LED Garage Light | LED Light for Garage & Garage Ceiling Light-EchoLumen </title>
     <link rel="stylesheet" href="../../../../css/reset.css">
     <link rel="stylesheet" href="../../../../css/font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="../../../../css/common.css">
@@ -45,13 +45,13 @@
                                             <span>LED Car Light</span>
                                         </a>
                                         <div class="fold-menu foldMenu-active">
-                                            <a class="subMenu-link" href="../../led-headlight-bulb/">
+                                            <a class="subMenu-link" href="../../../led-car-light/led-headlight-bulb/">
                                                 LED Headlight Bulb
                                             </a>
-                                            <a class="subMenu-link" href="../../led-off-road-light/">
+                                            <a class="subMenu-link" href="../../../led-car-light/led-off-road-light/">
                                                 LED Off Road Light
                                             </a>
-                                            <a class="subMenu-link submenu-item-active" href="../../car-interior-light">
+                                            <a class="subMenu-link" href="../../../led-car-light/car-interior-light/">
                                                 Car Interior Light
                                             </a>
                                         </div>
@@ -76,7 +76,7 @@
                                             <span>LED Light</span>
                                         </a>
                                         <div class="fold-menu foldMenu-active">
-                                            <a class="subMenu-link" href="../../../led-light/led-garage-light/">
+                                            <a class="subMenu-link submenu-item-active" href="../../led-garage-light/">
                                                 LED Garage Light
                                             </a>
                                         </div>
@@ -127,13 +127,13 @@
                                         <span>LED Car Light</span>
                                     </a>
                                     <div class="cat-fold-menu cat-foldMenu-active">
-                                        <a class="cat-subMenu-link" href="../../led-headlight-bulb/">
+                                        <a class="cat-subMenu-link" href="../../../led-car-light/led-headlight-bulb/">
                                             LED Headlight Bulb
                                         </a>
-                                        <a class="cat-subMenu-link" href="../../led-off-road-light/">
+                                        <a class="cat-subMenu-link" href="../../../led-car-light/led-off-road-light/">
                                             LED Off Road Light
                                         </a>
-                                        <a class="cat-subMenu-link submenu-item-active" href="../../car-interior-light/">
+                                        <a class="cat-subMenu-link" href="../../../led-car-light/car-interior-light/">
                                             Car Interior Light
                                         </a>
                                     </div>
@@ -158,7 +158,7 @@
                                         <span>LED Light</span>
                                     </a>
                                     <div class="fold-menu foldMenu-active">
-                                        <a class="cat-subMenu-link" href="../../../led-light/led-garage-light/">
+                                        <a class="cat-subMenu-link submenu-item-active" href="../../led-garage-light/">
                                             LED Garage Light
                                         </a>
                                     </div>
@@ -173,59 +173,61 @@
                                 <i class="fa fa-angle-right right" style="right: 0;"></i>
                                 <div class="img-main">
                                     <div class="img">
-                                        <img src="../../../../images/ECL-DE48C-1.jpg"/>
+                                        <img src="../../../../images/EGL-EP80-1.jpg"/>
                                     </div>
                                     <div class="img">
-                                        <img src="../../../../images/ECL-DE48C-2.jpg"/>
+                                        <img src="../../../../images/EGL-EP80-2.jpg"/>
                                     </div>
                                     <div class="img">
-                                        <img src="../../../../images/ECL-DE48C-3.jpg"/>
+                                        <img src="../../../../images/EGL-EP80-3.jpg"/>
                                     </div>
                                     <div class="img">
-                                        <img src="../../../../images/ECL-DE48C-4.jpg"/>
+                                        <img src="../../../../images/EGL-EP80-4.jpg"/>
                                     </div>
                                     <div class="img">
-                                        <img src="../../../../images/ECL-DE48C-5.jpg"/>
+                                        <img src="../../../../images/EGL-EP80-5.jpg"/>
                                     </div>
                                     <div class="img">
-                                        <img src="../../../../images/ECL-DE48C-6.jpg"/>
+                                        <img src="../../../../images/EGL-EP80-6.jpg"/>
                                     </div>
                                 </div>
                             </div>
                             <ul class="img-list">
                                 <li class="active">
-                                    <img src="../../../../images/ECL-DE48C-1.jpg"/>
+                                    <img src="../../../../images/EGL-EP80-1.jpg"/>
                                 </li>
                                 <li>
-                                    <img src="../../../../images/ECL-DE48C-2.jpg"/>
+                                    <img src="../../../../images/EGL-EP80-2.jpg"/>
                                 </li>
                                 <li>
-                                    <img src="../../../../images/ECL-DE48C-3.jpg"/>
+                                    <img src="../../../../images/EGL-EP80-3.jpg"/>
                                 </li>
                                 <li>
-                                    <img src="../../../../images/ECL-DE48C-4.jpg"/>
+                                    <img src="../../../../images/EGL-EP80-4.jpg"/>
                                 </li>
                                 <li>
-                                    <img src="../../../../images/ECL-DE48C-5.jpg"/>
+                                    <img src="../../../../images/EGL-EP80-5.jpg"/>
                                 </li>
                                 <li>
-                                    <img src="../../../../images/ECL-DE48C-6.jpg"/>
+                                    <img src="../../../../images/EGL-EP80-6.jpg"/>
                                 </li>
                             </ul>
                         </div>
                         <div class="instruction">
-                            <h2>EchoLumen 4PCS 48 LED Interior Car Lights Cigarette Lighter DC 12V Multicolor Music Car Strip Light Under Dash Lighting Kit With Sound Active Function And Wireless Remote Control</h2>
-                            <p>Model: ECL-DE48C</p>
-                            <p>LED Source: RGB 48PCS SMD 5050</p>
-                            <p>Maximum Power: 10W</p>
-                            <p>Working Voltage: DC12V</p>
-                            <p>Interface: Cigarette Lighter</p>
-                            <p>Control: RF Remote Controller</p>
-                            <p>Light Strip Wire Length: 2 x 1200mm(47.2 inch) + 2 x 1700mm(66.9 inch)</p>
-                            <p>Service Time: >50,000H</p>
-                            <p>Waterproof: IP67</p>
-                            <p>Material: Acrylonitrile Butadiene Styrene</p>
-                            <p>Type Fit: Universal</p>
+                            <h2>EchoLumen LED Garage Lights, 80W Deformable LED Garage Ceiling Lights 8000 LM CRI 80 LED Shop Lights with 3 Adjustable Panels, Utility LED Garage Lighting, LED Light Bulbs for Barn Basement Warehouse etc.</h2>
+                            <p>Model: EGL-EP80</p>
+                            <p>LED: Ultra-High Lumen SMD 2835</p>
+                            <p>Color Temperature: 6000-6500K</p>
+                            <p>Color Rendering Index(CRI): 85 +</p>
+                            <p>Luminous Flux: 8000LM</p>
+                            <p>Power Consumption: 80W</p>
+                            <p>Voltage: AC 85-265V, 50/60Hz Constant Current</p>
+                            <p>Color: White</p>
+                            <p>Power Source: Corded Electric</p>
+                            <p>Base Type: E26 / E27</p>
+                            <p>Light Direction: Adjustable</p>
+                            <p>Material: ABS + PC</p>
+                            <p>Working Time: 50,000 Hours</p>
                             <a class="inquery" href="mailto:info@echolumen.com">Inquiry</a>
                         </div>
                     </div>
@@ -233,97 +235,72 @@
                 <div class="detail-section">
                     <div class="blog">
                         <div class="seperate">Product Description</div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-banner.jpg" />
-                        </div>
                         <div class="info-detail">
                             <div class="img">
-                                <img src="../../../../images/ECL-DE48C-1.jpg"/>
+                                <img src="../../../../images/EGL-EP80-1.jpg"/>
                             </div>
                             <div class="desc">
-                                <p class="sub-title">High Quality Material</p>
-                                <p>Voltage DC 12V, wattage10W. ABS material made, ultra-thin, high quality music LED strip light, water resistant, anti-collision, anti-corrosion, fits all cars SUV vans trucks boats with 12V DC power.</p>
+                                <p class="sub-title">High-Brightness & 88% Energy Saving</p>
+                                <p>It features LED technology with top quality LED diodes that produce total 8000 lumens ,CRI80+，high light efficiency, low power, maximum energy savings, and reduced billing. High-brightness and energy-saving LED bulbs not only provide enough brightness but also reduce power consumption. The white light of 6000-6500K color temperature offers you the best lighting experience.</p>
                             </div>
                         </div>
                         <div class="info-detail">
                             <div class="desc">
-                                <p class="sub-title">Sound Active Function</p>
-                                <p>The LED strip light can change color with your voice or music. Allows you to enjoy the fun with the color changing following your car stereo music rhythm as well as your voice.</p>
+                                <p class="sub-title">Deformable Design, New Upgrade</p>
+                                <p>With 5 adjustable seperate LED panels, each LED panel of the garage light can be adjusted from 0°to 90°according to your needs, and you can DIY at different angles. The coverage of light can reach 360°, really shine without dead ends.</p>
                             </div>
                             <div class="img">
-                                <img src="../../../../images/ECL-DE48C-4.jpg"/>
+                                <img src="../../../../images/EGL-EP80-detail-2.jpg"/>
                             </div>
                         </div>
                         <div class="info-detail">
                             <div class="img">
-                                <img src="../../../../images/ECL-DE48C-detail-3.jpg"/>
+                                <img src="../../../../images/EGL-EP80-detail-3.jpg"/>
                             </div>
                             <div class="desc">
-                                <p class="sub-title">Wireless Remote Control</p>
-                                <p>You can use the wireless remote controller to change the color and adjust the brightness as you wish. Please note:</p>
-                                <p>1. The remote control should point directly to the black receiver box and there is no obstacle between. </p>
-                                <p>2. The remote should be placed near to the receiver box, not too far.</p>
+                                <p class="sub-title">Durable & Long Service Life</p>
+                                <p>Use top brand LED light source, stable constant current drive, the newly developed heat dissipation structure，EchoLumen LED garage lights are high-temperature resistant and with excellent cooling efficiency for maximum performance for over 50,000 hours of constant runtime, maintenance costs are greatly reduced.</p>
                             </div>
                         </div>
                         <div class="info-detail">
-                            <div class="desc">
-                                <p class="sub-title">Multicolour Effect Mode</p>
-                                <p>This LED strip light is set with 8 static color modes and 8 dynamic color modes. You can change the color modes in different conditions as you like with the remote controller.</p>
-                            </div>
-                            <div class="img">
-                                <img src="../../../../images/ECL-DE48C-detail-4.jpg"/>
-                            </div>
-                        </div>
-                        <div class="info-detail">
-                            <div class="img">
-                                <img src="../../../../images/ECL-DE48C-6.jpg"/>
-                            </div>
                             <div class="desc">
                                 <p class="sub-title">Easy To Install</p>
-                                <p>The light strip is with double-sided adhesive straps, you can simply install it to the place(better in the gap or away from our sight) you want. Then insert the cigarette lighter and turn on the switch botton, you can have a wonderful lighting effect in your car.</p>
+                                <p>EchoLumen garage light fixture is easy to install, no tools required, no wiring. Just screw it into a normal lamp receptacle. NO harmful substances such as mercury and lead, no radiation, environmentally-friendly and safe to use. It works great in a standard light socket (E26/E27).</p>
+                            </div>
+                            <div class="img">
+                                <img src="../../../../images/EGL-EP80-detail-4.jpg"/>
                             </div>
                         </div>
                         <div class="square">
-                            <img src="../../../../images/ECL-DE48C-3.jpg" />
+                            <img style="width: 80%" src="../../../../images/EGL-EP80-detail-5.jpg" />
                         </div>
                         <div class="square">
-                            <img style="width: 80%; margin-bottom: 40px;" src="../../../../images/ECL-DE48C-2.jpg" />
+                            <img style="margin: 50px 0" src="../../../../images/EGL-EP80-detail-6.jpg" />
                         </div>
                         <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-8.jpg" />
+                            <img src="../../../../images/EGL-EP80-detail-7.jpg" />
                         </div>
                         <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-9.jpg" />
+                            <img src="../../../../images/EGL-EP80-detail-8.jpg" />
                         </div>
                         <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-10.jpg" />
+                            <img src="../../../../images/EGL-EP80-5.jpg" />
                         </div>
                         <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-11.jpg" />
+                            <img src="../../../../images/EGL-EP80-6.jpg" />
                         </div>
                         <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-12.jpg" />
+                            <img src="../../../../images/EGL-EP80-detail-11.jpg" />
                         </div>
                         <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-13.jpg" />
-                        </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-14.jpg" />
-                        </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-5.jpg" />
-                        </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-16.jpg" />
-                        </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-DE48C-detail-17.jpg" />
+                            <img src="../../../../images/EGL-EP80-detail-12.jpg" />
                         </div>
                     </div>
                     <?php include('../../../../inc/messageBox.php'); ?>
                 </div>
             </div>
             <!-- 留言板 -->
+            
         </div>
     </div>
     <footer>
@@ -390,6 +367,89 @@
         </div>
     </footer>
     <script type="text/javascript" src="../../../../inc/index.js"></script>
+    
+    
+    <script>
+        $(document).ready(function () {
+            $('.submenu-fold').each(function(index) {
+                $(this).click(function() {
+                    console.log(index)
+                    $(this).toggleClass('active')
+                    console.log($('.fold-menu'))
+                    $('.fold-menu').eq(index).toggleClass("foldMenu-active");
+                })
+            })
+            var productsLeft = $(".products-nav").offset().left;
+            var productsTop = $(".products-nav").offset().top;
+            var messageLeft = $(".message-box").offset().left;
+            var messageTop = $(".message-box").offset().top;
+            var messageWidth = $(".content").innerWidth();
+            console.log('productsTop', productsTop)
+            $(window).scroll(function(){
+                if($(window).scrollTop()>productsTop+100) {
+                    $(".products-nav").addClass("fix");
+                    $(".products-nav").css({
+                        'left':productsLeft,
+                        // 'width':messageWidth*0.3,
+                    })
+                }else{
+                    $(".products-nav").removeClass("fix")
+                }
+                if($(window).scrollTop()>messageTop+100) {
+                    $(".message-nav").addClass("fix");
+                    $(".message-nav").css({
+                        'left':messageLeft,
+                        // 'width':messageWidth*0.3,
+                    })
+                }else{
+                    $(".message-nav").removeClass("fix")
+                }
+            })
+            // 处理大图样式及滚动
+            $('.img-box').mouseover(function() {
+                $('.img-box i').css('opacity', 1)
+            }).mouseout(function() {
+                $('.img-box i').css('opacity', 0)
+            })
+            var imgItemWidth = $('.img-main .img').outerWidth(true)
+            var len = $('.img-main .img').length
+            var imgMainWidth = imgItemWidth * len
+            console.log('dd', $('.img-main'))
+            // $('.img-main')[0].style.cssText = `width: ${imgMainWidth}`
+            console.log('imgItemWidth', imgItemWidth)
+            console.log('imgMainWidth', imgMainWidth)
+            $('.img-main').css('width',Math.ceil(imgMainWidth));
+            var num = 0
+            $('.img-list li').each(function(index) {
+                $(this).mouseover(function() {
+                    console.log(index)
+                    num = index
+                    $('.img-list li').removeClass('active')
+                    $(this).addClass('active')
+                    $('.img-main').css('left', -imgItemWidth*index)
+                })
+            })
+            $('.left').click(function() {
+                if (num === 0) {
+                    return
+                }
+                num --
+                $('.img-main').css('left', -imgItemWidth*num)
+                $('.img-list li').removeClass('active')
+                $('.img-list li').eq(num).addClass('active')
+            })
+            $('.right').click(function() {
+                if (num === 5) {
+                    
+                    return
+                }
+                num ++
+                $('.img-main').css('left', -imgItemWidth*num)
+                $('.img-list li').removeClass('active')
+                $('.img-list li').eq(num).addClass('active')
+            })
+        })
+    </script>
 </body>
 
 </html>
