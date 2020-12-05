@@ -27,7 +27,7 @@
                 GET A QUOTE
             </div>
             <div class="footer-detail">
-                <form id="myform" name="myform" method="post" action="/quotes/Index/index" onSubmit="return Check()">
+                <form id="myform" name="myform" method="post" action="https://admin.echolumen.com/plus/diy.php" onSubmit="return Check()">
                     <p class="input-line">
                         <input type="text" name="name" maxlength="50" placeholder="Name">
                         <input type="text" name="company" maxlength="50" placeholder="Company">
@@ -36,7 +36,8 @@
                         <input type="text" name="email" maxlength="50" placeholder="E-mail">
                         <input type="text" name="tel" maxlength="50" placeholder="Telephone">
                     </p>
-                    <textarea name="contents" maxlength="1000" placeholder="Message"></textarea>
+                    <textarea name="contents" maxlength="1000" placeholder="Message"></textarea><input type="hidden" name="sj" id="sj" value=""><input type="hidden" name="dede_fields" value="name,text;company,text;email,text;contents,multitext;tel,text;sj,text" />
+<input type="hidden" name="dede_fieldshash" value="6fa92e4d5334f4bc35a760f31c8182ef" />
                     <button type="submit" class="submit foot-submit">Submit</button>
                 </form>
             </div>
@@ -71,21 +72,6 @@ function Check()
     }	
 }
 </script>
-
-<!--Start of Tawk.to Script-->
-<script type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/5d55529277aa790be32f093b/default';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
-})();
-</script>
-<!--End of Tawk.to Script-->
-
         <div class="footer-item footer-contact">
             <div class="footer-title">
                 <a href="../contact">CONTACT</a>
