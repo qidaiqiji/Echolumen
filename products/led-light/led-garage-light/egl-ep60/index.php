@@ -262,7 +262,7 @@
                             </div>
                             <div class="desc">
                                 <p class="sub-title">Durable & Long Service Life</p>
-                                <p>EchoLumen 60W LED garage Lights have upgraded high profile aluminum and superior PC for high efficient heat dissipation and cooling, which is stable and durable under maximum performance, over 50,000 hours of constant runtime makes the maintenance cost sharply cut down. Low light wane rate, ensuring that the light color and brightness still can reach the standard after long-term use.</p>
+                                <p>EchoLumen 60W LED garage Lights have upgraded high profile aluminum and superior PC for high efficient heat dissipation and cooling, which is stable and durable under maximum performance, over 50,000 hours of constant runtime makes the maintenance cost sharply cut down. Low light wane rate, ensuring that the light color and brightness still can reach the standard after long-time use.</p>
                             </div>
                         </div>
                         <div class="info-detail">

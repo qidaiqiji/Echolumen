@@ -246,7 +246,7 @@
                         <div class="info-detail">
                             <div class="desc">
                                 <p class="sub-title">90°Adjustable Design</p>
-                                <p>With 3 adjustable aluminum LED panels, each LED panel of the garage light can be adjusted from 0°to 90°according to your needs, and you can DIY at different angles. The coverage of light can reach 360°.</p>
+                                <p>With 3 adjustable aluminum LED panels, each LED panel of the garage light can be adjusted from 0°to 90°according to your needs, and you can DIY at different angles. The coverage of light can reach to 360°.</p>
                             </div>
                             <div class="img">
                                 <img src="../../../../images/EGL-ZZ60-detail-2.jpg"/>

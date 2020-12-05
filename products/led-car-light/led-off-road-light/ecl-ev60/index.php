@@ -243,13 +243,13 @@
                             </div>
                             <div class="desc">
                                 <p class="sub-title">Small Volume Super Brightness</p>
-                                <p>Advanced LED chips give out bright dnd white ray for clear visibility. Pure White 6000K. The appropriate mix and match of spot beams and flood beams provides a long irradiation distance and broad view. Spot beam for long irradiation distance, flood beam for broad view area, combo beam provides excellent visual effect. 4 inch Pods are small but bright.</p>
+                                <p>Advanced LED chips give out bright and white ray for clear visibility. Pure White 6000K. The appropriate mix and match of spot beam and flood beam provide a long irradiation distance and broad view. Spot beam for long irradiation distance, flood beam for broad view area, combo beam provides excellent visual effect. 4 inch Pods are small but bright.</p>
                             </div>
                         </div>
                         <div class="info-detail">
                             <div class="desc">
                                 <p class="sub-title">Surrounded Construction, Perfect Illumination</p>
-                                <p>Powerful LED Pods break with precedent, the middle centered row 120° flood light low beam surrounded by dual row 15°spot light high beam that reflects double bright combo light, wider and longer illumination distance with intensive brightness, safe for you during amazing race or making turnings.</p>
+                                <p>Powerful LED Pods break with precedent, the middle centered row 120° flood light low beam surrounded by dual row 15°spot light high beam that reflects double bright combo light, wider and longer illumination distance with intensive brightness, ensuring you a safer driving experience.</p>
                             </div>
                             <div class="img">
                                 <img src="../../../../images/ECL-EV60-3.jpg"/>
@@ -261,7 +261,7 @@
                             </div>
                             <div class="desc">
                                 <p class="sub-title">Premium Performance, IP68 Waterproof</p>
-                                <p>Manufactured from high-grade IP68 Waterproof Rated Die-Casting Aluminum, the LED pods has excellent waterproof, dustproof, rustproof, quake proof and quick cooling performance. Combined durability and affordability performance, it was built for the harshest environments.</p>
+                                <p>Manufactured from high-grade IP68 Waterproof Rated Die-Casting Aluminum, the LED pods have excellent waterproof, dustproof, rustproof, quake proof and quick cooling performance. Combined durability and affordability performance, it was built for the harshest environments.</p>
                             </div>
                         </div>
                         <div class="info-detail">
@@ -285,7 +285,7 @@
                         <div class="info-detail">
                             <div class="desc">
                                 <p class="sub-title">Wide Applications</p>
-                                <p>With working voltage of 9-30V DC, the ultra bright 60W LED work light bar can be widely used to most of vehicles style (Off-Road, SUV, ATV, UTV, Trucks, Marine, Motorcycle, Boat, Heavy Duty Marine etc.)</p>
+                                <p>With working voltage of DC 9-32V, the ultra bright 60W LED work light bar can be widely used to most vehicles (Off-Road, SUV, ATV, UTV, Truck, Marine, Motorcycle, Boat, Heavy Duty Marine etc.)</p>
                             </div>
                             <div class="img">
                                 <img src="../../../../images/ECL-EV60-6.jpg"/>

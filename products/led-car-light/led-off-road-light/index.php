@@ -169,6 +169,15 @@
                             <span class="more">View More</span>
                         </a>
                     </li>
+                    <li class="item">
+                        <a class="thumb" href="./ecl-lb13/">
+                            <img src="../../../images/ECL-LB13-1.jpg" alt="ECL-lb13" />
+                        </a>
+                        <a class="desc" href="./ecl-lb13/">
+                            <span class="current">LED Off Road Light ECL-LB13</span>
+                            <span class="more">View More</span>
+                        </a>
+                    </li>
                 </ul>
             </div>
             <div class="empty"></div>

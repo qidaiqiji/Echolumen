@@ -258,7 +258,7 @@
                             </div>
                             <div class="desc">
                                 <p class="sub-title">Premium Performance, IP68 Waterproof</p>
-                                <p>Manufactured from high-grade IP68 Waterproof Rated Die-Casting Aluminum, the LED pods has excellent waterproof, dustproof, rustproof, quake proof and quick cooling performance. Combined durability and affordability performance, it was built for the harshest environments.</p>
+                                <p>Made of high-grade IP68 Waterproof Rated Die-Casting Aluminum, the LED pods have excellent waterproof, dustproof, rustproof, quake proof and quick cooling performance. Combined durability and affordability performance, it was built for the harshest environments.</p>
                             </div>
                         </div>
                         <div class="info-detail">
@@ -282,7 +282,7 @@
                         <div class="info-detail">
                             <div class="desc">
                                 <p class="sub-title">Wide Applications</p>
-                                <p>With working voltage of 9-32V DC, our ultra bright Quad Row 72W LED work light bar can be widely used to most of vehicles style (Off-Road, SUV, ATV, UTV, Trucks, Marine, Motorcycle, Boat, Heavy Duty Marine etc.)</p>
+                                <p>With working voltage DC of 9-32V, our ultra bright Quad Row 84W LED work light bar can be widely used to most vehicles (Off-Road, SUV, ATV, UTV, Truck, Marine, Motorcycle, Boat, Heavy Duty Marine etc.)</p>
                             </div>
                             <div class="img">
                                 <img src="../../../../images/ECL-EV84-6.jpg"/>

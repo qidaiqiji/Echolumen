@@ -266,13 +266,13 @@
                             </div>
                             <div class="desc">
                                 <p class="sub-title">IP65 Waterproof And High Stability</p>
-                                <p> EchoLumen led solar wall lights is made of high quality ABS material and adopts IP65 waterproof technology for rainy weather. Its high stability enables it a long working hours (more than 50,000 hours).  Great workmanship and high quality material keep your house light up every night.</p>
+                                <p> EchoLumen LED solar wall light is made of high quality ABS material and adopts IP65 waterproof technology for rainy weather. Its high stability enables it a long working hours (more than 50,000 hours).  Great workmanship and high quality material keep your house light up every night.</p>
                             </div>
                         </div>
                         <div class="info-detail">
                             <div class="desc" style="order: 2;">
                                 <p class="sub-title">At Least 8 Hours Charging Time For The First Use </p>
-                                <p> If it's rainy day or the cloudy day for several days, that may cause the built-in battery power runs out but cannot charge well and then cannot light up at night. So please charge it under sunshine at least 8 hours for the first use.</p>
+                                <p> If it's rainy day or the cloudy day for several days, that may cause the built-in battery power runs out and cannot charge well and then cannot light up at night. So please charge it under sunshine at least 8 hours for the first use.</p>
                             </div>
                             <div class="img">
                                 <img src="../../../../images/esw-260-detail-5.jpg"/>
@@ -284,12 +284,12 @@
                             </div>
                             <div class="desc">
                                 <p class="sub-title">Easy Ways To Install</p>
-                                <p>EchoLumen solar LED wall  light needs no complicated cables, you can use the provided screws or 3M double-sided tape to mount it easily. Please kindly note the light will be installed at the plces where it can receive enough sunlight. The recommended installation height would be 2-3m. Perfect for using as a security night light garden, yard, hallway, path, stairs, fence, garage door.</p>
+                                <p>EchoLumen solar LED wall  light needs no complicated wiring works, you can use the provided screws or 3M double-sided tape to mount it easily. Please kindly note the light will be installed at the places where it can receive enough sunlight. The recommended installation height would be 2-3m. Perfect for using as a security night light garden, yard, hallway, path, stairs, fence, garage door.</p>
                             </div>
                         </div>
                         <div class="point" style="margin-bottom: 50px;">
                             <p class="remark">Remarks</p>
-                            <p>This product utilizes solar energy. Please choose a location that receives adequate sunshine to optimize its solar charge. The greater the charge received from sunlight, the longer the illumination time. An amounting height of 2 to 2.5 meters is recommended. </p>
+                            <p>This product utilizes solar energy. Please choose a location that receives adequate sunshine to optimize its solar charge. The greater the charge received from sunlight, the longer the illumination time. A mounting height of 2 to 2.5 meters is recommended. </p>
                             <p>It should be kept away from heat or housed hold garbage and disposed of at the local battery disposal center.</p>
                         </div>
                     </div>

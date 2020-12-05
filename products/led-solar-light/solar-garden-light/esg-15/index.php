@@ -239,13 +239,13 @@
                             </div>
                             <div class="desc">
                                 <p class="sub-title">Super Brighter & Unique Appearance Design</p>
-                                <p>EchoLumen solar LED garden lights like a golf clubs or snake, underground stake design. Solar powered no wiring necessary, easy to install. Great widely used for lighting your driveways, pathways, sidewalks, lawn, garden, patio, porch, path, deck, pool, yard, garden, etc.</p>
+                                <p>EchoLumen solar LED garden lights like a golf clubs or snake, underground stake design. Solar powered no wiring necessary, easy to install. Widely used at driveways, pathways, sidewalks, lawn, garden, patio, porch, path, deck, pool, yard, garden, etc.</p>
                             </div>
                         </div>
                         <div class="info-detail">
                             <div class="desc">
                                 <p class="sub-title">Built-in Light Sensor, Auto On/Off</p>
-                                <p>EchoLumen solar LED garden lights can automatically detect the brightness changes of the external environment to turn on or off. Auto turn the lights on at dusk, auto turn off at dawn, 365 days never turn OFF, solar light can light up to 8 hours after fully charged.</p>
+                                <p>EchoLumen solar LED garden lights can automatically detect the brightness changes of the external environment to turn on or off. Auto turn the lights on at dusk, auto turn off at dawn,Echolumen solar light can light up to 8 hours after fully charged.</p>
                             </div>
                             <div class="img">
                                 <img src="../../../../images/ESG-15-4.jpg"/>

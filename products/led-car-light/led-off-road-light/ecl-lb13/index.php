@@ -6,9 +6,9 @@
     <meta name="viewport"
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="description" content="EchoLumen EV36 LED work light is designed to increase the light intensity of SUV, ATV, UTV, truck, Jeep, Tractor to get better visibility and longer illumination distance to ensure the safe driving." />
+    <meta name="description" content="EchoLumen LB13 LED off road light is designed to increase the light intensity of SUV, ATV, UTV, truck, Jeep, Tractor to get better visibility and longer illumination distance to ensure the safe driving." />
     <meta name="keywords" content="LED work light, LED light bar, LED off road light, LED light pods, LED light for truck, LED car light" />
-    <title>ECL-EV36 LED Off Road Light | LED Light Bar | LED Work Light for SUV, ATV, UTV and Truck | EchoLumen</title>
+    <title>ECL-LB13 LED Off Road Light | LED Light Bar | LED Work Light for SUV, Jeep, ATV, UTV and Truck | EchoLumen</title>
     <link rel="stylesheet" href="../../../../css/reset.css">
     <link rel="stylesheet" href="../../../../css/font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="../../../../css/common.css">
@@ -174,59 +174,59 @@
                                 <i class="fa fa-angle-right right" style="right: 0;"></i>
                                 <div class="img-main">
                                     <div class="img">
-                                        <img src="../../../../images/ECL-EV36-1.jpg"/>
+                                        <img src="../../../../images/ECL-LB13-1.jpg"/>
                                     </div>
                                     <div class="img">
-                                        <img src="../../../../images/ECL-EV36-2.jpg"/>
+                                        <img src="../../../../images/ECL-LB13-2.jpg"/>
                                     </div>
                                     <div class="img">
-                                        <img src="../../../../images/ECL-EV36-3.jpg"/>
+                                        <img src="../../../../images/ECL-LB13-3.jpg"/>
                                     </div>
                                     <div class="img">
-                                        <img src="../../../../images/ECL-EV36-4.jpg"/>
+                                        <img src="../../../../images/ECL-LB13-4.jpg"/>
                                     </div>
                                     <div class="img">
-                                        <img src="../../../../images/ECL-EV36-5.jpg"/>
+                                        <img src="../../../../images/ECL-LB13-5.jpg"/>
                                     </div>
                                     <div class="img">
-                                        <img src="../../../../images/ECL-EV36-6.jpg"/>
+                                        <img src="../../../../images/ECL-LB13-6.jpg"/>
                                     </div>
                                 </div>
                             </div>
                             <ul class="img-list">
                                 <li class="active">
-                                    <img src="../../../../images/ECL-EV36-1.jpg"/>
+                                    <img src="../../../../images/ECL-LB13-1.jpg"/>
                                 </li>
                                 <li>
-                                    <img src="../../../../images/ECL-EV36-2.jpg"/>
+                                    <img src="../../../../images/ECL-LB13-2.jpg"/>
                                 </li>
                                 <li>
-                                    <img src="../../../../images/ECL-EV36-3.jpg"/>
+                                    <img src="../../../../images/ECL-LB13-3.jpg"/>
                                 </li>
                                 <li>
-                                    <img src="../../../../images/ECL-EV36-4.jpg"/>
+                                    <img src="../../../../images/ECL-LB13-4.jpg"/>
                                 </li>
                                 <li>
-                                    <img src="../../../../images/ECL-EV36-5.jpg"/>
+                                    <img src="../../../../images/ECL-LB13-5.jpg"/>
                                 </li>
                                 <li>
-                                    <img src="../../../../images/ECL-EV36-6.jpg"/>
+                                    <img src="../../../../images/ECL-LB13-6.jpg"/>
                                 </li>
                             </ul>
                         </div>
                         <div class="instruction">
-                            <h2>EchoLumen LED Pods 4 Inch 36W 6000LM Quad Row LED Light Bar Osram LED Cubes Work Light Flood Beam Off Road Driving Fog Lamps Waterproof for Trucks ATV UTV SUV Boat</h2>
-                            <p>Model: ECL-EV36</p>
-                            <p>LED Source: 12 PCS 3W High Lumen LED Chips</p>
-                            <p>Maximum Power: 36W</p>
-                            <p>Luminous Flux: 3600LM</p>
+                            <h2>EchoLumen LED Light Bar 13 Inch 120W Spot Flood Combo LED Driving Lamp Off Road Lights LED Work Light Bar Jeep UTV SUV ATV Jeep Tractor Truck Motorcycle Boat  5 Years Warranty</h2>
+                            <p>Model: ECL-LB13</p>
+                            <p>LED Source: 24 PCS 5W CREE LED Chips</p>
+                            <p>Power: 120W</p>
+                            <p>Luminous Flux: 12000-15000LM</p>
                             <p>Working Voltage: DC 9-32V</p>
                             <p>Color Temperature: 6000-6500K</p>
                             <p>Service Time: >50,000H</p>
                             <p>Waterproof: IP68</p>
                             <p>Material: Die-Cast Aluminum</p>
-                            <p>Product Size: 95x63x80mm</p>
-                            <p>Application: Work light for Off-Road, SUV, ATV, UTV, Trucks, Marine, Motorcycle, Boat, Heavy Duty Marine etc</p>
+                            <p>Product Size: 332x63x73mm</p>
+                            <p>Application: Flood Work Light Bar for Off-Road, SUV, ATV, UTV, Truck, Marine, Motorcycle, Boat, Heavy Duty Marine etc</p>
                             <a class="inquery" href="mailto:info@echolumen.com">Inquiry</a>
                         </div>
                     </div>
@@ -234,114 +234,85 @@
                 <div class="detail-section">
                     <div class="blog">
                         <div class="seperate">Product Description</div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-EV36-detail-banner.jpg" />
-                        </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-EV36-4.jpg" />
-                        </div>
                         <div class="info-detail">
                             <div class="img">
-                                <img src="../../../../images/ECL-EV36-1.jpg"/>
+                                <img src="../../../../images/ECL-LB13-4.jpg"/>
                             </div>
                             <div class="desc">
-                                <p class="sub-title">Ultra-Bright LED Spot Beam Light</p>
-                                <p>With the most exclusive Triple Row design, EchoLumen 4 inch LED pods light features superior qualified OSRAM LED chips, delivering 36W 3600lumens for maximum lighting visibility, allowing you to see further and wider but draw less power.</p>
+                                <p class="sub-title">Ultra-High Brightness, Unparalleled Visibility</p>
+                                <p>With the most innovative Dual Row LED design, the 13 inch LED work light bar features total 24pcs superior qualified CREE 5W LED chips, delivering 120W at 6000K color temperature with 12000 lumens of high output for maximum lighting visibility, allowing you to see further and wider but draw less power. </p>
                             </div>
                         </div>
                         <div class="info-detail">
                             <div class="desc">
-                                <p class="sub-title">120° Wide Vision Flood Beam Light</p>
-                                <p>Advanced EchoLumen ECL-EV36 PMMA optics lens enhance high output and provide 120° flood beam for broader viewing area. Lighting up your entire dark road, without any missed spots or dark area.</p>
+                                <p class="sub-title">360 Degree Adjustable Mounting Bracket</p>
+                                <p>The angle of the mounting bracket can be adjusted 360 degrees, you can freely adjust the bracket angle to meet any light direction you desired to make sure the best light performance of the light bar. You can install the LED light bar at the front bumper or any places of your SUVs.</p>
                             </div>
                             <div class="img">
-                                <img src="../../../../images/ECL-EV36-detail-2.jpg"/>
+                                <img src="../../../../images/ECL-LB13-detail-2.jpg"/>
                             </div>
                         </div>
                         <div class="info-detail">
                             <div class="img">
-                                <img src="../../../../images/ECL-EV36-5.jpg"/>
+                                <img src="../../../../images/ECL-LB13-5.jpg"/>
                             </div>
                             <div class="desc">
-                                <p class="sub-title">Excellent Reliability And Durability</p>
-                                <p>IP68 waterproof rating and high profile aluminum housing, the durable LED cube lights have excellent waterproof, dust-proof, rust-proof, quake proof and quick cooling performance. Certified by CE & RoHS.</p>
+                                <p class="sub-title">IP68 Waterproof, Design For Durability</p>
+                                <p>Off-road race tested, EchoLumen LED work light bars were designed to handle the harshest environments. Featuring IP68 rated housing and shatterproof lenses, they are totally resistant to moisture and dust. Rustproof & anticorrosive die-cast aluminum shell and mounting bracket makes it more durable.</p>
                             </div>
                         </div>
                         <div class="info-detail">
                             <div class="desc">
-                                <p class="sub-title">Upgraded Performance Long Service Time</p>
-                                <p>A black-painted die-cast aluminum and polycarbonate lens protect internal components, and over-sized heat sink allows LEDs to run cool, which leads to incredibly long life span over 50,000 hours!</p>
+                                <p class="sub-title">High Performance, Highly Efficient Cooling</p>
+                                <p>The high profile Die-cast aluminum light body and unbreakable polycarbonate lens protect the internal components, and the integral heat sink allows all the LEDs to run cool and ensuring maximum LED efficiency, which leads to incredibly long lifespan over 50,000 hours!</p>
                             </div>
                             <div class="img">
-                                <img src="../../../../images/ECL-EV36-6.jpg"/>
+                                <img src="../../../../images/ECL-LB13-detail-4.jpg"/>
                             </div>
                         </div>
                         <div class="info-detail">
                             <div class="img">
-                                <img src="../../../../images/ECL-EV36-detail-5.jpg"/>
+                                <img src="../../../../images/ECL-LB13-6.jpg"/>
+                            </div>
+                            <div class="desc">
+                                <p class="sub-title">Perfect COMBO Beam, Better Illumination</p>
+                                <p>Break tradition by adopting the most advanced lighting technology, the light of EchoLumen LED light bar is more concentrated to get a further penetration distance and larger illumination area. Extreme distance and wider view area are perfect for high speed driving and dangerous bend situations.</p>
+                            </div>
+                        </div>
+                        <div class="info-detail">
+                            <div class="desc">
+                                <p class="sub-title">Easy To Install</p>
+                                <p>The installation of EchoLumen LED work light bar is very simple and easy. You can install it with the tools and brackets incluided into the product package and finish the installation within a few minutes.</p>
+                            </div>
+                            <div class="img">
+                                <img src="../../../../images/ECL-LB13-detail-6.jpg"/>
+                            </div>
+                        </div>
+                        <div class="info-detail">
+                            <div class="img">
+                                <img src="../../../../images/ECL-LB13-detail-7.jpg"/>
                             </div>
                             <div class="desc">
                                 <p class="sub-title">Wide Applications</p>
-                                <p>With working voltage of DC 9-32V, the triple row LED work lights can be widely used to most vehicles (Off-Road, SUV, ATV, UTV, Truck, Marine, Motorcycle, Boat, Heavy Duty Marine etc.)</p>
+                                <p>With working voltage of DC 9-32V, our ultra bright Dual Row 120W LED work light bar can be widely used to most vehicles (Off-Road, SUV, ATV, UTV, Truck, Marine, Motorcycle, Boat, Heavy Duty Marine etc.)</p>
                             </div>
                         </div>
                         <div class="square">
-                            <img src="../../../../images/ECL-EV36-6.jpg" />
+                            <img style="width: 80%; margin-bottom: 40px" src="../../../../images/ECL-LB13-2.jpg" />
                         </div>
                         <div class="square">
-                            <img style="width: 80%; margin: 40px 0" src="../../../../images/ECL-EV36-detail-7.jpg" />
+                            <img src="../../../../images/ECL-LB13-detail-8.jpg" />
                         </div>
                         <div class="square">
-                            <img src="../../../../images/ECL-EV36-detail-8.jpg" />
+                            <img src="../../../../images/ECL-LB13-detail-9.jpg" />
                         </div>
                         <div class="square">
-                            <img src="../../../../images/ECL-EV36-detail-9.jpg" />
-                        </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-EV36-detail-10.jpg" />
-                        </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-EV36-detail-11.jpg" />
-                        </div>
-                        <div class="square">
-                            <img src="../../../../images/ECL-EV36-detail-12.jpg" />
-                        </div>
-                        <div class="list">
-                            <div class="item">
-                                <img src="../../../../images/ECL-EV36-detail-13.jpg" />
-                                <div class="item-desc">
-                                    <h4>Off Road Vehicle Lighting</h4>
-                                    <p>The LED light can be widely applied to Jeeps, 4x4, ATV, UTV, SUV, Truck, Cars Motorcycles, Pick-up, Van, Camper, Road Buggy, Sand Rail, Trains, Bus, Tanks, etc. Super bright light beam dispels the darkness and light up the forward road, clear view area for safety driving.</p>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <img src="../../../../images/ECL-EV36-detail-14.jpg" />
-                                <div class="item-desc">
-                                    <h4>Boat Lighting</h4>
-                                    <p>Installed on boat, yacht, skiff, freighter and ship to enhance the illuminating brightness of voyage. With IP68 rate and powder coat, efficiently waterproof, dustproof and anticorrosive. Super bright view area to see clear at night, excellent visual effect.</p>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <img src="../../../../images/ECL-EV36-detail-15.jpg" />
-                                <div class="item-desc">
-                                    <h4>Equipment Lighting</h4>
-                                    <p>It is suitable for Trailer, Forklift, Excavator, Dozer, Road Roller, Crane, Tractor, Harvester, Grain Drill, Mower, Snowplow, Fire engine, Rescue Vehicle, Camping, Mining, Construction and other outdoor lighting. </p>
-                                </div>
-                            </div>
-                            <!-- <div class="item">
-                                <img src="../../../../images/ECL-EV36-detail-9.jpg" />
-                                <div class="item-desc">
-                                    <h4>Household Lighting</h4>
-                                    <p>You can also use the Led light bar for household lighting such as Garden, Backyard, Garage, and Indoor Lighting. Bright surrounding is very convenient for you to enjoy your fun time. (Note: Use a voltage transformer/converter to convert the AC 110-120V to DC 12V for indoor use).</p>
-                                </div>
-                            </div> -->
+                            <img src="../../../../images/ECL-LB13-3.jpg" />
                         </div>
                     </div>
                     <?php include('../../../../inc/messageBox.php'); ?>
                 </div>
             </div>
-            <!-- 留言板 -->
-            
         </div>
     </div>
     <footer>

@@ -307,8 +307,6 @@
                     <?php include('../../../../inc/messageBox.php'); ?>
                 </div>
             </div>
-            <!-- 留言板 -->
-            
         </div>
     </div>
     <footer>

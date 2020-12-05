@@ -243,7 +243,7 @@
                             </div>
                             <div class="desc">
                                 <p class="sub-title">Ultra-High Brightness, Unparalleled Visibility</p>
-                                <p>With the most innovative Triple Row LED design, the 6 inch LED pods light feature total 40pcs superior qualified OSRAM 3W LED chips, delivering 120W at 6000K color temperature with 12000 lumens of high output for maximum lighting visibility, allowing you to see further and wider but draw less power. Turn night into day.</p>
+                                <p>With the most innovative Triple Row LED design, the 6 inch LED pods light feature total 40pcs superior qualified OSRAM 3W LED chips, delivering 120W at 6000K color temperature with 12000 lumens of high output for maximum lighting visibility, allowing you to see further and wider but draw less power.</p>
                             </div>
                         </div>
                         <div class="info-detail">
@@ -261,7 +261,7 @@
                             </div>
                             <div class="desc">
                                 <p class="sub-title">IP68 Waterproof, Design For Durability</p>
-                                <p>Off-road race tested, these led pods was designed to handle the harshest environments. Featuring an IP68 rated housing and shatterproof lenses, they are totally resistant to moisture and dust. Rustproof & anticorrosive 6063 alumimum shell and mounting bracket makes it more durable.</p>
+                                <p>Off-road race tested, these led pods were designed to handle the harshest environments. Featured IP68 rated housing and shatterproof lenses, they are totally resistant to moisture and dust. Rustproof & anticorrosive 6063 aluminum shell and mounting bracket make it more durable.</p>
                             </div>
                         </div>
                         <div class="info-detail">
@@ -285,7 +285,7 @@
                         <div class="info-detail">
                             <div class="desc">
                                 <p class="sub-title">Wide Applications</p>
-                                <p>With working voltage of 9-32V DC, our ultra bright Quad Row 72W LED work light bar can be widely used to most of vehicles style (Off-Road, SUV, ATV, UTV, Trucks, Marine, Motorcycle, Boat, Heavy Duty Marine etc.)</p>
+                                <p>With working voltage of DC 9-32V, our ultra bright Quad Row 120W LED work light bar can be widely used to most vehicles (Off-Road, SUV, ATV, UTV, Truck, Marine, Motorcycle, Boat, Heavy Duty Marine etc.)</p>
                             </div>
                             <div class="img">
                                 <img src="../../../../images/ECL-EV120-detail-6.jpg"/>

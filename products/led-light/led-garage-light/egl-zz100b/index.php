@@ -244,7 +244,7 @@
                             </div>
                             <div class="desc">
                                 <p class="sub-title">Super Bright 10000lumens</p>
-                                <p>Compared to other light types, EchoLumen LED garage lights are with 4 high power LED panels, featuring the high brightness 10000 lumens. EchoLumen garage ceiling light features LED technology making screw in LED garage light more bright than common bulbs, which will provide the best indoor lighting experience.</p>
+                                <p>Compared to other light types, EchoLumen LED garage lights are with 4 high power LED panels, featuring the high brightness 10000 lumens. EchoLumen garage ceiling light features LED technology making screw-in LED garage light much brighter than common bulbs, which provides the best indoor lighting experience.</p>
                             </div>
                         </div>
                         <div class="info-detail">
@@ -262,7 +262,7 @@
                             </div>
                             <div class="desc">
                                 <p class="sub-title">Durable & Long Service Life</p>
-                                <p>EchoLumen 100W LED garage Lights have upgraded aluminum fins for cooling, stable and durable under maximum performance, over 50,000 hours of constant runtime makes the maintenance cost sharply cut down. Low light wane rate, ensuring that the light color and brightness still can reach the standard after long-term use.</p>
+                                <p>EchoLumen 100W LED garage Lights have upgraded aluminum fins for cooling, stable and durable under maximum performance, over 50,000 hours of constant runtime makes the maintenance cost sharply cut down. Low light wane rate, ensuring that the light color and brightness still can reach the standard after long-time use.</p>
                             </div>
                         </div>
                         <div class="info-detail">

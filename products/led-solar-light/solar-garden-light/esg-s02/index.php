@@ -242,7 +242,7 @@
                             </div>
                             <div class="desc">
                                 <p class="sub-title">High Quality Warm White LED</p>
-                                <p>With an output of 150 lumens, EchoLumen solar LED garden spotlight can be able to showcase your beautiful yard even at the darkest of nights. For each full charging, EchoLumen LED garden light can light up the whole night for at least 12 hours.</p>
+                                <p>With output of 150 lumens, EchoLumen solar LED garden spotlight is able to showcase your beautiful yard even at the darkest of nights. For each full charging, EchoLumen LED garden light can light up the whole night for at least 12 hours.</p>
                             </div>
                         </div>
                         <div class="info-detail">
@@ -266,7 +266,7 @@
                         <div class="info-detail">
                             <div class="desc">
                                 <p class="sub-title">Top Stability And User-Friendly Design</p>
-                                <p>EchoLumen solar LED garden light outdoor is designed to be with top stability, each detail is taken into considerations to make it easy to use. The solar panel joint is designed with gear to prevent the easy slip. The solar panel cover is with unique design to make sure it is easy to open it and replace battery. The connectors are water resistant and easy to install all the lamps. Plug and play.</p>
+                                <p>EchoLumen solar LED garden light outdoor is designed to be with top stability, each detail is taken into considerations to make it easy to use. The solar panel joint is designed with gear to prevent the easy slip. The solar panel rear cover is with unique design to make sure it is easy to open to replace battery. The connectors are water resistant and easy to install all the lamps. Plug and play.</p>
                             </div>
                             <div class="img">
                                 <img src="../../../../images/ESG-S02-3.jpg"/>

@@ -239,7 +239,7 @@
                                 <img src="../../../../images/EGL-G60-1.jpg"/>
                             </div>
                             <div class="desc">
-                                <p class="sub-title">Super ULTRA Bright LED Garage Lights</p>
+                                <p class="sub-title">Super Bright LED Garage Lights</p>
                                 <p>With 3 ultra-bright adjustable aluminum LED heads, easy to adjust, way brighter than a standard bulb. It features LED technology with 3*48 PCS top quality diodes that total 6000 lumens, CRI80+, 6000K daylight can give you 85% energy saving for your garage.</p>
                             </div>
                         </div>
@@ -258,7 +258,7 @@
                             </div>
                             <div class="desc">
                                 <p class="sub-title">Energy Saving LED Garage Light</p>
-                                <p>EchoLumen LED garage lights is with powerful, non-diminishing brightness, brighter more than other light fixtures, only 60w low power consumption. EchoLumen LED garage lights save up to 80% on your electricity bill compare with traditional light bulb.</p>
+                                <p>EchoLumen LED garage lights are with powerful, non-diminishing brightness, brighter more than other light fixtures, only 60w low power consumption. EchoLumen LED garage lights can save up to 80% on your electricity bill comparing with traditional light bulb.</p>
                             </div>
                         </div>
                         <div class="info-detail">

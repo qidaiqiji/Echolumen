@@ -263,15 +263,15 @@
                                 <span>Dim Light</span>
                                 <p>Turn on the switch before the first use and press the bottom once, the light will charge during the day and automatically light up Dim Light at night.</p>
                                 <span>Medium Light</span>
-                                <p>Make sure the switch is open and press the bottom twice, the light will charge during the day and automatically light up Medium Light at night.</p>
+                                <p>Make sure the switch is on and press the bottom twice, the light will charge during the day and automatically light up Medium Light at night.</p>
                                 <span>High Light</span>
-                                <p>Make sure the switch is open and press the bottom three times, the landscape light will charge during the day and automatically light up High Light at night.</p>
+                                <p>Make sure the switch is on and press the bottom three times, the landscape light will charge during the day and automatically light up High Light at night.</p>
                             </div>
                         </div>
                         <div class="info-detail">
                             <div class="desc">
                                 <p class="sub-title">Waterproof & Heatproof </p>
-                                <p>Made of high-impact ABS plastic and having been enormous technological breakthroughs in waterproof grade, outdoor solar spotlights have unique waterproof design, it can withstand rain and other extreme weather conditions.</p>
+                                <p>Made of high-impact ABS plastic and featuring enormous technological breakthroughs in waterproof grade, outdoor solar spotlights have unique waterproof design, it can withstand rain and other extreme weather conditions.</p>
                             </div>
                             <div class="img">
                                 <img src="../../../../images/ESG-32-detail-4.jpg"/>

@@ -242,7 +242,7 @@
                             </div>
                             <div class="desc">
                                 <p class="sub-title">Ultra Bright 70 LEDs Solar LED Wall Light </p>
-                                <p>With the 360° rotatable design, EchoLumen solar panel and spotlights can be rotated to any angle you desire. Equipped with 70 LED beads, this wireless security light illuminates on 3 sides with 270° wide lighting angle.</p>
+                                <p>With the 360° rotatable design, EchoLumen solar panel and spotlights can be rotated to any angle you desired. Equipped with 70 LED beads, this wireless security light illuminates on 3 sides with 270° wide lighting angle.</p>
                             </div>
                         </div>
                         <div class="info-detail">
@@ -260,13 +260,13 @@
                             </div>
                             <div class="desc">
                                 <p class="sub-title">Sensitive PIR Motion Sensor</p>
-                                <p> With the Built-In motion sensor detector, the security lights motion outdoor will be from lights out to high bright when the sensor is activated and last about 30s after no motion detection. The motion detection range of the LED solar lights outdoor is 16-26 ft.The upgraded solar flood light has a wider angle lighting. The three heads can be adjusted to different angles to meet your needs.</p>
+                                <p> With the Built-In motion sensor detector, the security lights motion outdoor will be from lights out to high bright when the sensor is activated and last about 30s after no motion detection. The motion detection range of the LED solar lights outdoor is 16-26 ft. The upgraded solar flood light has a wider lighting angle. The three heads can be adjusted to different angles to meet your needs.</p>
                             </div>
                         </div>
                         <div class="info-detail">
                             <div class="desc">
                                 <p class="sub-title">Adjustable 270° Wide Lighting Range</p>
-                                <p>The upgraded solar flood lights come with a wider angle illumination. 3 light heads is AJUSTABLE to different angles to meet your needs. The solar led security light detects motion up to 32 feet within an angle of 120 agrees.The solar outdoor light has a built-in replaceable 2200mAh lithium battery,which increases the service life of the light.</p>
+                                <p>The upgraded solar flood lights come with a wider illumination angle. 3 light heads is adjustable to different angles to meet your needs. The solar led security light detects motion up to 32 feet within an angle of 120 degrees. The solar outdoor light has a built-in replaceable 2200mAh lithium battery which increases the service life of the light.</p>
                             </div>
                             <div class="img">
                                 <img src="../../../../images/ESW-3H-3.jpg"/>
@@ -284,7 +284,7 @@
                         <div class="info-detail" style="margin-bottom: 50px">
                             <div class="desc">
                                 <p class="sub-title">Easy to Install & Warranty</p>
-                                <p>Installation steps: Turn on the switch before installation for charge → Drill holes with the Anchors → Screw the mounting bracket → Slip the light onto the bracket. If you are not satisfied with our solar security lights, please contact us. Your complete satisfaction is our highest priority! We would love to help to solve your problem.</p>
+                                <p>Installation steps: Turn on the switch before installation for charge → Drill holes with Anchor → Screw the mounting bracket → Slip the light onto the bracket. </p>
                             </div>
                             <div class="img">
                                 <img src="../../../../images/ESW-3H-detail-6.jpg"/>
@@ -361,7 +361,7 @@
                         </div>
                         <div class="point" style="margin-bottom: 50px;margin-top: 50px;">
                             <p class="remark">Remarks</p>
-                            <p>This product utilizes solar energy. Please choose a location that receives adequate sunshine to optimize its solar charge. The greater the charge received from sunlight, the longer the illumination time. An amounting height of 2 to 2.5 meters is recommended. </p>
+                            <p>This product utilizes solar energy. Please choose a location that receives adequate sunshine to optimize its solar charge. The greater the charge received from sunlight, the longer the illumination time. A mounting height of 2 to 2.5 meters is recommended. </p>
                             <p>It should be kept away from heat or housed hold garbage and disposed of at the local battery disposal center.</p>
                         </div>
                     </div>

@@ -234,13 +234,13 @@
                             </div>
                             <div class="desc">
                                 <p class="sub-title">118 LEDs Super Bright Illumination</p>
-                                <p>Adopted upgraded 118 LEDs, EchoLumen ESW-118 LED wall light is capable of providing extra brightness and more visible area in a 270° super wide lighting angle. Lighten up you way home!</p>
+                                <p>Adopted upgraded 118 LEDs, EchoLumen ESW-118 LED wall light is capable of providing extra brightness and more visible area in a 270° super wide lighting angle. Lighten up your way home!</p>
                             </div>
                         </div>
                         <div class="info-detail">
                             <div class="desc">
                                 <p class="sub-title">Solar Powered Lights Eco-Friendly </p>
-                                <p>Upgraded solar panel via Monocrystalline silicon quicker charge/higher power efficiency up to 24%. And the big capacity of 2200mA Li-ion battery allows the solar lights to be continuously illuminated for longer periods of time to meet everyday lighting needs.</p>
+                                <p>Upgraded solar panel via Monocrystalline silicon quicker charge/higher power efficiency up to 24%. And the big capacity of 2200mA Li-ion battery allows the solar lights to be continuously illuminating for longer period of time to meet everyday lighting needs.</p>
                             </div>
                             <div class="img">
                                 <img src="../../../../images/ESW-118-detail-3.jpg"/>
@@ -258,7 +258,7 @@
                         <div class="info-detail">
                             <div class="desc">
                                 <p class="sub-title">Upgraded 120°Detection Range</p>
-                                <p>Equipped with the accurate PIR motion sensor, EchoLumen solar lights can detect any movement up to 6-8meters at a wide 120° detection angle. The light will light up auto for 20 seconds once movement detected, then turns off, which is energy saving and  meets your need to for all night use.</p>
+                                <p>Equipped with the accurate PIR motion sensor, EchoLumen solar lights can detect any movement up to 6-8meters at a wide 120° detection angle. The light will light up auto for 20 seconds once movement detected, then turns off, which is energy saving and  meets your need for all night use.</p>
                             </div>
                             <div class="img">
                                 <img src="../../../../images/ESW-118-4.jpg"/>
@@ -289,15 +289,13 @@
                         </div>
                         <div class="point" style="margin-bottom: 50px;">
                             <p class="remark">Remarks</p>
-                            <p>This product utilizes solar energy. Please choose a location that receives adequate sunshine to optimize its solar charge. The greater the charge received from sunlight, the longer the illumination time. An amounting height of 2 to 2.5 meters is recommended. </p>
+                            <p>This product utilizes solar energy. Please choose a location that receives adequate sunshine to optimize its solar charge. The greater the charge received from sunlight, the longer the illumination time. A mounting height of 2 to 2.5 meters is recommended. </p>
                             <p>It should be kept away from heat or housed hold garbage and disposed of at the local battery disposal center.</p>
                         </div>
                     </div>
                     <?php include('../../../../inc/messageBox.php'); ?>
                 </div>
             </div>
-            <!-- 留言板 -->
-            
         </div>
     </div>
     <footer>

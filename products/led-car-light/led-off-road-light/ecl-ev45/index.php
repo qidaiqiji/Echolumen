@@ -225,7 +225,7 @@
                             <p>Service Time: >50,000H</p>
                             <p>Waterproof: IP68</p>
                             <p>Material: Die-Cast Aluminum</p>
-                            <p>Product Size: 100x110x120mm</p>
+                            <p>Product Size: 91x80x72mm</p>
                             <p>Application: Work light for Off-Road, SUV, ATV, UTV, Trucks, Marine, Motorcycle, Boat, Heavy Duty Marine etc</p>
                             <a class="inquery" href="mailto:info@echolumen.com">Inquiry</a>
                         </div>
@@ -252,7 +252,7 @@
                         <div class="info-detail">
                             <div class="desc">
                                 <p class="sub-title">Perfect Beam Pattern</p>
-                                <p>Over 120 degree horizontal beam for maximum lighting coverage. With 6pcs deep projector cups in the center, combined with fabulous both outer side combo LEDs, the side shooter LED pods is engineered to take lighting visibility to a new height.</p>
+                                <p>Over 120 degree horizontal beam for maximum lighting coverage. With 6pcs deep projector cups in the center, combined with fabulous both outer side combo LEDs, the side shooter LED pods are engineered to take lighting visibility to a new height.</p>
                             </div>
                             <div class="img">
                                 <img src="../../../../images/ECL-EV45-detail-2.jpg"/>
@@ -264,13 +264,13 @@
                             </div>
                             <div class="desc">
                                 <p class="sub-title">Premium Performance, IP68 Waterproof</p>
-                                <p>Manufactured from high-grade IP68 Waterproof Rated Die-Casting Aluminum, the LED pods has excellent waterproof, dustproof, rustproof, quake proof and quick cooling performance. Combined durability and affordability performance, it was built for the harshest environments.</p>
+                                <p>Made of high-grade IP68 Waterproof Rated Die-Casting Aluminum, the LED pods have excellent waterproof, dustproof, rustproof, quake proof and quick cooling performance. Combined durability and affordability performance, it was built for the harshest environments.</p>
                             </div>
                         </div>
                         <div class="info-detail">
                             <div class="desc">
                                 <p class="sub-title">Supreme Heat Dissipation</p>
-                                <p>Fast cooling also have high thermal conductivity 6063 aluminum alloy heat sinks, which can effectively extend the lifespan of the driving lights to over 50,000 hours!</p>
+                                <p>Fast cooling and high thermal conductivity 6063 aluminum alloy heat sinks, which can effectively extend the lifespan of the driving lights to over 50,000 hours!</p>
                             </div>
                             <div class="img">
                                 <img src="../../../../images/ECL-EV45-detail-4.jpg"/>
@@ -282,7 +282,7 @@
                             </div>
                             <div class="desc">
                                 <p class="sub-title">Wide Applications</p>
-                                <p>With working voltage of 9-30V DC, the side shooter LED work light bar can be widely used to most of vehicles style (Off-Road, SUV, ATV, UTV, Trucks, Marine, Motorcycle, Boat, Heavy Duty Marine etc.)</p>
+                                <p>With working voltage of DC 9-32V, the side shooter LED work light bar can be widely used to most vehicles (Off-Road, SUV, ATV, UTV, Truck, Marine, Motorcycle, Boat, Heavy Duty Marine etc.)</p>
                             </div>
                         </div>
                         <!-- <div class="square">
@@ -324,29 +324,6 @@
                         <div class="square">
                             <img src="../../../../images/ECL-EV45-detail-13.jpg" />
                         </div>
-                        <!-- <div class="list">
-                            <div class="item">
-                                <img src="../../../../images/ECL-EV45-detail-13.jpg" />
-                                <div class="item-desc">
-                                    <h4>Off Road Vehicle Lighting</h4>
-                                    <p>The LED light can be widely applied to Jeeps, 4x4, ATV, UTV, SUV, Truck, Cars Motorcycles, Pick-up, Van, Camper, Road Buggy, Sand Rail, Trains, Bus, Tanks, etc. Super bright light beam dispels the darkness and light up the forward road, clear view area for safety driving.</p>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <img src="../../../../images/ECL-EV45-detail-14.jpg" />
-                                <div class="item-desc">
-                                    <h4>Boat Lighting</h4>
-                                    <p>Installed on boat, yacht, skiff, freighter and ship to enhance the illuminating brightness of voyage. With IP68 rate and powder coat, efficiently waterproof, dustproof and anticorrosive. Super bright view area to see clear at night, excellent visual effect.</p>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <img src="../../../../images/ECL-EV45-detail-15.jpg" />
-                                <div class="item-desc">
-                                    <h4>Equipment Lighting</h4>
-                                    <p>It is suitable for Trailer, Forklift, Excavator, Dozer, Road Roller, Crane, Tractor, Harvester, Grain Drill, Mower, Snowplow, Fire engine, Rescue Vehicle, Camping, Mining, Construction and other outdoor lighting. </p>
-                                </div>
-                            </div>
-                        </div> -->
                     </div>
                     <?php include('../../../../inc/messageBox.php'); ?>
                 </div>

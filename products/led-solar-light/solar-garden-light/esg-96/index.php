@@ -245,7 +245,7 @@
                         <div class="info-detail">
                             <div class="desc">
                                 <p class="sub-title">Long Working Time</p>
-                                <p>Built-in rechargeable Lithium-ion battery (1600mAh), light up 3 nights (12 hours per night) afer charging for 8 hours under bright sunlight.</p>
+                                <p>Built-in rechargeable Lithium-ion battery (1600mAh), light up 3 nights (12 hours per night) after charging for 8 hours under bright sunlight.</p>
                             </div>
                             <div class="img">
                                 <img src="../../../../images/ESG-96-3.jpg"/>
@@ -275,7 +275,7 @@
                             </div>
                             <div class="desc">
                                 <p class="sub-title">Easy Installation </p>
-                                <p>No wiring required, simply install solar flame lights anywhere you like, then enjoying the torch light yourself and greeting guests with warm and welcome glow. It can be easily installed at your lawn garden backyard etc.</p>
+                                <p>No wiring required, simply install solar flame lights anywhere you like, then enjoying the torch light and greeting guests with warm and welcome glow. It can be easily installed at your lawn garden backyard etc.</p>
                             </div>
                         </div>
                         <div class="square">

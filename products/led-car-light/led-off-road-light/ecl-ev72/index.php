@@ -243,13 +243,13 @@
                             </div>
                             <div class="desc">
                                 <p class="sub-title">Ultra-High Brightness</p>
-                                <p>Advanced LED chips give out bright dnd white ray for clear visibility. Made of 24*3W ultra bright LEDs, total 72W at 6000K color temperature with 7200 Lumens, the 30-degree spot combo provides a long irradiation distance and wide view area, super bright white light to dispel darkness, so that you can clearly the left and right area to make your trip more safe.</p>
+                                <p>Advanced LED chips give out bright and white ray for clear visibility. Made of 24*3W ultra bright LEDs, total 72W at 6000K color temperature with 7200 Lumens, the 30-degree spot combo provides a long irradiation distance and wide view area, super bright white light to dispel darkness, so that you can see clearly the left and right area to make your trip safer.</p>
                             </div>
                         </div>
                         <div class="info-detail">
                             <div class="desc">
                                 <p class="sub-title">Premium Performance, IP68 Waterproof</p>
-                                <p>Manufactured from high-grade IP68 Waterproof Rated Die-Casting Aluminum, the LED pods has excellent waterproof, dustproof, rustproof, quake proof and quick cooling performance. Combined durability and affordability performance, it was built for the harshest environments.</p>
+                                <p>Made of high-grade IP68 Waterproof Rated Die-Casting Aluminum, the LED pods have excellent waterproof, dustproof, rustproof, quake proof and quick cooling performance. Combined durability and affordability performance, it was built for the harshest environments.</p>
                             </div>
                             <div class="img">
                                 <img src="../../../../images/ECL-EV72-2.jpg"/>
@@ -279,7 +279,7 @@
                             </div>
                             <div class="desc">
                                 <p class="sub-title">Wide Applications</p>
-                                <p>With working voltage of 9-30V DC, the ultra bright 72W LED work light bar can be widely used to most of vehicles style (Off-Road, SUV, ATV, UTV, Trucks, Marine, Motorcycle, Boat, Heavy Duty Marine etc.)</p>
+                                <p>With working voltage of DC 9-32V, the ultra bright 72W LED work light bar can be widely used to most vehicles (Off-Road, SUV, ATV, UTV, Truck, Marine, Motorcycle, Boat, Heavy Duty Marine etc.)</p>
                             </div>
                         </div>
                         <div class="square">

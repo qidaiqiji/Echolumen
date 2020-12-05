@@ -147,6 +147,7 @@
 }
 .square img {
     width: 60%;
+    height: 100%;
 }
 .empty {
     width: 100%;

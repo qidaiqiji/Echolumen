@@ -1,5 +1,4 @@
 $(document).ready(function () {
-    console.log('fff', String(window.location))
     // 导航选中状态
     if (location.pathname.indexOf('home') > -1) {
         $("#in0").addClass('menu-active')
@@ -23,7 +22,6 @@ $(document).ready(function () {
     $(".subMenu-ul .subMenu-link").each(function () {
         $this = $(this);
         if ($this[0].href == String(window.location)) {
-            console.log('Zoule')
             $(".subMenu-ul .subMenu-item").removeClass("menu-active");
             $this.parent().parent().parent().parent().addClass("menu-active");
             $this[0].style.cssText = "background-color: #d81621;color: #fff;"
@@ -31,8 +29,6 @@ $(document).ready(function () {
     })
     $(".cat-subMenu-ul .cat-subMenu-link").each(function () {
         $this = $(this);
-        console.log('pppaaaa', $this[0].href)
-        console.log('dsdsdsd', String(window.location))
         if ($this[0].href == String(window.location)) {
             $this[0].style.cssText = "background-color: #d81621;color: #fff;"
         }
@@ -102,15 +98,11 @@ $(document).ready(function () {
     var imgItemWidth = $('.img-main .img').outerWidth(true)
     var len = $('.img-main .img').length
     var imgMainWidth = imgItemWidth * len
-    console.log('dd', $('.img-main'))
     // $('.img-main')[0].style.cssText = `width: ${imgMainWidth}`
-    console.log('imgItemWidth', imgItemWidth)
-    console.log('imgMainWidth', imgMainWidth)
     $('.img-main').css('width',Math.ceil(imgMainWidth));
     var num = 0
     $('.img-list li').each(function(index) {
         $(this).mouseover(function() {
-            console.log(index)
             num = index
             $('.img-list li').removeClass('active')
             $(this).addClass('active')

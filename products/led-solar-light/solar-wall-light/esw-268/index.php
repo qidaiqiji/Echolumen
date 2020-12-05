@@ -217,6 +217,7 @@
                         <div class="instruction">
                             <h2>Solar LED Wall Lights Outdoor Motion Sensor - Upgrade 268 LEDs Solar Security Light IP65 Waterproof Led Outdoor Lights Super Bright Solar Wireless Wall Lights with 3 Optional Modes and 4Wide Angle</h2>
                             <p>Model: ESW-268</p>
+                            <p>LED: 0.2W/SMD2835*268pcs</p>
                             <p>Lithium Battery: 2000mAh   3.7V</p>
                             <p>Solar Panel: Polysilicon with light sensor 5.5V  1.6W</p>
                             <p>Install Height: 2M-3M</p>
@@ -257,13 +258,13 @@
                             </div>
                             <div class="desc">
                                 <p class="sub-title">IP65 Waterproof Resistant To Any Weathers </p>
-                                <p>EchoLumen solar LED wall light outdoor is ade of durable ABS material. You don't need to worry about using it in the rain. EchoLumen Solar motion sensor light can also withstand all kinds of severe weather conditions, which is water resistant, heat-resistant and frost resistant. It is capable of  withstanding rain, snow, storm and other extreme weather conditions</p>
+                                <p>EchoLumen solar LED wall light outdoor is ade of durable ABS material. You don't need to worry about using it in the rain. EchoLumen solar motion sensor light can also withstand all kinds of severe weather conditions, which is water resistant, heat-resistant and frost resistant. It is capable of  withstanding rain, snow, storm and other extreme weather conditions</p>
                             </div>
                         </div>
                         <div class="info-detail">
                             <div class="desc">
                                 <p class="sub-title">Motion Sensor Is More Sensitive</p>
-                                <p>EchoLumen solar LED wall lights are equipped with the more sensitive motion sensor than others. Which can easily prevent thieves from entering your home at night and stealing your property. The built-in PIR motion sensor of our solar LED wall light can detect up to 120 degree with a longer sensor length of 26 feet(about 8m) thus solar sensor lights provides a broader range of lighting.</p>
+                                <p>EchoLumen solar LED wall lights are equipped with the more sensitive motion sensor than others. Which can easily prevent thieves from entering your home at night and stealing your property. The built-in PIR motion sensor of our solar LED wall light can detect up to 120 degree with a longer sensor distance of 26 feet(about 8m) thus solar sensor lights provide a broader range of lighting.</p>
                             </div>
                             <div class="img">
                                 <img src="../../../../images/esw-268-detail-4.jpg"/>
@@ -297,7 +298,7 @@
                         </div>
                         <div class="point" style="margin-bottom: 50px;">
                             <p class="remark">Remarks</p>
-                            <p>This product utilizes solar energy. Please choose a location that receives adequate sunshine to optimize its solar charge. The greater the charge received from sunlight, the longer the illumination time. An amounting height of 2 to 2.5 meters is recommended. </p>
+                            <p>This product utilizes solar energy. Please choose a location that receives adequate sunshine to optimize its solar charge. The greater the charge received from sunlight, the longer the illumination time. A mounting height of 2 to 2.5 meters is recommended. </p>
                             <p>It should be kept away from heat or housed hold garbage and disposed of at the local battery disposal center.</p>
                         </div>
                     </div>

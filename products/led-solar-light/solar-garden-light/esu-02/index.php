@@ -241,13 +241,13 @@
                             </div>
                             <div class="desc">
                                 <p class="sub-title">Beautiful New Solar Ground Light</p>
-                                <p>EchoLumen solar garden lights are much more modern fashionable with unique dome design compared to other flat solar ground lights. 8 leds brighter warm light/cold white, effective but not distracting or annoying. Nice for keeping them in your courtyard, gardens, sidewalks, lawns and corridors, etc., to add a beautiful scene for the summer night.</p>
+                                <p>EchoLumen solar garden lights are much more modern fashionable with unique dome design compared to other flat solar ground lights. 8 LEDs brighter warm light/cold white, effective but not distracting or annoying. Nice for keeping them in your courtyard, gardens, sidewalks, lawns and corridors, etc., to add a beautiful scene for the summer night.</p>
                             </div>
                         </div>
                         <div class="info-detail">
                             <div class="desc">
                                 <p class="sub-title">Upgraded Design With Robust Lampshade</p>
-                                <p>Part of the body using high quality ABS material with the special process, which makes the product not only exquisite and classy but also more waterproof and durable than similar solar lights,withstands inclement weather and 60KG standing body.</p>
+                                <p>Part of the body using high quality ABS material with the special process, which makes the product not only exquisite and classy but also more waterproof and durable than similar solar lights, withstand inclement weather and 60KG standing body.</p>
                             </div>
                             <div class="img">
                                 <img src="../../../../images/ESU-02-3.jpg"/>
@@ -259,7 +259,7 @@
                             </div>
                             <div class="desc">
                                 <p class="sub-title">Leading IP67 Waterproof</p>
-                                <p>Our Solar ground lights have been enormous technological breakthroughs in waterproof grade. Unique double IP67 waterproof design which put a silicone seal ring around the edge and built-in waterproof switch. Can really withstand all kinds of terrible weather like a rainstorm, blizzard or daily heat in a long time.</p>
+                                <p>Our solar ground lights featuring enormous technological breakthroughs in waterproof grade. Unique double IP67 waterproof design which put a silicone seal ring around the edge and built-in waterproof switch. Can really withstand all kinds of terrible weather like a rainstorm, blizzard or daily heat in a long time.</p>
                             </div>
                         </div>
                         <div class="info-detail">

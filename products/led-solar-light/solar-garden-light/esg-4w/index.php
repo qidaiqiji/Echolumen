@@ -240,13 +240,13 @@
                             </div>
                             <div class="desc">
                                 <p class="sub-title">Bright Solar Lights Give Light In Darkness</p>
-                                <p>EchoLumen created its solar lights larger in size, with longer-lasting batteries, and high-end style to provide you with the brightest white lighting for your yard! Transform your outside walkways, gardens, and patios into a beautiful heaven-on-Earth with our premium-value.</p>
+                                <p>EchoLumen designed its solar lights larger in size, with longer-lasting batteries, and high-end style to provide you with the brightest white lighting for your yard! Transform your outside walkways, gardens, and patios into a beautiful and warm private space with our solar garden lights.</p>
                             </div>
                         </div>
                         <div class="info-detail">
                             <div class="desc">
-                                <p class="sub-title">Two Colors For Options, Warm White And Pure White</p>
-                                <p>EchoLumen solar LED garden light outdoor offers both warm white (3000K) and pure white (6000K) for options, meet the different color requirements from consumers. The high quality LED ensuring a long lifespan (at least 5000H) to satisfy your expectations on quality and price.</p>
+                                <p class="sub-title">Two Colors For Options, Warm White And Cool White</p>
+                                <p>EchoLumen solar LED garden light outdoor offers both warm white (3000K) and cool white (6000K) for options, meet the different color requirements from consumers. The high quality LED ensuring a long lifespan (at least 50000H) to satisfy your expectations on quality and price.</p>
                             </div>
                             <div class="img">
                                 <img src="../../../../images/ESG-4W-detail-2.jpg"/>
@@ -258,7 +258,7 @@
                             </div>
                             <div class="desc">
                                 <p class="sub-title">Tastful. Elegant. Smart Design</p>
-                                <p>To maintain the top quality and style of our outdoor solar lights, EchoLumen focused on every aspect of our garden Lights-- from the performance, to the durability, to the appeal. We included the highest-performing batteries, the longest-lasting LED lights, and the most attractive design to give you the best lighting experience possible! </p>
+                                <p>To maintain the top quality and style of our outdoor solar lights, EchoLumen focused on every aspect of our garden Lights-- from light performane to stability and appearance. We adopted the highest-performing batteries, the longest-lasting LED lights, and the most attractive design to give you the best lighting experience possible! </p>
                             </div>
                         </div>
                         <div class="info-detail">
@@ -276,7 +276,7 @@
                             </div>
                             <div class="desc">
                                 <p class="sub-title">IP65 Waterproof & Heatproof</p>
-                                <p>Made of high profile Aluminum and having been enormous technological breakthroughs in waterproof grade, outdoor solar LED garden lights have unique waterproof design, it can withstand rain and other extreme weather conditions.</p>
+                                <p>Made of high profile Aluminum and featuring enormous technological breakthroughs in waterproof grade, outdoor solar LED garden lights have unique waterproof design, it can withstand rain and other extreme weather conditions.</p>
                             </div>
                         </div>
                         <div class="info-detail">

@@ -244,7 +244,7 @@
                         <div class="info-detail">
                             <div class="desc">
                                 <p class="sub-title">High Efficiency And Long Working Hours</p>
-                                <p>EchoLumen solar LED garden spotlight outdoor is equipped with large solar panel for quick charging at the daytime, which can charge the battery full with 5-6hours. With high quality big capacity Lithium-ion battery, the lighting time of EchoLumen LED garden light can last at least 6-9 hours per night. </p>
+                                <p>EchoLumen solar LED garden spotlight outdoor is equipped with large solar panel for quick charging at the daytime, full charging takes 5-6 hours. With high quality big capacity Lithium-ion battery, the lighting time of EchoLumen LED garden light can last at least 6-9 hours per night. </p>
                             </div>
                             <div class="img">
                                 <img src="../../../../images/ESG-C07-RGB-detail-2.jpg"/>
