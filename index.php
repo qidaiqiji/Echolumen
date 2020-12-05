@@ -144,19 +144,27 @@
                     </a>
                 </div>
                 <div class="product-item">
-                    <a class="thumb" href="./products/led-car-light/led-headlight-bulb/ecl-e9k/">
-                        <img src="./images/home/LED-Headlight-ECL-E9K.jpg" alt="ecl-e9k" />
+                    <a class="thumb" href="./products/led-car-light/led-headlight-bulb/ecl-jh500/">
+                        <img src="./images/ECL-JH500-1.jpg" alt="ecl-jh500" />
                     </a>
-                    <a class="list-title" href="./products/led-car-light/led-headlight-bulb/ecl-e9k/">
-                        <span class="current">LED Headlight ECL-E9K</span><span class="more">View More</span>
+                    <a class="list-title" href="./products/led-car-light/led-headlight-bulb/ecl-jh500/">
+                        <span class="current">LED Headlight ECL-JH500</span><span class="more">View More</span>
                     </a>
                 </div>
-                <div class="product-item">
+                <!-- <div class="product-item">
                     <a class="thumb" href="./products/led-car-light/led-off-road-light/ecl-ev84/">
                         <img src="./images/home/LED-Work-Light-ECL-EV84.jpg" alt="ecl-ev84" />
                     </a>
                     <a class="list-title" href="./products/led-car-light/led-off-road-light/ecl-ev84/">
                         <span class="current">LED Work Light ECL-EV84</span><span class="more">View More</span>
+                    </a>
+                </div> -->
+                <div class="product-item">
+                    <a class="thumb" href="./products/led-car-light/led-off-road-light/ecl-lb13/">
+                        <img src="./images/ECL-LB13-1.jpg" alt="ecl-lb13" />
+                    </a>
+                    <a class="list-title" href="./products/led-car-light/led-off-road-light/ecl-lb13/">
+                        <span class="current">LED Work Light ECL-LB13</span><span class="more">View More</span>
                     </a>
                 </div>
                 <div class="product-item">

@@ -116,6 +116,24 @@
         <div class="content">
             <div class="main">
                 <ul class="list">
+                    <li class="item">
+                        <a class="thumb" href="./ecl-jh500/">
+                            <img src="../../../images/ECL-JH500-1.jpg" alt="ECL-JH500" />
+                        </a>
+                        <a class="desc" href="./ecl-jh500/">
+                            <span class="current">LED Jeep Headlight ECL-JH500</span>
+                            <span class="more">View More</span>
+                        </a>
+                    </li>
+                    <li class="item">
+                        <a class="thumb" href="./ecl-jh200/">
+                            <img src="../../../images/ECL-JH200-1.jpg" alt="ECL-JH200" />
+                        </a>
+                        <a class="desc" href="./ecl-jh200/">
+                            <span class="current">LED Jeep Headlight ECL-JH200</span>
+                            <span class="more">View More</span>
+                        </a>
+                    </li>
                    <li class="item">
                         <a class="thumb" href="./ecl-e9k/">
                             <img src="../../../images/category/main-image-ECL-E9K.jpg" alt="main-image-ECL-E9K" />
@@ -158,15 +176,6 @@
                         </a>
                         <a class="desc" href="./ecl-k7/">
                             <span class="current">LED Car Headlight ECL-K7</span>
-                            <span class="more">View More</span>
-                        </a>
-                    </li>
-                    <li class="item">
-                        <a class="thumb" href="./ecl-jh200/">
-                            <img src="../../../images/ECL-JH200-1.jpg" alt="ECL-JH200" />
-                        </a>
-                        <a class="desc" href="./ecl-jh200/">
-                            <span class="current">LED Jeep Headlight ECL-JH200</span>
                             <span class="more">View More</span>
                         </a>
                     </li>

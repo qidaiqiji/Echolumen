@@ -116,6 +116,33 @@
             <div class="main">
                 <ul class="list">
                     <li class="item">
+                        <a class="thumb" href="./ecl-lb13/">
+                            <img src="../../../images/ECL-LB13-1.jpg" alt="ECL-lb13" />
+                        </a>
+                        <a class="desc" href="./ecl-lb13/">
+                            <span class="current">LED Off Road Light ECL-LB13</span>
+                            <span class="more">View More</span>
+                        </a>
+                    </li>
+                    <li class="item">
+                        <a class="thumb" href="./ecl-lb5/">
+                            <img src="../../../images/ECL-LB5-1.jpg" alt="ECL-lb5" />
+                        </a>
+                        <a class="desc" href="./ecl-lb5/">
+                            <span class="current">LED Off Road Light ECL-LB5</span>
+                            <span class="more">View More</span>
+                        </a>
+                    </li>
+                    <li class="item">
+                        <a class="thumb" href="./ecl-lb8/">
+                            <img src="../../../images/ECL-LB8-1.jpg" alt="ECL-lb8" />
+                        </a>
+                        <a class="desc" href="./ecl-lb8/">
+                            <span class="current">LED Off Road Light ECL-LB8</span>
+                            <span class="more">View More</span>
+                        </a>
+                    </li>
+                    <li class="item">
                         <a class="thumb" href="./ecl-ev36/">
                             <img src="../../../images/category/main-image-ECL-EV36.jpg" alt="main-image-ECL-EV36" />
                         </a>
@@ -166,15 +193,6 @@
                         </a>
                         <a class="desc" href="./ecl-ev120/">
                             <span class="current">LED Off Road Light ECL-EV120</span>
-                            <span class="more">View More</span>
-                        </a>
-                    </li>
-                    <li class="item">
-                        <a class="thumb" href="./ecl-lb13/">
-                            <img src="../../../images/ECL-LB13-1.jpg" alt="ECL-lb13" />
-                        </a>
-                        <a class="desc" href="./ecl-lb13/">
-                            <span class="current">LED Off Road Light ECL-LB13</span>
                             <span class="more">View More</span>
                         </a>
                     </li>
