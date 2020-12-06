@@ -1,12 +1,31 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-WJF9X3LP1C"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-WJF9X3LP1C');
+    </script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-WJF9X3LP1C"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-WJF9X3LP1C');
+    </script>
     <meta charset="UTF-8">
     <meta name="viewport"
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="description" content="As a leading LED car light manufacturer, LED solar light, LED garden light, LED wall light, LED garage light, LED headlight bulb and trusted solar garden light and solar wall light solution provider, EchoLumen offers wide range of solar LED light and car light for all global customers." />
     <meta name="keywords" content="LED car light, LED work light bar, LED solar light, solar LED light, LED garden light, solar garden light, LED wall light, solar wall light, LED headlight bulb, LED car headlight, LED off road light, car interior light, atmosphere light for car" />
+    <meta name="google-site-verification" content="0shajBljKJmDq591g5XF-mLgkwsmapnCARKPAOf65QY" />
     <title>LED Car Light | LED Solar Light | LED Garage Light | LED Headlight Bulb｜EchoLumen</title>
     <link rel="stylesheet" href="./css/reset.css">
     <link rel="stylesheet" href="./css/font-awesome/css/font-awesome.min.css">
