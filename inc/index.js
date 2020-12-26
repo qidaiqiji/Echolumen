@@ -1,4 +1,15 @@
 $(document).ready(function () {
+    console.log('走了')
+    // $(window).on("resize", function () {
+    //     console.log('qqq')
+    //     if ($(window).width() <= 1024) {
+    //         $(".img-box").addClass('change-screen')
+    //     }
+    // })
+    $("#mobile-header").click(function(){
+        console.log('ZOLE')
+        $(".page-index").toggleClass('menu-open')
+    })
     // 导航选中状态
     if (location.pathname.indexOf('home') > -1) {
         $("#in0").addClass('menu-active')
@@ -90,12 +101,14 @@ $(document).ready(function () {
         }
     })
     // 处理大图样式及滚动
+    // console.log($('.img-box').hasClass('change-screen'))
     $('.img-box').mouseover(function() {
         $('.img-box i').css('opacity', 1)
     }).mouseout(function() {
         $('.img-box i').css('opacity', 0)
     })
     var imgItemWidth = $('.img-main .img').outerWidth(true)
+    console.log('imgItemWidth', imgItemWidth)
     var len = $('.img-main .img').length
     var imgMainWidth = imgItemWidth * len
     // $('.img-main')[0].style.cssText = `width: ${imgMainWidth}`
@@ -128,5 +141,4 @@ $(document).ready(function () {
         $('.img-list li').removeClass('active')
         $('.img-list li').eq(num).addClass('active')
     })
-
 })

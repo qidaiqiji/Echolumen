@@ -4,7 +4,6 @@
     position: relative;
     overflow: auto;
     text-align: center;
-    margin-top:100px;
 }
 .banner ul, ol{
     list-style: none; 
@@ -46,10 +45,12 @@
     display: flex;
     justify-content: space-between;
     margin: 76px 0;
+    flex-wrap: wrap;
 }
 .product-item {
     width: 23%;
     box-shadow: 0 0 10px rgba(0,0,0,0.16);
+    margin-bottom: 80px;
 }
 .product-item .thumb {
     /* display: block; */
@@ -184,6 +185,10 @@
 .about .desc {
     width: 55%;
 }
+.about-sec {
+    padding-bottom: 70px;
+    margin-bottom: 0;
+}
 /* why-choose样式 */
 .why-choose {
     background-image: url(../images/home/bg1.jpg);
@@ -205,7 +210,7 @@
 .why-choose .icon-list{
     display: flex;
     justify-content: space-between;
-    margin-top: 40px;
+    flex-wrap: wrap;
 }
 .why-choose .icon {
     display: block;
@@ -224,6 +229,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-bottom: 40px;
 }
 .why-choose .desc {
     text-align: center;
@@ -255,12 +261,14 @@
     display: flex;
     justify-content: space-between;
     margin-bottom: 30px;
+    flex-wrap: wrap;
 }
 .project .project-item {
     width: 32%;
     position: relative;
     overflow: hidden;
     height: 330px;
+    margin-bottom: 30px;
 }
 
 .project img {
@@ -358,3 +366,102 @@
     -webkit-line-clamp: 6;
     overflow: hidden;
 }
+@media (max-width: 1024px){
+    .about>div {
+        flex-wrap: wrap;
+        margin: 50px auto;
+    }
+    .about img {
+        width: 100%;
+        order: 1;
+    }
+    .about .desc {
+        width: 100%;
+        order: 2;
+        margin-top: 20px;
+    }
+    .about-sec {
+        padding-bottom: 50px;
+    }
+    .product-item {
+        width: 30%;
+        margin-bottom: 80px;
+    }
+    .no-display {
+        display: none;
+    }
+    .project .breif-desc {
+        left: 0;
+        height: 35px;
+        line-height: 35px;
+        font-size: 14px;
+    }
+    .insights-container {
+        margin-top: 50px;
+    }
+    .project .project-item {
+        height: auto;
+    }
+    .insight-no-display {
+        display: none;
+    }
+}
+@media (min-width: 768px) and (max-width: 1023px){
+    .what .what-item {
+        width: 48%;
+        margin-bottom: 40px;
+    }
+    .what .thumb {
+        padding-top: 0;
+    }
+    .what .product-list {
+        margin-bottom: 50px;
+    }
+}
+@media (max-width: 767px) {
+    .title-box {
+        margin-bottom: 50px;
+    }
+    .product-list {
+        justify-content: center;
+        margin: 0;
+    }
+    .product-item {
+        width: 80%;
+        margin-bottom: 20px;
+    }
+    .product-item .thumb {
+        height: auto;
+    }
+    .no-display {
+        display: none;
+    }
+    .what .what-item {
+        width: 80%;
+        margin-bottom: 30px;
+    }
+    .what .thumb {
+        padding-top: 0;
+    }
+    .what .product-list {
+        margin-bottom: 25px;
+    }
+    .why-choose {
+        padding-bottom: 0;
+    }
+    .why-choose .icon-list {
+        justify-content: center;
+    }
+    .why-choose .icon-item {
+        width: 80%;
+    }
+    .project .project-list {
+        justify-content: center;
+        margin-bottom: 20px;
+    }
+    .project .project-item {
+        width: 80%;
+        height: auto;
+    }
+}
+

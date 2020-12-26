@@ -274,3 +274,65 @@ img {
     height: auto;
     margin-top: 30px;
 }
+@media (max-width: 1024px){
+    .message-box {
+        display: none;
+    }
+    .brief {
+        flex-wrap: wrap;
+    }
+    .img-box {
+        margin-right: 0;
+    }
+    .img-container {
+        order: 1;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+    .instruction {
+        order: 2;
+        width: 100%;
+    }
+    .img-list {
+        margin: 20px 0;
+        width: 100%;
+    }
+    .blog {
+        margin-right: 0;
+    }
+}
+@media (max-width: 767px){
+    .products-nav {
+        display: none;
+    }
+    .brief {
+        margin-left: 0;
+        width: 80%;
+    }
+    .img-box {
+        width: 300px;
+        height: 300px;
+    }
+    .img-container {
+        width: 80%;
+        margin: 0 auto;
+    }
+    .img-box .img {
+        width: 300px;
+        height: 300px;
+    }
+    .img-list li {
+        margin-right: 6px;
+        width: 16%;
+        height: auto;
+    }
+    .img-list li img {
+        width: 100%;
+    }
+    .blog {
+        margin-left: 0;
+    }
+}

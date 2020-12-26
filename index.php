@@ -1,23 +1,21 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
 <head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-WJF9X3LP1C"></script>
     <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
 
-    gtag('config', 'G-WJF9X3LP1C');
-    </script>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-WJF9X3LP1C"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-WJF9X3LP1C');
+        gtag('config', 'G-WJF9X3LP1C');
+        </script>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-WJF9X3LP1C"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-WJF9X3LP1C');
     </script>
     <meta charset="UTF-8">
     <meta name="viewport"
@@ -116,7 +114,7 @@
                     </ul>
                 </div>
                 <div class="mobile-header" id="mobile-header">
-                    <span class="iconfont">&#xe660;</span>
+                    <span class="fa fa-bars"></span>
                 </div>
             </div>
         </div>
@@ -170,14 +168,6 @@
                         <span class="current">LED Headlight ECL-JH500</span><span class="more">View More</span>
                     </a>
                 </div>
-                <!-- <div class="product-item">
-                    <a class="thumb" href="./products/led-car-light/led-off-road-light/ecl-ev84/">
-                        <img src="./images/home/LED-Work-Light-ECL-EV84.jpg" alt="ecl-ev84" />
-                    </a>
-                    <a class="list-title" href="./products/led-car-light/led-off-road-light/ecl-ev84/">
-                        <span class="current">LED Work Light ECL-EV84</span><span class="more">View More</span>
-                    </a>
-                </div> -->
                 <div class="product-item">
                     <a class="thumb" href="./products/led-car-light/led-off-road-light/ecl-lb13/">
                         <img src="./images/ECL-LB13-1.jpg" alt="ecl-lb13" />
@@ -194,9 +184,7 @@
                         <span class="current">LED Garage Light EGL-ZZ80</span><span class="more">View More</span>
                     </a>
                 </div>
-            </div>
-            <div class="product-list" style="margin-bottom: 120px;">
-                <div class="product-item">
+                <div class="product-item no-display">
                     <a class="thumb" href="./products/led-light/led-garage-light/egl-yz120/">
                         <img src="./images/home/LED-Garage-Light-EGL-YZ120.jpg" alt="egl-yz120" />
                     </a>
@@ -220,7 +208,7 @@
                         <span class="current">Solar Wall Light ESW-01</span><span class="more">View More</span>
                     </a>
                 </div>
-                <div class="product-item">
+                <div class="product-item no-display">
                     <a class="thumb" href="./products/led-solar-light/solar-wall-light/esw-268/">
                         <img src="./images/home/Solar-Wall-Light-ESW-268.jpg" alt="esw-268" />
                     </a>
@@ -229,6 +217,9 @@
                     </a>
                 </div>
             </div>
+            <!-- <div class="product-list" style="margin-bottom: 120px;">
+                
+            </div> -->
         </div>
         <!-- products结束 -->
         <!-- about开始 -->
@@ -243,7 +234,7 @@
                     Oriented by high performance quality product and customer's satisfaction, EchoLumen is a leading  LED light, LED solar light and LED car light manufacturer that offers durable LED light products to meet the wide variety of demands of our customers around the world. In order to cater to the precise expectations of our customers, we have divided our products into four ranges: LED car light, LED solar light and LED light (LED garage light). All our products adopt high standard LEDs as light source ensuring its top stability and supreme service time. Among them, the solar garden light and solar wall light are driven by solar power and featured high IP65 to resist any weather conditions. For each product range, EchoLumen has a series of designs for our customers to choose and we are willing and capable of taking OEM/ODM request from customers.
                 </div>
             </div>
-            <div style="padding-bottom: 70px;margin-bottom: 0;">
+            <div class="about-sec">
                 <div class="desc">
                     <p>
                         EchoLumen team are industry veterans with more than 10 years experience of lighting design and production management. In addition, we are cooperating with reputable analytics companies to capture the market trend and provide data support for our product managers and sophisticated product designers to create more innovative and novel products to maintain our competitiveness and offers more business possibilities for our customers. 
@@ -361,8 +352,6 @@
                             </p>
                         </div>
                     </div>
-                </div>
-                <div class="icon-list">
                     <div class="icon-item">
                         <span class="icon">
                             <i class="fa fa-gears"></i>
@@ -432,8 +421,6 @@
                         LED Garage Light EGL-YZ120
                     </div>
                 </div>
-            </div>
-            <div class="project-list">
                 <div class="project-item">
                     <img src="./images/home/Solar-Garden-Light-ESU-02.jpg" alt="Solar-Garden-Light-ESU-02" />
                     <div class="breif-desc">
@@ -456,7 +443,7 @@
         </div>
         <!-- project-show结束 -->
         <!-- insights开始 -->
-        <div class="insights-container">
+        <div class="insights-container insight-no-display">
             <h1 class="title-box">
                 <span class="title">EchoLumen Insights</span>
             </h1>
@@ -597,7 +584,7 @@
                 </div>
             </div>
         </div>
-        <div class="copy">
+        <div class="copy copy-no-display">
             Copyright &copy; Huizhou EchoLumen Technology Co., Ltd. All Rights Reserved
         </div>
     </footer>
