@@ -144,7 +144,7 @@ $canonicalUrl = "https://" . $parsedUrl['host'] .$parsedUrl['path'];
         <div class="content">
             <div class="main">
                 <ul class="list" style="justify-content: center;">
-                   <li class="item" style="margin-right: 50px;">
+                   <li class="item">
                         <a class="thumb" href="./ecl-de48c/">
                             <img src="../../../images/category/main-image-ECL-DE48C.jpg" alt="main-image-ECL-DE48C" />
                         </a>
