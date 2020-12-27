@@ -12,7 +12,6 @@
 .about-desc{
     margin:60px auto;
     width: 90%;
-    color:#605b5b;
 }
 .about-desc .paragraph {
     width: 70%;
@@ -102,61 +101,60 @@
     height: 4px;
     background: #d81621;
 }
-/* @media (max-width: 1024px){
+@media (max-width: 1200px){
+    .about-container {
+        margin-top: 100px;
+    }
     .about-desc .paragraph {
         width: 100%;
+        text-align: left;
+        font-size: 14px;
+    }
+    .support-icon {
+        flex-wrap: wrap;
+        margin-bottom: 30px;
+        justify-content: center;
+    }
+    .support-icon .icon {
+        width: 30px;
+        height: 30px;
+    }
+    
+    .icon-item .icon-title {
+        text-align: center;
         font-size: 16px;
     }
-    .about-container{
-        margin-top:1.2px;
+    .support-desc {
+        width: 90%;
     }
-    .support-desc>p, .last, .list{
-        font-size: 16px;
+    .support-desc>p {
+        font-size: 14px;
     }
 }
 @media (min-width: 768px) and (max-width: 1023px){
-    .img-item {
-        width: 48%;
-        height: auto;
+    .icon-item {
+        width: 47%;
+        margin-bottom: 30px;
     }
-    .about-container {
-        margin-top:0.8px;
-        
+    .about-desc .paragraph {
+        font-size: 16px;
+    }
+    .support-desc>p {
+        font-size: 16px;
     }
 }
-@media (max-width: 767px) {
-    .about-container {
-        margin-top:0.8px;
+@media (max-width: 767px){
+    .title-box .title {
+        font-size: 22px;
     }
-    .img-item {
-        width:100%;
-        height: auto;
+    .icon-item {
+        width: 47%;
+        margin-bottom: 30px;
     }
-    .support-icon{
-        flex-wrap:wrap;
+    .support-icon {
+        margin-bottom: 10px;
     }
-    .icon-item{
-        width:50%;
-        margin-top:20px;
+    .icon-item .icon-title {
+        font-size: 13px;
     }
-    .support-icon .icon{
-        width:30px;
-        height: 30px;
-    }   
-    .support-desc>p{
-        line-height: 30px;
-    }
-    .last, .list {
-        font-size: 16px;
-        line-height: 30px;
-    }
-    .desc-title b{
-        font-size: 18px;
-    }
-    .support-desc .desc-title{
-        margin-bottom: 6px;
-    }
-    .icon-item .icon-title{
-        font-weight: bold;
-    }
-} */
+}

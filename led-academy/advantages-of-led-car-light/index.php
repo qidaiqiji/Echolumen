@@ -15,9 +15,9 @@
     <meta name="viewport"
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="description" content="As a leading LED car light manufacturer in China, EchoLumen has accumulated profound knowledge and experience in LED car light designing and manufacturing. We possess sophisticated product managers and specialized R&D team to guarantee the constant new innovative products output and continuous improvement of the existing products, to maintain our core competitiveness and supply the best performance LED car light products for our customers." />
-    <meta name="keywords" content="LED car light, LED light for car, LED solar light, LED car headlight, LED truck headlight, LED garage light, LED headlight bulb, LED light strips, solar wall light, solar garden light, outdoor solar light, LED work light, LED off road light, LED wall light, LED garden light, solar LED light, solar outdoor light" />
-    <title>Advantages of EchoLumen LED car light</title>
+    <meta name="description" content="Towards a better view and prper car lights are the most important things which a driver must have. Get to know the advantages LED light for cars, specially which echolumen manufacturers." />
+
+    <title>Advantages of EchoLumen Car LED lights</title>
     <link rel="stylesheet" href="../../css/reset.css">
     <link rel="stylesheet" href="../../css/font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="../../css/common.css">
@@ -108,7 +108,7 @@
                     </ul>
                 </div>
                 <div class="mobile-header" id="mobile-header">
-                    <span class="iconfont">&#xe660;</span>
+                    <span class="fa fa-bars"></span>
                 </div>
             </div>
         </div>
@@ -116,34 +116,34 @@
     <div class="container">
         <div class="content-container blog-content">
             <div class="academy-content">
-                <h1 class="academy-title">Advantages of EchoLumen LED car light</h1>
-                <p>As a leading LED car light manufacturer in China, EchoLumen has accumulated profound knowledge and experience in LED car light designing and manufacturing. We possess sophisticated product managers and specialized R&D team to guarantee the constant new innovative products output and continuous improvement of the existing products, to maintain our core competitiveness and supply the best performance LED car light products for our customers. </p>
+                <h1 class="academy-title">Advantages of EchoLumen Car LED light</h1>
+                <p>EchoLumen has accumulated profound knowledge and experience in <a href="https://www.echolumen.com/products/led-car-light/car-interior-light/">car light designing and manufacturing</a>. We possess sophisticated product managers and specialized R&D team to guarantee the constant new innovative products output and continuous improvement of the existing products, to maintain our core competitiveness and supply the best performance LED unique and trendy car light products for our customers. </p>
                 <div class="img-box">
                     <img src="../../images/insights/blog3-1.jpg"/>
                 </div>
-                <p>Oriented by product performance and customers’ satisfaction, EchoLumen is making maximum effort to supply high quality LED car light with the best cost effective prices for our customers to grow and expand their business. Comparing to other LED car light products on the market, EchoLumen LED car light can bring the following advantages to our customers:</p>
+                <p>Oriented by product performance and customers’ satisfaction, EchoLumen is making maximum effort to supply high quality lights for cars with the best cost effective prices for our customers to grow and expand their business. Comparing to other car light products on the market, EchoLumen manufactured car light LED can bring the following advantages to our customers:</p>
                 <ul class="list">
                     <li>
-                        <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>Wide range of LED car light products for one stop purchasing</h2></div>
-                        <p>Working as an expert in the LED car light industry for more than 8 years, EchoLumen has formed the most comprehensive product lines to provide wide options for our customers. Our LED car light products including LED car headlight, LED truck headlight, LED off road light, car interior light or atmosphere light for car etc, truly one stop shopping. Customers can save tons of time and effort to negotiate with many manufacturers and shipping forwarders etc.</p>
+                        <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>Wide range of Trendy car light products for one stop purchasing</h2></div>
+                        <p>Working as an expert in the <a href="https://https://www.echolumen.com/products/led-car-light/car-interior-light/">LED car light</a> industry for more than 8 years, EchoLumen has formed the most comprehensive product lines to provide wide options for our customers. Our products including <a href="https://www.echolumen.com/products/led-car-light/led-headlight-bulb/">LED car headlight</a>, LED truck headlight, <a href="https://www.echolumen.com/products/led-car-light/led-off-road-light/">LED off road light</a>, <a href="https://www.echolumen.com/products/led-car-light/car-interior-light/">car interior light or atmosphere light for car</a> etc, truly one stop shopping. Customers can save tons of time and effort to negotiate with many manufacturers and shipping forwarders etc.</p>
                     </li>
                     <div class="img-box">
                         <img src="../../images/insights/blog3-2.jpg"/>
                     </div>
                     <li>
-                        <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>Top stability and high performance LED car light</h2></div>
-                        <p>To maintain the top stability, EchoLumen LED car light uses the current most advanced aviation aluminum and high quality cooling fans to guarantee its perfect heat dissipation and excellent stability. EchoLumen LED car light adopts the well know LED brands to make sure its ultra-high brightness output, excellent lighting performance and outstanding irradiation and penetration. EchoLumen LED car light can definitely show much better performance than any other Halogen lights. </p>
+                        <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>Top stability and high performance car lights at Wholesale Rates</h2></div>
+                        <p>To maintain the top stability, EchoLumen uses the current most advanced aviation aluminum and high quality cooling fans to guarantee its perfect heat dissipation and excellent stability. We adopts the well know LED brands to make sure its ultra-high brightness output, excellent lighting performance and outstanding irradiation and penetration. EchoLumen can definitely show much better performance than any other Halogen lights. </p>
                     </li>
                     <li>
-                        <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>The most cost effective LED car light</h2></div>
-                        <p>Thanks to the recognition and trust by our customers, each month the demand on our LED car light is very big, which is easier for us to negotiate the cost with our material suppliers. We can cut down the cost and get much competitive prices for our customers. It helps our customers to win more business and get more benefits. Hope our LED car light can help your business grow as well.  </p>
+                        <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>The most cost effective Unique atmosphere car light Strips</h2></div>
+                        <p>Thanks to the recognition and trust by our customers, each month the demand on our car interior LED light is very big, which is easier for us to negotiate the cost with our material suppliers. We can cut down the cost and get much competitive prices for our customers. It helps our customers to win more business and get more benefits. Hope our car lights can help your business grow as well.  </p>
                     </li>
                     <div class="img-box">
                         <img src="../../images/insights/blog3-3.jpg"/>
                     </div>
                     <li>
                         <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>Assuring warranty policy</h2></div>
-                        <p>EchoLumen LED car light is designed with high standard material to maintain its high profile performance and quality. For all our LED car light products, we offer 2 years warranty and will take care of all after sales services. For any quality problem on our LED car light during warranty, we are committed to ship new items to our customers free of charge. EchoLumen LED car light is truly worth a shot!</p>
+                        <p>EchoLumen light is designed with high standard material to maintain its high profile performance and quality. For all our <a href="https://www.echolumen.com/products/led-car-light/car-interior-light/">LED lights for car products</a>, we offer 2 years warranty and will take care of all after sales services. For any quality problem on our LED car light during warranty, we are committed to ship new items to our customers free of charge. EchoLumen is truly worth a shot!</p>
                     </li>
                 </ul>
             </div>

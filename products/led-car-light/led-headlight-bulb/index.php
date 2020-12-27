@@ -15,9 +15,9 @@
     <meta name="viewport"
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="description" content="EchoLumen offers a series of LED headlight bulbs to meet the very range of market demands. Our LED headlight bulbs including LED car headlight and LED truck headlight, we will provide the best quality LED headlight bulbs for our customers." />
-    <meta name="keywords" content="LED car light, LED work light bar, LED solar light, solar LED light, LED garden light, solar garden light, LED wall light, solar wall light, LED headlight bulb, LED car headlight, LED off road light, car interior light, atmosphere light for car" />
-    <title>LED Headlight Bulbs | LED Car Headlight | LED Truck Headlight & LED Car Light-EchoLumen</title>
+    <meta name="description" content="Shop the best quality of LED headlights bulbs China & LED Auto Lamp at the wholesale rates from leading LED Car Headlight manufacturer – EchoLumen." />
+
+    <title>LED Headlight Bulbs | LED Car Headlight | LED Auto Lamp China</title>
     <link rel="stylesheet" href="../../../css/reset.css">
     <link rel="stylesheet" href="../../../css/font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="../../../css/common.css">
@@ -25,6 +25,27 @@
     <link rel="icon" href="../../../images/favicon.ico">
     
     <script src="../../../utils/jquery-3.2.1.min.js"></script>
+    
+    <?php
+    
+    if(isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on')   
+         $url = "https://";   
+    else  
+         $url = "http://";   
+    // Append the host(domain name, ip) to the URL.   
+    $url.= $_SERVER['HTTP_HOST'];   
+    
+    // Append the requested resource location to the URL   
+    $url.= $_SERVER['REQUEST_URI'];   
+    $canonicalUrl = "";
+    $parsedUrl = parse_url($url);
+    // var_dump($parsedUrl);
+    $canonicalUrl = "https://" . $parsedUrl['host'] .$parsedUrl['path'];
+  
+  ?>
+  
+  <link rel="canonical" href="<?php echo $canonicalUrl; ?>"/> 
+    
 </head>
 
 <body class="page-index">
@@ -32,7 +53,7 @@
         <div class="header">
             <div class="header-inner">
                 <a href="../../../" class="header-logo">
-                    <img src="../../../../images/logo.png" alt="EchoLumen" />
+                    <img src="../../../images/logo.png" alt="EchoLumen" />
                 </a>
                 <div class="header-menu mobile-menu" id="header-menu">
                     <ul class="header-menu-ul">
@@ -109,7 +130,7 @@
                     </ul>
                 </div>
                 <div class="mobile-header" id="mobile-header">
-                    <span class="iconfont">&#xe660;</span>
+                    <span class="fa fa-bars"></span>
                 </div>
             </div>
         </div>
@@ -246,102 +267,104 @@
                     </li>
                 </ul>
                 <div class="blog-content">
-                    <h2>Practical guideline for EchoLumen LED headlight bulb</h2>
-                    <p>All types of automotive vehicles are playing a vital role in the current society and influence our life patterns in many ways. Among them, the car and truck are two most important transportations which so related to our daily life. We desperately need trucks to build our city and transport the basic life necessity to maintain our daily life. We also need cars to go to work or travel around to improve our life quality. If you are a car or truck owner, are you willing to modify your car or truck to improve its overall performance?</p>
+                    <h2>Practical guideline for EchoLumen Wholesale LED Headlight Bulb</h2>
+                    <p>All types of automotive vehicles are playing a vital role in the current society and influence our life patterns in many ways. Among them, the car and truck are the two most important transportations which so related to our daily life. We desperately need trucks to build our city and transport basic life necessities to maintain our daily lives. We also need cars to go to work or travel around to improve our life quality. If you are a car or truck owner, are you willing to modify your car or truck to enhance its overall performance?</p>
                     <div class="square">
                         <img style="width: 40%;" src="../../../images/category/led-headlight-bulb-1.jpg" />
                     </div>
-                    <p>The headlight bulb is one of the key parts to the car, especially when we are driving at night or in the dark. The bright LED headlight bulb can give us a clear visibility and its longer illumination distance can win more time for us when accidents approaching. The high profile LED headlight bulb with better low beam and high bean lighting performance will greatly improve the driving experience at in the dark and so helpful for our safe driving. </p>
-                    <p>EchoLumen, a reputable LED headlight bulb manufacturer in China with more than 10 years industry experience, is concentrating on the design, R&D and manufacturing all types of LED headlight bulb to satisfy the rapid growing market demand with the best performance product and competitive prices. Our LED headlight bulb including LED car headlight, Jeep grand cherokee headlight and LED truck headlight etc.</p>
-                    <p>Here we will share with you what specific featured LED headlight bulb we produce and why EchoLumen LED headlight bulb is worth you a shot.</p>
+                    <p>The front light is one of the key parts of the car, especially when we are driving at night or in the dark. The bright China LED car headlight can give us clear visibility, and its longer illumination distance can win us more time when accidents are approaching. The high-profile fog lamps with better low beam and high beam lighting performance will significantly improve the driving experience in the dark and so helpful for our safe driving. </p>
+                    <p>EchoLumen, a reputable wholesale LED auto lamp manufacturer in China with more than ten years of industry experience, is concentrating on the design, R&D, and manufacturing of all types of automobile lamps to satisfy the rapidly growing market demand with the best performance product and competitive prices. Our wholesale LED car headlight is extensively used by companies like Jeep Grand Cherokee, etc.</p>
+                    <p>Here we will share with you all the specific features of LED headlight bulbs we produce and why EchoLumen is worth giving a shot.</p>
                     <div class="frame">
                         <div class="frame-item">
                             <i class="fa fa-send-o"></i>
-                            <span>Chapter 1: What is LED headlight bulb?</span>
+                            <span>Chapter 1: What is an LED fog lamp?</span>
                         </div>
                         <div class="frame-item">
                             <i class="fa fa-send-o"></i>
-                            <span>Chapter 2: Types of EchoLumen LED headlight bulb</span>
+                            <span>Chapter 2: Types of EchoLumen LED front lights</span>
                         </div>
                         <div class="frame-item">
                             <i class="fa fa-send-o"></i>
-                            <span>Chapter 3: Features of EchoLumen LED headlight bulb</span>
+                            <span>Chapter 3: Features of EchoLumen LED fog lamp</span>
                         </div>
                         <div class="frame-item">
                             <i class="fa fa-send-o"></i>
-                            <span>Chapter 4: Why choose EchoLumen LED headlight bulb?</span>
+                            <span>Chapter 4: Why choose EchoLumen's products?</span>
                         </div>
                     </div>
                     <div class="square">
                         <img src="../../../images/category/led-headlight-bulb-2.jpg" />
                     </div>
-                    <h3>Chapter 1 What is LED headlight bulb?</h3>
-                    <p>LED headlight bulb refer to the headlight bulbs which using LEDs as its light source for higher brightness output to improve the lighting performance for better visibility in the dark. Most new cars come with LED daytime running lights, but full LED headlights are not industry standard (yet). As manufacturers chase reduced fuel consumption and lower emissions, easing the electrical strain on a car has become more important, and that is exactly what LED lights help do. The LED headlight bulb are favored by car lovers who are keen on modifying their cars by using better performance LED headlight bulb to replace the original halogen headlight bulbs. If you are less than confident when driving at night, LED headlight bulb could go a long way to helping you.</p>
-                    <p>EchoLumen has comprehensive LED headlight bulb to provide a wide variety of options for our customers. No matter it is LED car headlight or LED truck headlight, our LED  headlight bulbs can meet all type of sockets for the direct replacement. We are committed to be a trusted LED headlight bulb manufacturer and partner to provide the most cost-effective LED headlight bulb for our customers and help to grow their business.</p>
+                    <h3>Chapter 1 What is an LED Fog Lamp?</h3>
+                    <p>China LED auto lamp refers to the products that use light-emitting diodes as their light source for higher brightness output to improve the lighting performance for better visibility in the dark.</p>
+                    <p>Most new cars come with LED daytime running lights, but full LEDs are not industry standard (yet). As manufacturers chase reduced fuel consumption and lower emissions, easing the electrical strain on a car has become more important, and that is precisely what these modernized lights help do. The wholesale LED headlight bulbs are favored by car lovers who are keen on modifying their cars by using better performance LED fog lamps to replace the traditional halogen ones. If you are less than confident when driving at night, the products of a renowned LED car headlight manufacturer could go a long way to helping you.</p>
+                        <p>EchoLumen is a globally recognized LED headlight bulbs supplier that provides a wide variety of options for our customers. Whether it is a wholesale LED car headlight or LED truck headlight, our China LED headlight bulbs can meet all types of sockets for direct replacement. We are committed to being a trusted LED auto lamp exporter and partner to provide the most cost-effective products for our customers and help to grow their business.</p>
+
                     <div class="square">
                         <img src="../../../images/category/led-headlight-bulb-3.jpg" />
                     </div>
-                    <h3>Chapter 2 Types of EchoLumen LED headlight bulb</h3>
-                    <h4>LED car headlight</h4>
-                    <p>Featured with ultra-high lumen output and top quality, EchoLumen LED car headlight is designed to meet our customers' demand on high profile headlight lighting performance and better visibility while driving in the dark. Our LED car headlight adopts top brand LEDs (CREE or LUMILEDS) as light source which makes our LED car headlight is at least triple brighter than normal Halogen headlight bulbs. In addition, EchoLumen LED car headlight applies upgraded aviation aluminum for the lamp body and copper plates to conduct the heat generated by LEDs, the excellent heat dissipation design maintains its working temperature at a perfect range and ensuring its unparalleled durability and stability. We supply several series LED car headlight bulbs for options, each series can meet all types of sockets and 99% compatible with your original Halogen headlight bulbs.</p>
+                    <h3>Chapter 2 Types of EchoLumen LED Front Lights</h3>
+                    <h4>LED Front Lights for Cars </h4>
+                    <p>Featured with ultra-high lumen output and top quality, EchoLumen wholesale LED auto lamp is designed to meet our customers' demands that include high profile performance and better visibility while driving in the dark. Our China LED car headlight adopts top brand LEDs (CREE or LUMILEDS) as a light source, which makes our products relatively brighter than the normal Halogen ones. In addition, EchoLumen LED fog lamps apply upgraded aviation aluminum for the lamp body and copper plates to conduct the heat generated by LEDs. The excellent heat dissipation design maintains its working temperature at a perfect range and ensuring its unparalleled durability and stability. As the leading LED car headlight supplier, we supply a series of modernized bulbs with different options. Each series can meet all types of sockets and 99% compatible with your original Halogen lamps.</p>
                     <div class="square">
                         <img src="../../../images/category/led-headlight-bulb-4.jpg" />
                     </div>
-                    <h4>LED truck headlight</h4>
-                    <p>By using upgraded big size LED chips 5530 for ultra-high lumen lighting output, EchoLumen LED truck headlight can create times higher brightness than normal Halogen headlight bulb to make sure a perfect irradiation distance and excellent visibility for performance of both low beam and high beam. Ensuring its top stability, EchoLumen LED truck headlight applies high profile aviation aluminum for heat conduction and internal cooling fan for high efficient heat dissipation. In addition, EchoLumen LED truck headlight can be rotated 360 degrees to catch the best spotlight and condensing lighting effect. EchoLumen LED truck headlight series support all types of socket/base and are compatible with 99% trucks models for direct replacement.</p>
-                    <h3>Chapter 3 Features of EchoLumen LED headlight bulb</h3>
+                    <h4>LED Front Lights for Trucks</h4>
+                    <p>By using upgraded big size LED chips 5530 for ultra-high lumen lighting output, EchoLumen is the LED auto lamp supplier that creates items with a higher brightness than regular Halogen lights to make sure a perfect irradiation distance and excellent visibility for the performance of both low beam and high beam. Ensuring its maximum stability, EchoLumen LED front lights for trucks utilizes high profile aviation aluminum for heat conduction and an internal cooling fan for high efficient heat dissipation. In addition, EchoLumen Wholesale LED auto lamp can be rotated 360 degrees to catch the best spotlight and condensing lighting effect. EchoLumen has been working as a popular LED car headlight exporter, and it makes products with all types of socket/base and 99% compatibility with various truck models for direct replacement.</p>
+                    <h3>Chapter 3 Features of EchoLumen LED Fog Lamp</h3>
                     <div class="frame-item line">
                         <i class="fa fa-hand-o-right"></i>
-                        <span>Ultra bright high lumen lighting output LED headlight bulb</span>
+                        <span>Ultra-bright high lumen lighting output China LED headlight bulbs</span>
                     </div>
-                    <p>EchoLumen LED headlight bulb adopt top brands LEDs to guarantee the best lighting effect and performance of our LED headlight bulb and provides the most effective solution for our customers. The brightness of EchoLumen LED headlight bulb is at least 300% higher than your original Halogen headlight bulbs.</p>
+                    <p>As a popular LED headlight bulbs exporter, EchoLumen adopts top brands LEDs to guarantee the best lighting effect and performance of our China LED auto lamp and provides the most effective solution for our customers. The brightness of EchoLumen's fog lamp is at least 300% higher than your original Halogen lamps.</p>
                     <div class="frame-item line">
                         <i class="fa fa-hand-o-right"></i>
-                        <span>Excellent heat dissipation and top stability LED headlight bulb</span>
+                        <span>Excellent heat dissipation and top stability automobile LEDs</span>
                     </div>
-                    <p>EchoLumen LED headlight bulb using high profile aviation aluminum and quality cooling fans to enable high efficient heat dissipation and maintain the best working stability of our LED headlight bulb. The work time of EchoLumen LED headlight bulb is more than 50,000 hours and requires no maintenance, which cuts down the cost sharply.</p>
+                    <p>EchoLumen is a LED headlight bulbs supplier producing items that use high profile aviation aluminum and quality cooling fans to enable highly efficient heat dissipation and maintain the best working stability of our LED auto lamp. The work time of EchoLumen's products is more than 50,000 hours and requires no maintenance, which cuts down the cost sharply.</p>
                     <div class="square">
                         <img src="../../../images/category/led-headlight-bulb-5.jpg" />
                     </div>
                     <div class="frame-item line">
                         <i class="fa fa-hand-o-right"></i>
-                        <span>A wide variety of LED headlight bulb for option</span>
+                        <span>A wide variety of LED car headlight is available to help buyers select the best option.</span>
                     </div>
-                    <p>As an industry experienced and comprehensive LED headlight bulb manufacturer, EchoLumen offers a wide range of LED headlight bulb for our customers to compare. We supply both LED car headlight and LED truck headlight to meet the emerging market demand.</p>
+                    <p>As an industry experienced and comprehensive producer of LED products, EchoLumen offers a wide range of items for our customers to compare. We supply LEDs for all kinds of vehicles to meet the emerging market demand.</p>
                     <div class="frame-item line">
                         <i class="fa fa-hand-o-right"></i>
-                        <span>Great compatibility and easy installation LED headlight bulb</span>
+                        <span>Great compatibility and easy installation </span>
                     </div>
-                    <p>EchoLumen LED headlight bulb are with universal designs which are 1:1 in size to the original Halogen light bulbs. 99% of the original Halogen headlight bulbs can be directly replaced by our LED headlight bulb and requires no any extra wiring works, simply plug and play. </p>
+                    <p>EchoLumen's products come with universal designs that are 1:1 in size to the classic Halogen lights. 99% of the original Halogen lamps can be directly replaced by our LED products and requires no extra wiring works, simply plug and play.</p>
                     <div class="frame-item line">
                         <i class="fa fa-hand-o-right"></i>
-                        <span>The best and most cost-effective LED headlight bulb</span>
+                        <span>The best and most cost-effective LEDs in the market</span>
                     </div>
-                    <p>EchoLumen LED headlight bulb have been widely tested by the market and proved to be a reliable LED headlight bulb solution provider. Our LED headlight bulb are with higher brightness output, better overall lighting performance and much longer service time than all the Halogen headlight bulbs.</p>
+                    <p>EchoLumen LEDs have been widely tested by the market and proven to be highly reliable modernized lighting solutions. Our products come with features like higher brightness output, better overall lighting performance, and much longer service time than all the Halogen lights.</p>
                     <div class="square">
                         <img src="../../../images/category/led-headlight-bulb-6.jpg" />
                     </div>
-                    <h3>Chapter 4 Why choose EchoLumen LED headlight bulb?</h3>
+                    <h3>Chapter 4 Why choose EchoLumen's Products?</h3>
                     <div class="frame-item line">
                         <i class="fa fa-hand-o-right"></i>
                         <span>Experienced industry experts and strong manufacturing ability</span>
                     </div>
-                    <p>EchoLumen team are industry veterans with more than 10 years LED headlight bulb industry experience, we have strong ability to capture the market trend and produce the current most popular products for our customers. We constantly launch the up to date LED headlight bulb to maintain our strong market competitiveness. </p>
+                    <p>EchoLumen team consists of industry veterans with more than ten years of LED headlight bulbs industry experience. We have a strong ability to capture the market trend and produce the current most popular products for our customers. We constantly launch the up-to-date LEDs for automobiles to maintain our strong market competitiveness. </p>
                     <div class="frame-item line">
                         <i class="fa fa-hand-o-right"></i>
                         <span>Excellent production capacity and quality product with stability</span>
                     </div>
-                    <p>The market demand on EchoLumen LED headlight bulb is huge and is growing year by year, our production capacity on the LED headlight bulb is more than 30K each month. With huge Qty mass productions, the quality and stability of our LED headlight bulb is highly guaranteed. Which in return cut down the cost sharply and gives benefits to our customers.</p>
+                    <p>The market demand for EchoLumen China LED auto lamp is huge and is growing year by year. Our production capacity is nearing more than 30K each month. With huge quantity mass productions, the quality and stability of our LEDs are highly guaranteed, which in return, cut down the cost sharply and gives benefits to our customers.</p>
                     <div class="frame-item line">
                         <i class="fa fa-hand-o-right"></i>
                         <span>Extraordinary performance and assuring warranty policy</span>
                     </div>
-                    <p>EchoLumen LED headlight bulb are with ultra-high brightness output, excellent lighting effect and fantastic durability, which requires no after sales services. In addition, we provide 2 years warranty for our LED headlight bulb, for any quality problem within warranty period, EchoLumen will take care of it by sending our customers new items for free.</p>
+                    <p>EchoLumen wholesale LED car headlight is produced with ultra-high brightness output, excellent lighting effect, and fantastic durability, which requires no after-sales services. In addition, we provide two years warranty for our China LED headlight bulbs. For any quality problem within the warranty period, EchoLumen will take care of it by sending our customers new items for free.</p>
                     <div class="frame-item line">
                         <i class="fa fa-hand-o-right"></i>
                         <span>OEM to customize your own product</span>
                     </div>
-                    <p>The competition on LED headlight bulb is always hot and OEM is good way to avoid the direct competition. We are happy to work with our customers to customize their own products and help them grow their business. </p>
+                    <p>The competition on the LED auto lamp is always hot, and the OEM is a good way to avoid direct competition. We are happy to work with our customers to customize their own products and help them grow their business. </p>
                 </div>
                 <?php include('../../../inc/messageBox.php'); ?>
             </div>

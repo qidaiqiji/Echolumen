@@ -15,9 +15,9 @@
     <meta name="viewport"
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="description" content="LED solar light or solar LED light is using LEDs as the core light source and driven by solar energy. Except the LEDs, the main components of LED solar light or solar LED light including solar panel, power supply, PCB and frame (shell). The design of it is quite simple but with excellent stability." />
-    <meta name="keywords" content="LED car light, LED light for car, LED solar light, LED car headlight, LED truck headlight, LED garage light, LED headlight bulb, LED light strips, solar wall light, solar garden light, outdoor solar light, LED work light, LED off road light, LED wall light, LED garden light, solar LED light, solar outdoor light" />
-    <title>What is LED solar light?</title>
+    <meta name="description" content="using various types of LED lights which are solar powered is the new and energy eficient way of lighting up the spaces. Here, learn what solar powered lights do and how do they operate" />
+
+    <title>What is Solar Powered LED light?</title>
     <link rel="stylesheet" href="../../css/reset.css">
     <link rel="stylesheet" href="../../css/font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="../../css/common.css">
@@ -109,7 +109,7 @@
                     </ul>
                 </div>
                 <div class="mobile-header" id="mobile-header">
-                    <span class="iconfont">&#xe660;</span>
+                    <span class="fa fa-bars"></span>
                 </div>
             </div>
         </div>
@@ -117,31 +117,32 @@
     <div class="container">
         <div class="content-container blog-content">
             <div class="academy-content">
-                <h1 class="academy-title">What is LED solar light?</h1>
-                <p>LED solar light or solar LED light is using LEDs as the core light source and driven by solar energy. Except the LEDs, the main components of LED solar light or solar LED light including solar panel, power supply, PCB and frame (shell). The design of it is quite simple but with excellent stability. </p>
+                <h1 class="academy-title">What is Solar Powered LED light?</h1>
+                <p><a href="https://www.echolumen.com/">LED solar light</a>
+ is using LEDs as the core light source and driven by solar energy. Except the LEDs, the main components of solar light including solar panel, power supply, PCB and frame (shell). The design of it is quite simple but with excellent stability. </p>
                 <div class="img-box">
                     <img src="../../images/insights/blog2-1.jpg"/>
                 </div>
-                <p>After knowing the main parts of one LED solar light, we should also know how it works. Its working theory is not complicated, at the daytime, the solar panel will receive sunlight and convert the solar energy into electricity and restored it into the power supply integrated inside of LED solar light. Normally the solar panel is integrated with light sensor inside, when the ambient light getting dark, the LEDs will be light up automatically. When the daytime comes, the LEDs will be off and solar panel restart to charging the power supply. For a small sized LED solar light or solar LED light, the solar charging time is about 5-8 hours and it can support at least 2-3 night lighting output (12 hours per night).</p>
+                <p>After knowing the main parts of one solar power light, we should also know how it works. Its working theory is not complicated, at the daytime, the solar panel will receive sunlight and convert the solar energy into electricity and restored it into the power supply integrated inside of LED light. Normally the solar panel is integrated with light sensor inside, when the ambient light getting dark, the LEDs will be light up automatically. When the daytime comes, the LEDs will be off and solar panel restart to charging the power supply. For a small sized solar light, the solar charging time is about 5-8 hours and it can support at least 2-3 night lighting output (12 hours per night).</p>
                 <div class="img-box">
                     <img src="../../images/insights/blog2-2.jpg"/>
                 </div>
-                <p>LED solar light or solar LED light have many different market segments, mainly including solar street light, solar projection light, solar LED garden light and solar LED wall light etc. It is a fact that LED solar light/solar LED light has been widely used to both large scale industrial lighting solution and ordinary household lighting solution. In our opinion, why LED solar light or solar LED light is embraced so enthusiastically by the market can be concluded to three reasons:</p>
+                <p>These Solar-powered lights have many different market segments, mainly including solar street light, solar projection light, <a href=https://www.echolumen.com/products/led-solar-light/solar-garden-light/">solar LED garden light</a> and <a href="https://www.echolumen.com/products/led-solar-light/solar-wall-light/">solar LED wall light</a> etc. It is a fact that these light has been widely used to both large scale industrial lighting solution and ordinary household lighting solution. In our opinion, why solar light with LEDs is embraced so enthusiastically by the market can be concluded to three reasons:</p>
                 <ul class="list">
                     <li>
                         <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>Free energy cost and lower operation cost</h2></div>
-                        <p>LED solar light or solar LED light is powered by solar energy which is totally green to the environment, free to use and easy to get, especially when we are facing energy crisis. With solar energy, the total operation cost can be greatly lowered and what more important is that it is clean and cause no hurt to the earth.</p>
+                        <p>These are powered by solar energy which is totally green to the environment, free to use and easy to get, especially when we are facing energy crisis. With solar energy, the total operation cost can be greatly lowered and what more important is that it is clean and cause no hurt to the earth.</p>
                     </li>
                     <div class="img-box">
                         <img src="../../images/insights/blog2-3.jpg"/>
                     </div>
                     <li>
                         <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>Easy to install, no need complicated cabling works</h2></div>
-                        <p>As mentioned that LED solar light is driven by solar energy to meet its self-sufficient working, when we install the solar LED light or LED solar light products, we don’t have to do any extra cabling or wiring works, which could save a lot installation expenses. For the LED solar product or solar LED light, the only thing we need is sufficient sunlight. </p>
+                        <p>As mentioned that this light is driven by solar energy to meet its self-sufficient working, when we install the products, we don’t have to do any extra cabling or wiring works, which could save a lot installation expenses. For the such LED light, the only thing we need is sufficient sunlight. </p>
                     </li>
                     <li>
                         <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>Excellent stability</h2></div>
-                        <p>Applied less components, LED solar light or solar LED light has excellent stability than normal LED light which powered by wired electricity. For the LED solar light or solar LED light, it won’t be affected by any emergency like black out and other electricity shortage caused by wire problem or natural disaster etc. </p>
+                        <p>Applied less components, these have excellent stability than normal LED light which powered by wired electricity. For the solar powered LED light, it won’t be affected by any emergency like black out and other electricity shortage caused by wire problem or natural disaster etc. </p>
                     </li>
                 </ul>
             </div>

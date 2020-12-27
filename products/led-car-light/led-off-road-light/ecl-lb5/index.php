@@ -109,7 +109,7 @@
                     </ul>
                 </div>
                 <div class="mobile-header" id="mobile-header">
-                    <span class="iconfont">&#xe660;</span>
+                    <span class="fa fa-bars"></span>
                 </div>
             </div>
         </div>
@@ -118,9 +118,7 @@
         <!-- banner图片 -->
         <div class="banner"></div>
         <div class="content">
-            <h1 class="title-box">
-                <span class="title">PRODUCTS</span>
-            </h1>
+            
             <div class="main">
                 <div class="detail-section">
                     <ul class="products-nav">
@@ -177,7 +175,7 @@
                         </li>
                     </ul>
                     <div class="brief">
-                        <div>
+                        <div class="img-content">
                             <div class="img-box">
                                 <i class="fa fa-angle-left left"></i>
                                 <i class="fa fa-angle-right right" style="right: 0;"></i>

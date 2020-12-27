@@ -46,3 +46,28 @@
 .desc:hover{
     background: #d81621;
 }
+@media (max-width: 1200px){
+    .container {
+        min-height: auto;
+    }
+    .list {
+        justify-content: center;
+    }
+    .title-box {
+        margin-top: 0px;
+    }
+}
+@media (max-width: 767px){
+    .title-box .title {
+        font-size: 24px;
+    }
+    .list {
+        justify-content: center;
+    }
+    .title-box {
+        margin-top: 30px;
+    }
+    .main {
+        margin-top: 80px;
+    }
+}

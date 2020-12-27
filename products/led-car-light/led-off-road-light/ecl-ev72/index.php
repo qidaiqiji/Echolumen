@@ -25,6 +25,25 @@
     <link rel="icon" href="../../../../images/favicon.ico">
     
     <script src="../../../../utils/jquery-3.2.1.min.js"></script>
+    
+    <?php
+    if(isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on')
+$url = "https://";
+else
+$url = "http://";
+// Append the host(domain name, ip) to the URL.
+$url.= $_SERVER['HTTP_HOST'];
+
+// Append the requested resource location to the URL
+$url.= $_SERVER['REQUEST_URI'];
+$canonicalUrl = "";
+$parsedUrl = parse_url($url);
+// var_dump($parsedUrl);
+$canonicalUrl = "https://" . $parsedUrl['host'] .$parsedUrl['path'];
+
+?>
+
+<link rel="canonical" href="<?php echo $canonicalUrl; ?>"/>
 </head>
 
 <body class="page-index">
@@ -109,7 +128,7 @@
                     </ul>
                 </div>
                 <div class="mobile-header" id="mobile-header">
-                    <span class="iconfont">&#xe660;</span>
+                    <span class="fa fa-bars"></span>
                 </div>
             </div>
         </div>
@@ -118,9 +137,7 @@
         <!-- banner图片 -->
         <div class="banner"></div>
         <div class="content">
-            <h1 class="title-box">
-                <span class="title">PRODUCTS</span>
-            </h1>
+            
             <div class="main">
                 <div class="detail-section">
                     <ul class="products-nav">
@@ -177,7 +194,7 @@
                         </li>
                     </ul>
                     <div class="brief">
-                        <div>
+                        <div class="img-content">
                             <div class="img-box">
                                 <i class="fa fa-angle-left left"></i>
                                 <i class="fa fa-angle-right right" style="right: 0;"></i>

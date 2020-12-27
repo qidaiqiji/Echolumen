@@ -15,9 +15,9 @@
     <meta name="viewport"
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="description" content="EchoLumen supplies the most comprehensive LED car light and LED solar light products to meet the huge growing market demand with excellent quality and competitive prices to help our customers grow their business." />
-    <meta name="keywords" content="LED car light, LED solar light, LED garage light, LED headlight bulb, LED light strips, solar wall light, solar garden light, LED wall light, LED garden light, solar LED light, solar outdoor light" />
-    <title>EchoLumen Insights | LED Academy Forum | LED Car Light & LED Solar Light-EchoLumen</title>
+    <meta name="description" content="EchoLume has the best researched based blogs and LED lights related guides for you" />
+
+    <title>EchoLumen Insights | LED Academy Forum </title>
     <link rel="stylesheet" href="../css/reset.css">
     <link rel="stylesheet" href="../css/font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="../css/common.css">
@@ -107,7 +107,7 @@
                     </ul>
                 </div>
                 <div class="mobile-header" id="mobile-header">
-                    <span class="iconfont">&#xe660;</span>
+                    <span class="fa fa-bars"></span>
                 </div>
             </div>
         </div>

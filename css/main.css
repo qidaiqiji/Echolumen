@@ -419,6 +419,9 @@
     }
 }
 @media (max-width: 767px) {
+    .dots {
+        display: none;
+    }
     .title-box {
         margin-bottom: 50px;
     }

@@ -15,15 +15,35 @@
     <meta name="viewport"
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="description" content="EchoLumen car interior light mainly refers to the atmosphere light for car and car light strips which install inside of car, SUV, truck etc to light up the space with colorful lights. The atmosphere light for car supports different light modes and remote control." />
-    <meta name="keywords" content="Atmosphere light car, car interior light, car light strips, LED light strips for car, LED car light, car interior LED light" />
-    <title>Atmosphere Light for Car | Car Interior Light | Car Light Strips & LED Car Light-EchoLumen</title>
+    <meta name="description" content="EchoLumen car interior light mainly refers to the atmosphere light for car and LED car light strips which install inside of car, truck etc. We Ship Car LED lights all around the world." />
+
+    <title>Atmosphere Light for Car | Car Interior Light | LED Car Light | EchoLumen</title>
     <link rel="stylesheet" href="../../../css/reset.css">
     <link rel="stylesheet" href="../../../css/font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="../../../css/common.css">
     <link rel="stylesheet" href="../../../css/category.css">
     <link rel="icon" href="../../../images/favicon.ico">
     <script src="../../../utils/jquery-3.2.1.min.js"></script>
+    
+    <?php
+
+if(isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on')
+$url = "https://";
+else
+$url = "http://";
+// Append the host(domain name, ip) to the URL.
+$url.= $_SERVER['HTTP_HOST'];
+
+// Append the requested resource location to the URL
+$url.= $_SERVER['REQUEST_URI'];
+$canonicalUrl = "";
+$parsedUrl = parse_url($url);
+// var_dump($parsedUrl);
+$canonicalUrl = "https://" . $parsedUrl['host'] .$parsedUrl['path'];
+
+?>
+
+<link rel="canonical" href="<?php echo $canonicalUrl; ?>"/>
 </head>
 
 <body class="page-index">
@@ -31,7 +51,7 @@
         <div class="header">
             <div class="header-inner">
                 <a href="../../../" class="header-logo">
-                    <img src="../../../../images/logo.png" alt="EchoLumen" />
+                    <img src="../../../images/logo.png" alt="EchoLumen" />
                 </a>
                 <div class="header-menu mobile-menu" id="header-menu">
                     <ul class="header-menu-ul">
@@ -108,7 +128,7 @@
                     </ul>
                 </div>
                 <div class="mobile-header" id="mobile-header">
-                    <span class="iconfont">&#xe660;</span>
+                    <span class="fa fa-bars"></span>
                 </div>
             </div>
         </div>
@@ -206,48 +226,48 @@
                     <div class="square">
                         <img src="../../../images/category/car-interior-light-1.jpg" />
                     </div>
-                    <p>EchoLumen, as a reputable LED car light manufacturer in China with more than 10 years industry experience, we have designed a wide variety of car interior light or atmosphere light for car to cater to the huge market demand on car lighting effect. We spare no efforts to create a pleasant and safe driving experience for all our customers.</p>
-                    <p>Here we will share with you what specific featured car interior light or atmosphere light for car we produce and why EchoLumen car interior light is worth you a shot.</p>
+                    <p>EchoLumen has been operating in the industry as a reputable LED car light manufacturer in China for more than ten years. We have designed a wide variety of wholesale LED light for car to cater to the huge market demand on the car lighting effect. We spare no effort to create a pleasant and safe driving experience for all our customers.</p>
+                    <p>Here we will share the specific features of the products we produce and why EchoLumen is worth giving a shot.</p>
                     <div class="frame">
                         <div class="frame-item">
                             <i class="fa fa-send-o"></i>
-                            <span>Chapter 1: What is car interior light or atmosphere light for car?</span>
+                            <span>Chapter 1: What is meant by LED light for car?</span>
                         </div>
                         <div class="frame-item">
                             <i class="fa fa-send-o"></i>
-                            <span>Chapter 2: Features of EchoLumen car interior light or atmosphere light for car</span>
+                            <span>Chapter 2: Features of EchoLumen atmosphere light for car?</span>
                         </div>
                         <div class="frame-item">
                             <i class="fa fa-send-o"></i>
-                            <span>Chapter 3: Why choose EchoLumen car interior light or atmosphere light for car?</span>
+                            <span>Chapter 3: Why choose EchoLumen car interior light?</span>
                         </div>
                     </div>
                     <div class="square">
                         <img src="../../../images/category/car-interior-light-2.jpg" />
                     </div>
-                    <h3>Chapter 1 What is car interior light or atmosphere light for car?</h3>
-                    <p>Car interior light or atmosphere light for car is a kind of aftermarket LED lights that using RGB LEDs as light source for colors output to create a soft and romantic atmosphere in the car. The purpose is to add more lights and colors to decorate the narrow space and kick away the dull feeling while driving in the dark. It is more entertaining rather than practicability. If you are willing to decorate your car to have a better visual enjoyment, you won't miss the car interior light or atmosphere light for car. </p>
-                    <p>EchoLumen has comprehensive car interior lights to provide a wide variety of options for our customers. Our atmosphere light for car is equipped with cigarette lighter or USB interface for direct plug and play and require no any circuit wiring works. EchoLumen is committed to be a trusted car interior light or atmosphere light for car manufacturer and partner to provide the most cost-effective atmosphere light for car products for our customers and help to grow their business.</p>
+                    <h3>Chapter 1: What is meant by LED light for car?</h3>
+                    <p>China atmosphere light for car is a kind of aftermarket LED bulbs that use RGB LEDs as the primary source for color output to create a peaceful and romantic environment in the vehicle. The purpose of buying from a reputable LED car light exporter is to get more shades of colors to decorate the narrow space and kick away the dull feeling while driving in the dark. It is more entertaining rather than practicability. If you are willing to decorate your car to have a better visual enjoyment, you cannot miss the EchoLumen's wholesale car interior light. </p>
+                    <p>EchoLumen has a comprehensive range of LED light for car to provide various options to the customers. Our products are equipped with a cigarette lighter or USB interface for direct plug and play and require no circuit wiring works. EchoLumen is a committed and trustworthy car interior light supplier providing the most cost-effective LED products to all the prestigious customers and help to grow their business.</p>
                     
                     <div class="square">
                         <img src="../../../images/category/car-interior-light-3.jpg" />
                     </div>
-                    <h3>Chapter 2 Features of EchoLumen car interior light or atmosphere light for car</h3>
+                    <h3>Chapter 2 Features of EchoLumen atmosphere light for car</h3>
                     <div class="frame-item line">
                         <i class="fa fa-hand-o-right"></i>
-                        <span>High quality and great stability atmosphere light for car</span>
+                        <span>High quality and great stability China atmosphere light for car</span>
                     </div>
-                    <p>EchoLumen car interior light of atmosphere light for car is made of ABS material with IP67 waterproof, anti-collision and anti-corrosion. With DC 12V, EchoLumen atmosphere light for car is ultra thin and is a perfect music LED strip light for all cars SUV vans trucks boats etc. Great stability and durability.</p>
+                    <p>EchoLumen LED car bulbs are made of ABS material with IP67 waterproof, anti-collision, and anti-corrosion. With DC 12V, EchoLumen wholesale LED car light is ultra-thin and is a perfect music LED strip panel for different automobiles, including cars, SUV vans, trucks, boats, etc. </p>
                     <div class="frame-item line">
                         <i class="fa fa-hand-o-right"></i>
-                        <span>Sound active function atmosphere light for car</span>
+                        <span>Sound active function inner bulbs for vehicles.</span>
                     </div>
-                    <p>EchoLumen car interior light or atmosphere light for car can change color with your voice or music. Allows you to enjoy the fun with the color changing following your car stereo music rhythm as well as your voice. Giving you an upgraded driving experience.</p>
+                    <p>EchoLumen is a globally recognized LED light for car exporter selling promising items that can change color with your voice or music. Allows you to enjoy the fun with the color changing following your car stereo music rhythm as well as your voice. Giving you an upgraded driving experience.</p>
                     <div class="frame-item line">
                         <i class="fa fa-hand-o-right"></i>
-                        <span>Wireless remote control atmosphere light for car</span>
+                        <span>Wireless remote control China LED light for car.</span>
                     </div>
-                    <p>EchoLumen atmosphere light for car can be wireless controlled by one remote controller. It is simple and easy to change the light modes and get your favorite colors. </p>
+                    <p>One remote controller can wirelessly control EchoLumen wholesale car interior light. It is simple and easy to change light modes and get your favorite colors. </p>
                     <div class="square">
                         <img src="../../../images/category/car-interior-light-4.jpg" />
                     </div>
@@ -255,42 +275,42 @@
                         <i class="fa fa-hand-o-right"></i>
                         <span>Multicolor effect mode atmosphere light for car</span>
                     </div>
-                    <p>EchoLumen atmosphere light for car is set with 8 static color modes and 8 dynamic color modes. You can change the color modes in different conditions as you like with the remote controller. </p>
+                    <p>EchoLumen LED car light is set with eight static color modes and eight dynamic color modes. You can change the color modes in different conditions as you like with the remote controller. </p>
                     <div class="frame-item line">
                         <i class="fa fa-hand-o-right"></i>
-                        <span>Easy to install atmosphere light for car</span>
+                        <span>Easy to install LED light for car</span>
                     </div>
-                    <p>EchoLumen atmosphere light for car is with double-sided adhesive straps, you can simply install it to the place (better in the gap or away from our sight) you want. Plug the cigarette light or USB, you can have a wonderful lighting effect in your car.</p>
+                    <p>EchoLumen makes vehicles' internal LEDs with double-sided adhesive straps, and you can simply install it to the place (better in the gap or away from our sight) you want. Plug the cigarette lighter or USB, and you can have a wonderful lighting effect in your car.</p>
                     <div class="frame-item line">
                         <i class="fa fa-hand-o-right"></i>
-                        <span>The best and most cost-effective atmosphere light for car</span>
+                        <span>The best and most cost-effective China car interior light</span>
                     </div>
-                    <p>EchoLumen atmosphere light for car has been widely tested by the market and proved to be a reliable atmosphere light for car solution provider. Our atmosphere light for car is with best quality and competitive price, perfect for both retails or whole sales. </p>
+                    <p>EchoLumen is a celebrated atmosphere light for car manufacturer that sells high-quality products widely tested by the market and proved to be increasingly reliable by a large number of consumers. Our wholesale LED light for car has the best quality and competitive prices, perfect for all types of businesses. </p>
                     <div class="square">
                         <img src="../../../images/category/car-interior-light-5.jpg" />
                     </div>
-                    <h3>Chapter 3 Why choose EchoLumen car interior light or atmosphere light for car?</h3>
+                    <h3>Chapter 3 Why choose EchoLumen car interior light?</h3>
                     <div class="frame-item line">
                         <i class="fa fa-hand-o-right"></i>
-                        <span>Experienced industry experts and strong manufacturing ability</span>
-                        <p>EchoLumen team are industry veterans with more than 10 years car interior light or atmosphere light for car industry experience, we have strong ability to capture the market trend and produce the current most popular products for our customers. We constantly launch the up to date atmosphere light for car to maintain our strong market competitiveness. </p>
+                        <span>Experienced industry experts and strong manufacturing ability to produce premium quality China LED car light.</span>
+                        <p>EchoLumen team consists of experts and professionals with more than ten years of experience in the lighting industry. We have a strong ability to capture the market trend and produce the current most popular products for our customers. We regularly launch the up to date atmosphere light for car to maintain our strong market competitiveness.</p>
                     </div>
                     <div class="frame-item line">
                         <i class="fa fa-hand-o-right"></i>
-                        <span>Excellent production capacity and quality product with stability</span>
+                        <span>Excellent production capacity and quality product with stability </span>
                     </div>
-                    <p>The market demand on EchoLumen car interior light or atmosphere light for car is huge and is growing year by year, our production capacity on car interior light or atmosphere light for car is more than 40K each month. With huge Qty mass productions, the quality and stability of our car interior light or atmosphere light for car is highly guaranteed. Which in return cut down the cost sharply and gives benefits to our customers.</p>
+                    <p>The market demand for EchoLumen China LED car light or China car interior light is huge and is growing year by year. Our production capacity for interior vehicle bulbs is more than 40K each month. With huge quantity mass productions, the quality and stability of our wholesale LED light for car is highly guaranteed, which in return cut down the cost sharply and gives benefits to our customers.</p>
                     
                     <div class="frame-item line">
                         <i class="fa fa-hand-o-right"></i>
-                        <span>Extraordinary performance and assuring warranty policy</span>
+                        <span>Extraordinary performance and assuring warranty policies</span>
                     </div>
-                    <p>EchoLumen car interior light or atmosphere light for car supports different light modes and controls, excellent lighting effect and fantastic durability, which requires no after sales services. In addition, we provide 1 year warranty for our car interior light or atmosphere light for car, for any quality problem within warranty period, EchoLumen will take care of it by sending our customers new items for free.</p>
+                    <p>EchoLumen atmosphere light for car supports different light modes and controls, excellent lighting effect, and fantastic durability, which requires no after-sales services. In addition, we provide one-year warranty for our China car interior light or LED car light. For any quality problem within the warranty period, EchoLumen will take care of it by sending our customers new items for free.</p>
                     <div class="frame-item line">
                         <i class="fa fa-hand-o-right"></i>
-                        <span>OEM to customize your own product</span>
+                        <span>OEM to customize your own LED light for car</span>
                     </div>
-                    <p>The competition on car interior light or atmosphere light for car is always hot and OEM is good way to avoid the direct competition. We are happy to work with our customers to customize their own products and help them grow their business. </p>
+                    <p>The competition on wholesale car interior light or China LED car light is always hot, and OEM is a good way to avoid direct competition. We are happy to work with our customers to customize their own products and grow their business.</p>
                 </div>
                 <?php include('../../../inc/messageBox.php'); ?>
             </div>

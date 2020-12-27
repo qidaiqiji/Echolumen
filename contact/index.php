@@ -16,7 +16,7 @@
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="description" content="EchoLumen spare no efforts to provide the best quality products and services for our customers and support them to grow and expand their business." />
-    <meta name="keywords" content="LED car light, LED light for car, LED solar light, LED car headlight, LED truck headlight, LED garage light, LED headlight bulb, LED light strips, solar wall light, solar garden light, outdoor solar light, LED work light, LED off road light, LED wall light, LED garden light, solar LED light, solar outdoor light" />
+
     <title>Contact Us | EchoLumen</title>
     <link rel="stylesheet" href="../css/reset.css">
     <link rel="stylesheet" href="../css/font-awesome/css/font-awesome.min.css">
@@ -24,6 +24,65 @@
     <link rel="stylesheet" href="../css/contact.css">
     <link rel="icon" href="../images/favicon.ico">
     <script src="../utils/jquery-3.2.1.min.js"></script>
+    
+    <script type="application/ld+json">
+
+{
+
+      "@context": "http://schema.org",
+
+      "@type": "Organization",
+
+      "address": {
+
+        "@type": "PostalAddress",
+
+        "addressLocality": " Huicheng District, Huizhou City, Guangdong Province, China",
+
+        "addressRegion": "China",
+
+        "streetAddress": " Jiulong Hi-Tech Science Park, Xiaojinkou Town " 
+
+      },
+
+      "name": " Huizhou EchoLumen Technology Co., Ltd.",
+
+      "alternateName": ["EchoLumen"],
+
+      "telephone": "+ 861832088 9297 ",
+
+      "logo":" https://www.echolumen.com/images/logo.png",
+
+      "email": " info@echolumen.com",
+
+      "url": " https://www.echolumen.com/ "
+
+    }  
+
+    </script>
+    
+    
+<?php
+
+if(isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on')
+$url = "https://";
+else
+$url = "http://";
+// Append the host(domain name, ip) to the URL.
+$url.= $_SERVER['HTTP_HOST'];
+
+// Append the requested resource location to the URL
+$url.= $_SERVER['REQUEST_URI'];
+$canonicalUrl = "";
+$parsedUrl = parse_url($url);
+// var_dump($parsedUrl);
+$canonicalUrl = "https://" . $parsedUrl['host'] .$parsedUrl['path'];
+
+?>
+
+<link rel="canonical" href="<?php echo $canonicalUrl; ?>"/>
+
+    
 </head>
 
 <body class="page-index">
@@ -108,7 +167,7 @@
                     </ul>
                 </div>
                 <div class="mobile-header" id="mobile-header">
-                    <span class="iconfont">&#xe660;</span>
+                    <span class="fa fa-bars"></span>
                 </div>
             </div>
         </div>
@@ -133,7 +192,7 @@
                 <div class="contact-item">
                     <div class="icon-box"><i class="fa fa-envelope-o"></i></div>
                     <p class="title">E-mail</p>
-                    <p>Huizhou EchoLumen Technology Co., Ltd</p>
+                    <p class="no-display">Huizhou EchoLumen Technology Co., Ltd</p>
                     <p>info@echolumen.com</p>
                 </div>
             </div>
@@ -150,8 +209,6 @@
                     <p class="input-contact">
                         <input type="text" placeholder="Name" maxlength="50" name="name" class="contact-input">
                         <input type="text" placeholder="Company" maxlength="50" name="company" class="contact-input">
-                    </p>
-                    <p class="input-contact">
                         <input type="text" placeholder="E-mail" maxlength="50" name="email" class="contact-input">
                         <input type="text" placeholder="Telephone" maxlength="50" name="tel" class="contact-input">
                     </p>

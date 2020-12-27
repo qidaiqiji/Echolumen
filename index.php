@@ -1,36 +1,85 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
 <head>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-WJF9X3LP1C"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', 'G-WJF9X3LP1C');
-        </script>
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-WJF9X3LP1C"></script>
-        <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'G-WJF9X3LP1C');
-    </script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    
     <meta charset="UTF-8">
     <meta name="viewport"
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="description" content="As a leading LED car light manufacturer, LED solar light, LED garden light, LED wall light, LED garage light, LED headlight bulb and trusted solar garden light and solar wall light solution provider, EchoLumen offers wide range of solar LED light and car light for all global customers." />
-    <meta name="keywords" content="LED car light, LED work light bar, LED solar light, solar LED light, LED garden light, solar garden light, LED wall light, solar wall light, LED headlight bulb, LED car headlight, LED off road light, car interior light, atmosphere light for car" />
+    
+    <meta name="google-site-verification" content="o8MO_v_eW6IVV8QBPO-welqRdG7OqMf7m2_v1mTKPTU" />
+    
+    <meta name="description" content="EchoLumen is a leading Outdoor solar light manufacturer & LED Solar light Exporter of China. We ship various types of LED Solar Light fixtures at wholesale rates to global traders." />
+
     <meta name="google-site-verification" content="0shajBljKJmDq591g5XF-mLgkwsmapnCARKPAOf65QY" />
-    <title>LED Car Light | LED Solar Light | LED Garage Light | LED Headlight Bulb｜EchoLumen</title>
+    <title>Outdoor solar light | LED Solar Light Manufacturer | Wholesale Solar LED Light | EchoLumen</title>
     <link rel="stylesheet" href="./css/reset.css">
     <link rel="stylesheet" href="./css/font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="./css/common.css">
     <link rel="stylesheet" href="./css/main.css">
     <link rel="icon" href="./images/favicon.ico">
     <script src="./utils/jquery-3.2.1.min.js"></script>
+    
+    <script type="application/ld+json">
+
+{
+
+      "@context": "http://schema.org",
+
+      "@type": "Organization",
+
+      "address": {
+
+        "@type": "PostalAddress",
+
+        "addressLocality": " Huicheng District, Huizhou City, Guangdong Province, China",
+
+        "addressRegion": "China",
+
+        "streetAddress": " Jiulong Hi-Tech Science Park, Xiaojinkou Town " 
+
+      },
+
+      "name": " Huizhou EchoLumen Technology Co., Ltd.",
+
+      "alternateName": ["EchoLumen"],
+
+      "telephone": "+ 861832088 9297 ",
+
+      "logo":" https://www.echolumen.com/images/logo.png",
+
+      "email": " info@echolumen.com",
+
+      "url": " https://www.echolumen.com/ "
+
+    }  
+
+    </script>
+    
+    
+
+        <?php 
+    
+    if(isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on')
+$url = "https://";
+else
+$url = "http://";
+// Append the host(domain name, ip) to the URL.
+$url.= $_SERVER['HTTP_HOST'];
+
+// Append the requested resource location to the URL
+$url.= $_SERVER['REQUEST_URI'];
+$canonicalUrl = "";
+$parsedUrl = parse_url($url);
+// var_dump($parsedUrl);
+$canonicalUrl = "https://" . $parsedUrl['host'] .$parsedUrl['path'];
+
+?>
+
+<link rel="canonical" href="<?php echo $canonicalUrl; ?>"/>
+    
+
 </head>
 <body class="page-index">
     <header>
@@ -51,7 +100,7 @@
                             <a href="./about" class="menu-link">ABOUT US</a>
                         </li>
                         <li class="menu-item" id="in02">
-                            <a href="../../../../products" class="menu-link has-sub">PRODUCTS</a>
+                            <a href="./products" class="menu-link has-sub">PRODUCTS</a>
                             <div class="subMenu">
                                 <ul class="subMenu-ul">
                                     <li class="subMenu-item">
@@ -217,30 +266,27 @@
                     </a>
                 </div>
             </div>
-            <!-- <div class="product-list" style="margin-bottom: 120px;">
-                
-            </div> -->
         </div>
         <!-- products结束 -->
         <!-- about开始 -->
         <div class="about section">
             <h1 class="title-box">
                 <a class="title" href="about/">ABOUT ECHOLUMEN</a>
-                <h2 class="sub-title">Your trusted LED lighting solution provider and value-added partner</h2>
+                <h2 class="sub-title">A Trustworthy LED Solar Light Manufacturer & Value-Added Partner</h2>
             </h1>
             <div>
                 <img src="./images/home/about1.jpg" alt="cinstar" />
                 <div class="desc">
-                    Oriented by high performance quality product and customer's satisfaction, EchoLumen is a leading  LED light, LED solar light and LED car light manufacturer that offers durable LED light products to meet the wide variety of demands of our customers around the world. In order to cater to the precise expectations of our customers, we have divided our products into four ranges: LED car light, LED solar light and LED light (LED garage light). All our products adopt high standard LEDs as light source ensuring its top stability and supreme service time. Among them, the solar garden light and solar wall light are driven by solar power and featured high IP65 to resist any weather conditions. For each product range, EchoLumen has a series of designs for our customers to choose and we are willing and capable of taking OEM/ODM request from customers.
+                    Oriented by high-performance quality products and customer satisfaction, EchoLumen is the leading LED lights and outdoor solar light supplier that offers durable LED lighting products to meet the wide variety of demands of our customers around the world. In order to cater to the precise expectations of our customers, we have divided our products into four different ranges. All our products adopt high standard LEDs as light sources, ensuring maximum stability and supreme service time. Among them, the outdoor solar light and cosmic wall bulb are driven by photovoltaic cells along with high IP65 to resist any weather conditions. For each product range, EchoLumen has a series of designs for our customers to choose from, and we are willing and capable of taking OEM/ODM request from customers.
                 </div>
             </div>
-            <div class="about-sec">
+            <div style="padding-bottom: 70px;margin-bottom: 0;" class="about-sec">
                 <div class="desc">
                     <p>
-                        EchoLumen team are industry veterans with more than 10 years experience of lighting design and production management. In addition, we are cooperating with reputable analytics companies to capture the market trend and provide data support for our product managers and sophisticated product designers to create more innovative and novel products to maintain our competitiveness and offers more business possibilities for our customers. 
+                        EchoLumen's team consists of experts and professionals with more than ten years of experience in lighting design and production management. We are also cooperating with reputable analytics companies to capture the market trend and provide data support for our product managers and sophisticated product designers to create more innovative and novel products to maintain our competitiveness and offer more business possibilities for our customers. 
                     </p>
                     <p>
-                        As a trusted LED solar light and LED car light manufacturer, our entire LED products manufacturing process takes place under strict supervision of our production engineers. EchoLumen constantly improve the quality performance of our products by adopting new technology and materials to squeeze production costs and help to grow our customers' business.
+                        As a globally recognized LED solar light exporter, the entire manufacturing process takes place under the strict supervision of our production engineers. EchoLumen continually improves the quality performance of our products, including the China outdoor solar light, by adopting new technology and materials to squeeze production costs and help to grow our customers' business
                     </p>
                 </div>
                 <img src="./images/home/about2.jpg" alt="cinstar" />

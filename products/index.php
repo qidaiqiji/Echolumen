@@ -26,6 +26,30 @@
     <link rel="icon" href="../images/favicon.ico">
     
     <script src="../utils/jquery-3.2.1.min.js"></script>
+    
+    
+<?php
+
+if(isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on')
+$url = "https://";
+else
+$url = "http://";
+// Append the host(domain name, ip) to the URL.
+$url.= $_SERVER['HTTP_HOST'];
+
+// Append the requested resource location to the URL
+$url.= $_SERVER['REQUEST_URI'];
+$canonicalUrl = "";
+$parsedUrl = parse_url($url);
+// var_dump($parsedUrl);
+$canonicalUrl = "https://" . $parsedUrl['host'] .$parsedUrl['path'];
+
+?>
+
+<link rel="canonical" href="<?php echo $canonicalUrl; ?>"/>
+
+
+    
 </head>
 
 <body class="page-index">
@@ -33,7 +57,7 @@
         <div class="header">
             <div class="header-inner">
                 <a href="../" class="header-logo">
-                    <img src="../../../../images/logo.png" alt="EchoLumen" />
+                    <img src="../images/logo.png" alt="EchoLumen" />
                 </a>
                 <div class="header-menu mobile-menu" id="header-menu">
                     <ul class="header-menu-ul">
@@ -110,7 +134,7 @@
                     </ul>
                 </div>
                 <div class="mobile-header" id="mobile-header">
-                    <span class="iconfont">&#xe660;</span>
+                    <span class="fa fa-bars"></span>
                 </div>
             </div>
         </div>
@@ -120,7 +144,7 @@
         <!-- <div class="banner"></div> -->
         <div class="content" style="margin: 100px 0; margin-bottom: 40px;">
             <h1 class="title-box">
-                <span class="title">products</span>
+                <span class="title">PRODUCTS</span>
             </h1>
             <div class="main">
                 <ul class="list">
@@ -245,7 +269,7 @@
             Copyright &copy; Huizhou EchoLumen Technology Co., Ltd. All Rights Reserved
         </div>
     </footer>
-    <script type="text/javascript" src="../../../inc/index.js"></script>
+    <script type="text/javascript" src="../inc/index.js"></script>
 </body>
 
 </html>

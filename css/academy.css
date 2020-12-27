@@ -98,3 +98,40 @@
     margin-top: 20px;
     box-sizing: border-box;
 }
+@media (max-width: 1200px){
+    .blog-item {
+        width: 47%;
+    }
+    .blog-title h2 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .brief-desc {
+        font-size: 16px;
+    }
+    .read-more {
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+}
+@media (max-width: 767px){
+    .blog-item {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .blog-title h2 {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+    .brief-desc {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+    .brief-desc {
+        line-height: 26px;
+    }
+    .read-more {
+        font-size: 12px;
+        margin-bottom: 20px;
+    }
+}

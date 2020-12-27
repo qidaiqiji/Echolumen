@@ -49,6 +49,7 @@
     width: 100%;
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 .input-contact input{
     width: 42%;
@@ -89,4 +90,58 @@
 }
 .btn .submit:hover{
     color:#fff;
+}
+@media (max-width: 1200px){
+    .contact-box {
+        margin-top: 110px;
+    }
+    .contact-head {
+        flex-wrap: wrap;
+        margin: 40px auto;
+        margin-top: 60px;
+    }
+    .input-contact {
+        flex-wrap: wrap;
+    }
+    .contact-item p {
+        font-size: 14px;
+    }
+    .input-contact input {
+        font-size: 14px;
+    }
+    .contact-body textarea {
+        font-size: 14px;
+    }
+}
+@media (min-width: 768px) and (max-width: 1200px){
+    .no-display {
+        display: none;
+    }
+}
+@media (max-width: 767px){
+    .contact-item {
+        width: 100%;
+        margin-bottom: 40px;
+    }
+    .contact-item .icon-box {
+        margin-bottom: 0;
+    }
+    .contact-item .title {
+        margin-bottom: 20px;
+        margin-top: 0;
+    }
+    .input-contact input {
+        width: 100%;
+    }
+    .btn .submit {
+        width: 150px;
+        height: 40px;
+        line-height: 40px;
+    }
+    .contact-detail {
+        margin-bottom: 30px;
+    }
+    .contact-item i {
+        font-size: 30px;
+    }
 }

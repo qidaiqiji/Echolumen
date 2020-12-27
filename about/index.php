@@ -15,15 +15,72 @@
     <meta name="viewport"
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="description" content="Founded in 2012, EchoLumen is a Chinese LED solar light and LED car light manufacturer with strong ability of designing high performance products and providing the most cost effective and competitive solutions for our customers." />
-    <meta name="keywords" content="LED car light, LED work light bar, LED solar light, solar LED light, LED garden light, solar garden light, LED wall light, solar wall light, LED headlight bulb, LED car headlight, LED off road light, car interior light, atmosphere light for car" />
-    <title>LED Car Light and LED Solar Light Solution Provider-EchoLumen</title>
+    <meta name="description" content="Founded in 2012, EchoLumen is a Chinese LED solar light manufacturer with strong ability of designing high performance products and providing the most cost effective and competitive solutions for our customers." />
+    <title>About Us | EchoLumen</title>
     <link rel="stylesheet" href="../css/reset.css">
     <link rel="stylesheet" href="../css/font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/about.css">
     <link rel="icon" href="../images/favicon.ico">
     <script src="../utils/jquery-3.2.1.min.js"></script>
+    
+    
+    <script type="application/ld+json">
+
+{
+
+      "@context": "http://schema.org",
+
+      "@type": "Organization",
+
+      "address": {
+
+        "@type": "PostalAddress",
+
+        "addressLocality": " Huicheng District, Huizhou City, Guangdong Province, China",
+
+        "addressRegion": "China",
+
+        "streetAddress": " Jiulong Hi-Tech Science Park, Xiaojinkou Town " 
+
+      },
+
+      "name": " Huizhou EchoLumen Technology Co., Ltd.",
+
+      "alternateName": ["EchoLumen"],
+
+      "telephone": "+ 861832088 9297 ",
+
+      "logo":" https://www.echolumen.com/images/logo.png",
+
+      "email": " info@echolumen.com",
+
+      "url": " https://www.echolumen.com/ "
+
+    }  
+
+    </script>
+    
+        <?php 
+    
+    if(isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on')
+$url = "https://";
+else
+$url = "http://";
+// Append the host(domain name, ip) to the URL.
+$url.= $_SERVER['HTTP_HOST'];
+
+// Append the requested resource location to the URL
+$url.= $_SERVER['REQUEST_URI'];
+$canonicalUrl = "";
+$parsedUrl = parse_url($url);
+// var_dump($parsedUrl);
+$canonicalUrl = "https://" . $parsedUrl['host'] .$parsedUrl['path'];
+
+?>
+
+<link rel="canonical" href="<?php echo $canonicalUrl; ?>"/>
+    
 </head>
 
 <body class="page-index">
@@ -108,7 +165,7 @@
                     </ul>
                 </div>
                 <div class="mobile-header" id="mobile-header">
-                    <span class="iconfont">&#xe660;</span>
+                    <span class="fa fa-bars"></span>
                 </div>
             </div>
         </div>
@@ -121,14 +178,15 @@
             <img src="../images/about/banner_about.jpg" alt="banner"/>
         </div>
         <div class="about-desc">
-            <div class="paragraph">
-                Founded in 2012, EchoLumen is a Chinese LED solar light and LED car light manufacturer with strong ability of designing high performance products and providing the most cost effective and competitive solutions for our customers. Managed hundreds of projects, EchoLumen team are industry veterans with more than 10 years experience of lighting design and production management. We are passionate to meet customers' needs with high quality LED products. 
+            <div class="paragraph"> 
+                Founded in 2012, EchoLumen is a Chinese Solar <a href="https://www.echolumen.com/products/led-car-light/car-interior-light/">LED light for car manufacturer</a>
+  with strong ability of designing high performance products and providing the most cost effective and competitive solutions for our customers. Managed hundreds of projects, EchoLumen team are industry veterans with more than 10 years experience of lighting design and production management. We are passionate to meet customers' needs with high quality LED products. 
             </div>
             <div class="paragraph">
                 In addition, we are cooperating with some reputable analytics companies to capture the market trend and provide data support for our product managers and sophisticated product designers to create more innovative and novel products to maintain our competitiveness and offers more business possibilities for our customers. 
             </div>
             <div class="paragraph">
-                As a trusted LED solar light and LED car light manufacturer, our entire LED products manufacturing process takes place under strict supervision of our production engineers. EchoLumen constantly improve the quality performance of our products by adopting new technology and materials to squeeze production costs and help to grow our customers' business.
+                As a trusted LED lights Maker, our entire LED products manufacturing process takes place under strict supervision of our production engineers. EchoLumen constantly improve the quality performance of our products by adopting new technology and materials to squeeze production costs and help to grow our customers' business.
             </div>
             <div class="paragraph">
                 EchoLumen is committed to be a trusted LED lighting solution provider to our customers and spares no effort to insist our core business value of “Honesty, Integrity and Responsibility”.
@@ -192,7 +250,7 @@
             </div>
         </div>
         <div class="support-desc">
-            <p>As a customer satisfaction oriented service provider, EchoLumen not only supply quality LED car light and LED solar light products, but also fast and considerate supports for our customers. EchoLumen team are highly cooperative and quick respond to each request from our customers. We accept OEM request and willing to work with our partners to design new products to maintain our competitiveness and achieve the Win-Win cooperation.</p>
+            <p>As a customer satisfaction oriented service provider, EchoLumen not only supply quality car light and solar light products, but also fast and considerate supports for our customers. EchoLumen team are highly cooperative and quick respond to each request from our customers. We accept OEM request and willing to work with our partners to design new products to maintain our competitiveness and achieve the Win-Win cooperation.</p>
             <p class="desc-title"><b>24/7 Phone Service</b></p>
             <p>Whenever there is new request or any general quality issue complaint, we can be reached in real time. And we promise to reach you within 24 hours and will work with you for the best solutions.</p>
             <p class="desc-title"><b>Sample Order Support</b></p>

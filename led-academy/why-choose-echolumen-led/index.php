@@ -15,8 +15,7 @@
     <meta name="viewport"
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="description" content="As a pioneer LED solar light and LED car light manufacturer in LED industry for more than 10 years, EchoLumen gained a good reputation in the industry and earned broad trust from our customers. Our ultimate goal is to be a trusted partner to our customers and help them to grow their business, rather than being a pure supplier." />
-    <meta name="keywords" content="LED car light, LED light for car, LED solar light, LED car headlight, LED truck headlight, LED garage light, LED headlight bulb, LED light strips, solar wall light, solar garden light, outdoor solar light, LED work light, LED off road light, LED wall light, LED garden light, solar LED light, solar outdoor light" />
+    <meta name="description" content="As a pioneer LED light manufacturer in the industry for more than 10 years, EchoLumen gained a good reputation in the industry and earned broad trust from our customers. Our ultimate goal is to be a trusted partner to our customers and help them to grow their business, rather than being a pure supplier." />
     <title>Why should I buy EchoLumen LED products?</title>
     <link rel="stylesheet" href="../../css/reset.css">
     <link rel="stylesheet" href="../../css/font-awesome/css/font-awesome.min.css">
@@ -109,7 +108,7 @@
                     </ul>
                 </div>
                 <div class="mobile-header" id="mobile-header">
-                    <span class="iconfont">&#xe660;</span>
+                    <span class="fa fa-bars"></span>
                 </div>
             </div>
         </div>
@@ -121,7 +120,7 @@
                 <div class="img-box">
                     <img src="../../images/insights/blog1-1.jpg"/>
                 </div>
-                <p>As a pioneer LED solar light and LED car light manufacturer in LED industry for more than 10 years, EchoLumen gained a good reputation in the industry and earned broad trust from our customers. Our ultimate goal is to be a trusted partner to our customers and help them to grow their business, rather than being a pure supplier.</p>
+                <p>EchoLumen has gained a good reputation in the industry and earned broad trust from our customers. Our ultimate goal is to be a trusted partner to our customers and help them to grow their business, rather than being a pure supplier.</p>
                 <p>It is easy to find out that the competition in this field is hot no matter to the manufacturers and overseas buyers. As a buyer, you may wonder that why should I buy from EchoLumen when I have so many suppliers to choose. As a manufacturer, we know customers’ concerns and understand that it is a normal reaction when we facing too many choices. But here are some advantages we can provide to our customers.</p>
                 <div class="img-box">
                     <img src="../../images/insights/blog1-2.jpg"/>
@@ -140,7 +139,9 @@
                     </div>
                     <li>
                         <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>Strong manufacturing ability and warranty policy</h2></div>
-                        <p>EchoLumen has strong manufacturing ability to meet the growing marketing demand on LED solar light and LED car light products. Our production capacity can reach up to 60K each month, we can meet fast delivery for any urgent projects. For all our products, we provide 1-2 years warranty and guarantee that for any quality problem within warranty, we can ship new items to customers free of charging. </p>
+                        <p>EchoLumen has strong manufacturing ability to meet the growing marketing demand on <a href="https://www.echolumen.com/">Solar LED light</a>
+ and <a href="https://www.echolumen.com/products/led-car-light/car-interior-light/">LED car light</a>
+ products. Our production capacity can reach up to 60K each month, we can meet fast delivery for any urgent projects. For all our products, we provide 1-2 years warranty and guarantee that for any quality problem within warranty, we can ship new items to customers free of charging. </p>
                     </li>
                     <li>
                         <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>The most cost-effective quality products</h2></div>

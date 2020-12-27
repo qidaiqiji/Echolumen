@@ -180,3 +180,56 @@
 .desc:hover{
     background: #d81621;
 }
+/* 响应式 */
+@media (max-width: 1200px){
+    .banner {
+        margin-top: 0;
+    }
+    .list {
+        justify-content: center;
+    }
+    .list .item {
+        width:30%;
+    }
+    .item .desc {
+        font-size: 14px;
+    }
+    .blog-content {
+        margin-right: 0;
+    }
+}
+@media (max-width: 767px){
+    .blog-content {
+        margin-left: 0;
+    }
+    .banner {
+        height: auto;
+        min-height: 170px;
+        margin-top: 60px;
+    }
+    .title-box {
+        padding-bottom: 0;
+        margin: 30px 0;
+    }
+    .title-box .title {
+        font-size: 16px;
+    }
+    .banner h2 {
+        font-size: 12px;
+        margin-bottom: 30px;
+    }
+    .list .item {
+        width: 100%;
+    }
+    .list .item{
+        width: 82%;
+    }
+    .list .item .thumb img {
+        transform: scale(0.9)
+    }
+    .item .desc {
+        height: 40px;
+        line-height: 40px;
+        font-size: 14px;
+    }
+}

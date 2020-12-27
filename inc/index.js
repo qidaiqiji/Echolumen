@@ -1,13 +1,5 @@
 $(document).ready(function () {
-    console.log('走了')
-    // $(window).on("resize", function () {
-    //     console.log('qqq')
-    //     if ($(window).width() <= 1024) {
-    //         $(".img-box").addClass('change-screen')
-    //     }
-    // })
     $("#mobile-header").click(function(){
-        console.log('ZOLE')
         $(".page-index").toggleClass('menu-open')
     })
     // 导航选中状态

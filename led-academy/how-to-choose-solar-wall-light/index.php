@@ -15,9 +15,9 @@
     <meta name="viewport"
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="description" content="LED wall light especially solar LED wall light is a pretty narrowed market segment of LED lights, but in recent years LED wall light or solar wall light gained great attention and now became a hot item of LED lights. It's no mere accident that LED wall light or solar wall light (the solar powered LED wall light) arouse such wide attentions and became a preference to customers. The reason why LED wall light or solar wall light can catch the nerves of customers is because it has wide applications scenarios and brings big convenience to our life. LED wall light or solar wall light is small in size, easy to install (requires no electrician) and intelligent working modes, what more important is that it is affordable by anyone." />
-    <meta name="keywords" content="LED car light, LED light for car, LED solar light, LED car headlight, LED truck headlight, LED garage light, LED headlight bulb, LED light strips, solar wall light, solar garden light, outdoor solar light, LED work light, LED off road light, LED wall light, LED garden light, solar LED light, solar outdoor light" />
-    <title>How to choose LED wall light or solar wall light?</title>
+    <meta name="description" content="Decorate passionately your walls and building spaces with amazing and trendy wall lights which are LED and also solar powered wall lights" />
+
+    <title>How to choose Various Types of Wall mounted LED & Solar lights?</title>
     <link rel="stylesheet" href="../../css/reset.css">
     <link rel="stylesheet" href="../../css/font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="../../css/common.css">
@@ -108,7 +108,7 @@
                     </ul>
                 </div>
                 <div class="mobile-header" id="mobile-header">
-                    <span class="iconfont">&#xe660;</span>
+                    <span class="fa fa-bars"></span>
                 </div>
             </div>
         </div>
@@ -116,53 +116,53 @@
     <div class="container">
         <div class="content-container blog-content">
             <div class="academy-content">
-                <h1 class="academy-title">How to choose LED wall light or solar wall light?</h1>
-                <p>LED wall light especially solar LED wall light is a pretty narrowed market segment of LED lights, but in recent years LED wall light or solar wall light gained great attention and now became a hot item of LED lights. It's no mere accident that LED wall light or solar wall light (the solar powered LED wall light) arouse such wide attentions and became a preference to customers. The reason why LED wall light or solar wall light can catch the nerves of customers is because it has wide applications scenarios and brings big convenience to our life. LED wall light or solar wall light is small in size, easy to install (requires no electrician) and intelligent working modes, what more important is that it is affordable by anyone. </p>
+                <h1 class="academy-title">How to choose Various Types of Wall mounted LED & Solar lights?</h1>
+                <p>Our <a href=https://www.echolumen.com/products/led-solar-light/solar-wall-light/">LED outdoor wall lights</a> are a pretty narrowed market segment of LED lights, but in recent years, these wall lights has gained great attention and now became a hot item of LED lights for walls. It's no mere accident that these lights arouse such wide attentions and became a preference to customers. The reason why wall lights can catch the nerves of customers is because it has wide applications scenarios and brings big convenience to our life. LED wall light or solar wall light is small in size, easy to install (requires no electrician) and intelligent working modes, what more important is that it is affordable by anyone. </p>
                 <div class="img-box">
                     <img style="width: 60%" src="../../images/insights/blog4-1.jpg"/>
                 </div>
-                <p>Featured with so many advantages, no doubt LED wall light or solar wall light is preferred by most customers. If you are a trading company or supermarket owner, when you figured out that LED wall light or solar wall light may bring you good business. There is another realistic problem you will have to face, that is how to choose the right LED wall light or solar wall light and suppliers. </p>
-                <p>Here we will give you some tips about how to choose LED wall light or solar wall light and right suppliers. </p>
-                <p>First of all, you need to figure out what is LED wall light or solar wall light and how it works.</p>
+                <p>Featured with so many advantages, no doubt LED wall-mounted light is preferred by most customers. If you are a trading company or supermarket owner, when you figured out that these lights may bring you good business. There is another realistic problem you will have to face, that is how to choose the right LED trendy wall light suppliers. </p>
+                <p>Here we will give you some tips about how to choose the right suppliers. </p>
+                <p>First of all, you need to figure out what to look for trading with a LED lights manufacturer & supplier.</p>
                 <ul class="list">
                     <li>
                         <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>What is LED wall light or solar wall light</h2></div>
-                        <p>LED wall light or solar wall light (the solar LED wall light ) is one type of LED lights, which is using LEDs as light source and powered by solar energy. Normally it will be mounted to the wall and provide lighting for people. The core components of LED wall light or solar wall light including LEDs, solar panel, PCB, Li-ion battery etc.</p>
+                        <p>These lights are one type of LED lights, which is using LEDs as light source and powered by solar energy. Normally it will be mounted to the wall and provide lighting for people. The core components of wall light LED and powered by Solar energy includes LEDs, solar panel, PCB, Li-ion battery etc.</p>
                     </li>
                     <div class="img-box">
                         <img src="../../images/insights/blog4-2.jpg"/>
                     </div>
                     <li>
-                        <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>How LED wall light or solar wall light works</h2></div>
-                        <p>The working theory of LED wall light or solar wall light is quite simple. At daytime, the solar panel will get sunlight and charge the battery by transforming the solar energy into electricity. When it is dark, the light sensor which integrated into the solar panel will turn on the LEDs automatically. In the next morning, when it is bright, the LEDs will be off and solar panel restarts to charge. </p>
-                        <p>EchoLumen LED wall light or solar wall light is more functional and intelligent, it is integrated one light infrared sensor to capture human motion and control on/off of the LEDs to save power. </p>
+                        <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>How LED wall-mounted light works?</h2></div>
+                        <p>The working theory of wall light is quite simple. At daytime, the solar panel will get sunlight and charge the battery by transforming the solar energy into electricity. When it is dark, the light sensor which integrated into the solar panel will turn on the LEDs automatically. In the next morning, when it is bright, the LEDs will be off and solar panel restarts to charge. </p>
+                        <p>EchoLumen is more functional and intelligent, it is integrated one light infrared sensor to capture human motion and control on/off of the LEDs to save power. </p>
                         <div class="img-box">
                             <img src="../../images/insights/blog4-3.jpg"/>
                         </div>
-                        <p>After mastering its working theory, you should know the key features of LED wall light or solar wall light.</p>
+                        <p>After mastering its working theory, you should know the key features of wall lights.</p>
                     </li>
                     <li>
-                        <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>Features of EchoLumen LED wall light or solar wall light</h2></div>
+                        <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>Features of EchoLumen Manufactured Wall Mounted Lights</h2></div>
                         <p>
                             <i class="fa fa-angle-double-right"></i>
                             <b>High stability with IP65 LED wall light or solar wall light</b>
                         </p>
-                        <p>EchoLumen LED wall light or solar wall light is designed with high IP rating to be resistant to any weather conditions. Excellent waterproof, dustproof and cold-resistant etc.</p>
+                        <p>EchoLumen wall light is designed with high IP rating to be resistant to any weather conditions. Excellent waterproof, dustproof and cold-resistant etc.</p>
                         <p>
                             <i class="fa fa-angle-double-right"></i>
-                            <b>Wide ranges of designs for option LED wall light or solar wall light</b>
+                            <b>Wide ranges of designs for option with trendy wall lighting options</b>
                         </p>
-                        <p>EchoLumen provides many types of LED wall light or solar wall light for different looks and lighting intensity requirements. More possibilities and more business. </p>
+                        <p>EchoLumen provides many types of lights that have different looks and lighting intensity requirements. More possibilities and more business. </p>
                         <p>
                             <i class="fa fa-angle-double-right"></i>
-                            <b>Excellent reliability LED wall light or solar wall light</b>
+                            <b>Excellent reliability and waterproof</b>
                         </p>
-                        <p>EchoLumen LED wall light or solar wall light using high quality materials to ensure the excellent performance of our LED wall light or solar wall light. Its working hours can reach up to 50000 hours. </p>
+                        <p>Its working hours can reach up to 50000 hours. </p>
                         <p>
                             <i class="fa fa-angle-double-right"></i>
                             <b>Easy installation LED wall light or solar wall light</b>
                         </p>
-                        <p>EchoLumen LED wall light or solar wall light can be installed anywhere where can get the sunlight on the solar panel. The installation is very easy, just fix it to the wall by a few screws. </p>
+                        <p>EchoLumen wall light can be installed anywhere where can get the sunlight on the solar panel. The installation is very easy, just fix it to the wall by a few screws. </p>
                         <div class="img-box">
                             <img src="../../images/insights/blog4-4.jpg"/>
                         </div>
@@ -170,7 +170,7 @@
                     </li>
                     <li>
                         <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>EchoLumen manufacturing ability and services</h2></div>
-                        <p>EchoLumen has strong R&D ability on LED wall light or solar wall light, we constantly launch new design LED wall light or solar wall light for our customers to enrich their products. Our production capacity for LED wall light or solar wall light is about 60K per month, which enable us to take big and urgent projects. Except supplying LED wall light or solar wall light products, we provide logistic services and free consulting service for our customers, which including free market information sharing (market trend and new products predictions etc). All these value-added services help our customers to enhance their sense of the market trend and seize more opportunities. </p>
+                        <p>EchoLumen has strong R&D ability on LED lights, we constantly launch new design various types of wall lights for our customers to enrich their products. Our production capacity for these lights is about 60K per month, which enable us to take big and urgent projects. Except supplying, we provide logistic services and free consulting service for our customers, which including free market information sharing (market trend and new products predictions etc). All these value-added services help our customers to enhance their sense of the market trend and seize more opportunities. </p>
                     </li>
                 </ul>
             </div>

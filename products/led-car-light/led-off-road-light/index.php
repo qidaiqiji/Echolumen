@@ -15,15 +15,35 @@
     <meta name="viewport"
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="description" content="EchoLumen LED off road light and offroad light bar is for Jeep, SUV, ATV, UTV, tractor etc to increase the light intensity. The best LED light pods will be your best choice on LED work light bar products." />
-    <meta name="keywords" content="LED car light, LED off road light, Offroad Light Bar, LED work light bar, LED light pods, Headlight bulb, LED headlight bulb, LED car headlight, LED truck headlight, car interior light, atmosphere light for car" />
-    <title>LED Off Road Light | Offroad Light Bar | LED Work Light Bar & LED Light Pods-EchoLumen</title>
+    <meta name="description" content="EchoLumen LED off road light and offroad light bar is for Jeep, UTV, tractor etc. to increase the light intensity. We are top LED light bar supplier of China & ship all around the world." />
+
+    <title>LED Off Road Light | Offroad Light Bar | LED Light Bar Manufacturer | EchoLumen</title>
     <link rel="stylesheet" href="../../../css/reset.css">
     <link rel="stylesheet" href="../../../css/font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="../../../css/common.css">
     <link rel="stylesheet" href="../../../css/category.css">
     <link rel="icon" href="../../../images/favicon.ico">
     <script src="../../../utils/jquery-3.2.1.min.js"></script>
+    
+  <?php
+  
+    if(isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on')
+$url = "https://";
+else
+$url = "http://";
+// Append the host(domain name, ip) to the URL.
+$url.= $_SERVER['HTTP_HOST'];
+
+// Append the requested resource location to the URL
+$url.= $_SERVER['REQUEST_URI'];
+$canonicalUrl = "";
+$parsedUrl = parse_url($url);
+// var_dump($parsedUrl);
+$canonicalUrl = "https://" . $parsedUrl['host'] .$parsedUrl['path'];
+
+?>
+
+<link rel="canonical" href="<?php echo $canonicalUrl; ?>"/>
 </head>
 
 <body class="page-index">
@@ -31,7 +51,7 @@
         <div class="header">
             <div class="header-inner">
                 <a href="../../../" class="header-logo">
-                    <img src="../../../../images/logo.png" alt="EchoLumen" />
+                    <img src="../../../images/logo.png" alt="EchoLumen" />
                 </a>
                 <div class="header-menu mobile-menu" id="header-menu">
                     <ul class="header-menu-ul">
@@ -108,7 +128,7 @@
                     </ul>
                 </div>
                 <div class="mobile-header" id="mobile-header">
-                    <span class="iconfont">&#xe660;</span>
+                    <span class="fa fa-bars"></span>
                 </div>
             </div>
         </div>
@@ -264,23 +284,13 @@
                 </ul>
                 <div class="blog-content">
                     <h2>Practical guideline for EchoLumen LED off road light</h2>
-                    <p>SUV is a typical vehicle designed for thrilling adventure exploring and favored widely by
-                        adventure lovers around the world. it is equipped with powerful engine and excellent adaptive
-                        ability to all kinds of road conditions. But when it comes to the wild driving at night, the
-                        visibility of original headlight is not enough to ensuring a safe driving. Under such
-                        circumstances, you may need to install some extra LED work light bars to make sure the
-                        visibility is longer and broader.</p>
-                    <p>As a supplementary lighting, LED off road light are adopted to increase the light intensity of
-                        original vehicles to get a better visibility and broader illumination range, which helps a lot
-                        for safe driving especially when driving at night in the wild.</p>
+                    <p>SUV is a typical vehicle designed for thrilling adventure exploring and favored widely by adventure lovers around the world. It is equipped with powerful engine and excellent adaptive ability to all kinds of road conditions. But when it comes to the wild driving at night, the visibility of original headlight is not enough to ensuring a safe driving. Under such circumstances, you may need to install some extra China LED off road light to make sure the visibility is longer and broader. This is the most efficient and brightest light, especially for the heavy vehicles.</p>
+                    <p>As a supplementary lighting, wholesale Offroad light bar is adopted to increase the light intensity of original vehicles to get a better visibility and broader illumination range, which helps a lot for safe driving especially when driving at night in the wild.</p>
                     <div class="square">
                         <img src="../../../images/category/led-off-road-light-1.jpg" />
                     </div>
-                    <p>EchoLumen, as a reputable LED car light manufacturer in China with more than 10 years industry
-                        experience, we have designed a wide variety of LED off road light for most types of vehicles
-                        including off roads, SUV, ATV, UTV, tractor, truck and boat etc. </p>
-                    <p>Here we will share with you what specific featured LED off road light we produce and why
-                        EchoLumen LED off road light is worth you a shot.</p>
+                    <p>EchoLumen, as a reputable LED car light manufacturer in China with more than 10 years industry experience. We have designed a wide variety of China LED light bar for most types of vehicles including off roads, SUV, ATV, UTV, tractor, truck and boat etc. </p>
+                    <p>Here we will share with you what specific featured LED rock off road light we produce and why EchoLumen LED bright vehicle light is worth a shot.</p>
                     <div class="frame">
                         <div class="frame-item">
                             <i class="fa fa-send-o"></i>
@@ -288,93 +298,67 @@
                         </div>
                         <div class="frame-item">
                             <i class="fa fa-send-o"></i>
-                            <span>Chapter 2: Features of EchoLumen LED off road light</span>
+                            <span>Chapter 2: Features of EchoLumen China Offroad Light Bar</span>
                         </div>
                         <div class="frame-item">
                             <i class="fa fa-send-o"></i>
-                            <span>Chapter 3: Why choose EchoLumen LED off road light?</span>
+                            <span>Chapter 3: Why choose EchoLumen LED Vehicle light?</span>
                         </div>
+                        
                     </div>
                     <div class="square">
                         <img src="../../../images/category/led-off-road-light-2.jpg" />
                     </div>
                     <h3>Chapter 1 What is LED off road light?</h3>
-                    <p>LED off road light or LED work light bar refers to the LED light bar which using LEDs as light
-                        source for high lumen brightness output. Working as a supplementary lighting, LED off road light
-                        can be installed at the bumper, front or top roof of SUV to light up the left and right areas
-                        for broader visibility. The spotlight and projector lens of EchoLumen LED off road light can
-                        provide a longer illumination distance than original headlight bulbs.</p>
-                    <p>EchoLumen has comprehensive LED off road light to provide a wide variety of options for our
-                        customers. With wide range of power from 36W to 120W, our LED off road light can meet any
-                        requirements on the light intensity and ensuring an excellent visibility for safe driving.
-                        EchoLumen is committed to be a trusted LED off road light manufacturer and partner to provide
-                        the most cost-effective LED off road light products for our customers and help to grow their
-                        business.</p>
+                    <p>LED work light bar refers to the wholesale Offroad light bar which employ LEDs as light source for high lumen brightness output. Working as a supplementary lighting, LED car light manufacturer can install these bright lights at the bumper, front or top roof of SUV to light up the left and right areas for broader visibility. The spotlight and projector lens of EchoLumen LED off road light supplier provide these lamps with a longer illumination distance than original headlight bulbs.</p>
+                    <p>EchoLumen is a corporate of professional Offroad light bar exporter that provide a wide variety of options for our customers. With wide range of power from 36W to 120W, LED off road rock lamp distributor can meet any requirements on the light intensity and ensuring an excellent visibility for safe driving. EchoLumen is committed to be a trusted LED light bar manufacturer and partner to provide the most cost-effective LED round off road lamp products for our customers and help to grow their business.</p>
                     <div class="square">
                         <img src="../../../images/category/led-off-road-light-3.jpg" />
                     </div>
-                    <h3>Chapter 2 Features of EchoLumen LED off road light</h3>
+                    <h3>Chapter 2 Features of EchoLumen China Offroad Light Bar</h3>
                     <div class="frame-item line">
                         <i class="fa fa-hand-o-right"></i>
-                        <span>Ultra bright brightness LED off road light</span>
+                        <span>Ultra-bright brightness </span>
                     </div>
-                    <p>Equipped advanced top brand LED chips, EchoLumen LED off road light gives out bright and white
-                        ray for clear visibility. EchoLumen LED off road light provides a long irradiation distance and
-                        wide view area, super bright white light to dispel darkness and guard your safe driving.</p>
+                    <p>Equipped advanced top brand LED chips, EchoLumen wholesale LED light bar gives out bright and white ray for clear visibility. EchoLumen LED brightest vehicle light provides a long irradiation distance and wide view area, super bright white light to dispel darkness and guard your safe driving.</p>
                     <div class="frame-item line">
                         <i class="fa fa-hand-o-right"></i>
-                        <span>Excellent heat dissipation and top stability LED off road light</span>
+                        <span>Excellent heat dissipation and top stability </span>
                     </div>
-                    <p>Designed with oversized grooved fins for quick heat elimination, EchoLumen LED off road light has
-                        excellent performance on heat dissipation. The efficient aluminum alloy heat sink maximizes
-                        surface area for optimal cooling. EchoLumen LED off road light has lasting original lighting
-                        performance through years of using, effectively extend the life span over 50,000 hours.</p>
+                    <p>Designed with oversized grooved fins for quick heat elimination, EchoLumen LED off road light has brilliant performance on heat dissipation. The efficient aluminum alloy heat sink maximizes surface area for optimal cooling. EchoLumen Offroad rock lights has lasting original lighting performance through years of using, effectively extend the life span over 50,000 hours.</p>
                     <div class="frame-item line">
                         <i class="fa fa-hand-o-right"></i>
-                        <span>Premium performance and IP68 waterproof LED off road light</span>
+                        <span>Premium performance and IP68 waterproof </span>
                     </div>
-                    <p>Manufactured from high-grade IP68 Waterproof Rated Die-Casting Aluminum, EchoLumen LED off road
-                        light has excellent waterproof, dustproof, rustproof, quake proof and quick cooling performance.
-                        Combined durability and affordability performance, EchoLumen LED off road light is built for the
-                        harshest environments.</p>
+                    <p>Manufactured from high-grade IP68 Waterproof Rated Die-Casting Aluminum, EchoLumen LED light bar supplier provides these efficient lamps that has excellent waterproof, dustproof, rustproof, quake proof and quick cooling performance. Combined durability and affordability performance, EchoLumen LED off road light manufacturer built it for the harshest environments.</p>
                     <div class="square">
                         <img src="../../../images/category/led-off-road-light-4.jpg" />
                     </div>
                     <div class="frame-item line">
                         <i class="fa fa-hand-o-right"></i>
-                        <span> A wide variety of LED off road light for option </span>
+                        <span> A wide variety of LED Brightest off-road rock light for option </span>
                     </div>
-                    <p>As an industry experienced and comprehensive LED off road light manufacturer, EchoLumen offers a
-                        wide range of LED off road lights (from 36W to 120W) for our customers to compare. EchoLumen LED
-                        off road light can satisfy all kinds of requirements on lighting intensity and illumination
-                        distance.</p>
+                    <p>As an industry experienced and comprehensive Offroad light bar exporter, EchoLumen offers a wide range of round off road bulbs (from 36W to 120W) for our customers to compare. EchoLumen LED light bar supplier can satisfy all kinds of requirements on lighting intensity and illumination distance.</p>
                     <div class="frame-item line">
                         <i class="fa fa-hand-o-right"></i>
-                        <span>Adjustable mounting bracket LED off road light</span>
+                        <span>Adjustable mounting bracket </span>
                     </div>
-                    <p>The mounting bracket of our LED off road light can be adjusted about 45 degrees to meet your need
-                        on the light direction. You can freely install the LED off road light on the front bumper, bull
-                        bar, lower bumper opening, front the grill, hood, roof rack and rear step bumper of your cars to
-                        replace the original high/low beam lights, fog lights, tail lights and reverse lights.</p>
+                    <p>The mounting bracket of our wholesale Offroad light bar can be adjusted about 45 degrees to meet your need on the light direction. You can freely install the China LED light bar on the front bumper, bull bar, lower bumper opening, front the grill, hood, roof rack and rear step bumper of your cars to replace the original high/low beam lights, fog lights, tail lights and reverse lights.</p>
                     <div class="frame-item line">
                         <i class="fa fa-hand-o-right"></i>
-                        <span>Wide applications LED off road light</span>
+                        <span>Wide applications </span>
                     </div>
-                    <p>With working voltage of DC 9-32V, EchoLumen LED off road light can be widely used to most of
-                        vehicles (Off-Road, SUV, ATV, UTV, Trucks, Tractor, Marine, Motorcycle, Boat, Heavy Duty Marine
-                        etc.)</p>
+                    <p>With working voltage of DC 9-32V, EchoLumen wholesale LED light bar can be widely used to most of vehicles (Off-Road, SUV, ATV, UTV, Trucks, Tractor, Marine, Motorcycle, Boat, Heavy Duty Marine etc.)</p>
                     <div class="frame-item line">
                         <i class="fa fa-hand-o-right"></i>
-                        <span>The best and most cost-effective LED off road light</span>
+                        <span>The best and most cost-effective LED Car light</span>
                     </div>
-                    <p>EchoLumen LED off road lights have been widely tested by the market and proved to be a reliable
-                        LED off road light solution provider. Our LED off road light is with higher brightness output,
-                        better overall lighting performance and guarantee you the best driving experience in the dark.
+                    <p>EchoLumen LED rock off-road lamps have been widely tested by the market and proved to be a reliable manufacturer and supplier of the vehicle off-road bulbs. Our LED bright rock lights for vehicles renders a higher brightness output, better overall lighting performance and guarantee you the best driving experience in the dark.
                     </p>
                     <div class="square">
                         <img src="../../../images/category/led-off-road-light-5.jpg" />
                     </div>
-                    <h3>Chapter 3 Why choose EchoLumen LED off road light?</h3>>
+                    <h3>Chapter 3 Why choose EchoLumen LED Vehicle light?</h3>>
                     <div class="frame-item line">
                         <i class="fa fa-hand-o-right"></i>
                         <span>Experienced industry experts and strong manufacturing ability</span>
@@ -387,25 +371,17 @@
                         <i class="fa fa-hand-o-right"></i>
                         <span>Excellent production capacity and quality product with stability</span>
                     </div>
-                    <p>The market demand on EchoLumen LED off road light is huge and is growing year by year, our
-                        production capacity on LED off road light is more than 40K each month. With huge Qty mass
-                        productions, the quality and stability of our LED off road light is highly guaranteed. Which in
-                        return cut down the cost sharply and gives benefits to our customers.</p>
+                    <p>The market demand on EchoLumen wholesale Off road light bar is huge and is growing year by year. Our production capacity on these highly efficient LED bright vehicle light is more than 40K each month. With huge Qty mass productions, the quality and stability of our China LED light bar is highly guaranteed. Which in return cut down the cost sharply and gives benefits to our customers.</p>
                     <div class="frame-item line">
                         <i class="fa fa-hand-o-right"></i>
                         <span> Extraordinary performance and assuring warranty policy</span>
                     </div>
-                    <p>EchoLumen LED off road light is with ultra-high brightness output, excellent lighting effect and
-                        fantastic durability, which requires no after sales services. In addition, we provide 2 years
-                        warranty for our LED off road light, for any quality problem within warranty period, EchoLumen
-                        will take care of it by sending our customers new items for free.</p>
+                    <p>EchoLumen LED off road light manufacturer makes these effective lights that renders ultra-high brightness output, excellent lighting effect and fantastic durability, which requires no after sales services. In addition, we provide 2 years warranty for our top-quality LED car light, for any quality problem within warranty period, EchoLumen will take care of it by sending our customers new items for free.</p>
                     <div class="frame-item line">
                         <i class="fa fa-hand-o-right"></i>
                         <span>OEM to customize your own product</span>
                     </div>
-                    <p>The competition on LED off road light is always hot and OEM is good way to avoid the direct
-                        competition. We are happy to work with our customers to customize their own products and help
-                        them grow their business. </p>
+                    <p>The competition on China Offroad light bar is always hot and OEM is good way to avoid the direct competition. We are happy to work with our customers to customize their own products and help them grow their business. </p>
                 </div>
                 <?php include('../../../inc/messageBox.php'); ?>
             </div>
