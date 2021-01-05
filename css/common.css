@@ -399,12 +399,6 @@ textarea{
     font-weight: bold;
     margin-left: 4px;
 }
-
-.menu-item:hover .subMenu {
-    opacity: 1; 
-    visibility: visible; 
-    transform: translateY(0);
-}
 .header.fixed {
     padding-top: 10px;
     padding-bottom: 10px;
@@ -463,7 +457,7 @@ textarea{
 .menu-item:hover .subMenu {
     opacity: 1; 
     visibility: visible; 
-    transform: translateY(0);
+    transform: translateY(-10px);
 }
 .menu-active .menu-link{
     color:#d81621;

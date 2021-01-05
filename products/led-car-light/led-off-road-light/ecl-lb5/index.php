@@ -17,7 +17,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="description" content="EchoLumen D9 headlight bulb is the best LED car headlight for all types of cars for easy replacement and installation. EchoLumen LED headlight bulb will bring you the best visibility and driving performance." />
     <meta name="keywords" content="LED auto lamp, LED auto light, LED car headlight, LED headlight bulb, LED car light, headlight bulb, LED headlight for car" />
-    <title>ECL-D9 LED Headlight Bulb | LED Car Headlight | LED Auto Lamp | LED Headlight for Car | EchoLumen</title>
+    <title>ECL-LB5 LED Headlight Bulb | LED Car Headlight | LED Auto Lamp | LED Headlight for Car | EchoLumen</title>
     <link rel="stylesheet" href="../../../../css/reset.css">
     <link rel="stylesheet" href="../../../../css/font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="../../../../css/common.css">
